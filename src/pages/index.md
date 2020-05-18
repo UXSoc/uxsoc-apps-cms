@@ -310,6 +310,25 @@ departmentsSection:
           * Manages the organization's online presence on social media like the
           Facebook page in which all our content is displayed.
         title: AVP for Content Creation
+      - description: >-
+          The AVP for Coverage focuses on the multimedia documentation and
+          coverage of all the organizations’ events and initiatives not only for
+          archival purposes but also for advertisement, so that we are both
+          well-seen and heard.
+
+
+          Tasks:
+
+
+          * Captures the essence of each event or initiative through photo and
+          video means. 
+
+          * Makes sure all multimedia documentation is organized and made easy
+          to access and view.
+
+          * Manages the organization's online presence on social media like
+          Twitter in which all of our event coverage and live-tweets are done.
+        title: AVP for Coverage
     title: "\U0001F3A8 Marketing"
     type: Associate Vice President Positions
   - description: >-
