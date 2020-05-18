@@ -30,14 +30,12 @@ departmentsSection:
           Are you an avid lover of the basics of design? Do you like helping
           people with their creative ventures? Then this is the job for you!
 
-            
 
           The AVP for Design Training is in charge of enabling members to
           kickstart their UX Design journeys by facilitating and hosting UXDC
           events as well as aiding in the curation of design education materials
           for dissemination to the members.
 
-            
 
           Tasks:
 
@@ -50,7 +48,7 @@ departmentsSection:
           * Aids the VP of UX Design in disseminating UI Resource Kits and other
           Design Education resources
 
-          * Mentors product designers and content strategists
+          * Aids in mentoring product designers and content strategists
         title: AVP for Design Training
       - description: >-
           **The Confidant**
@@ -59,7 +57,6 @@ departmentsSection:
           Are you an experienced designer looking to share your knowledge? Then
           this job is for you!
 
-            
 
           The AVP for Design Mentorship is in charge of mentoring the officers
           by being their confidant in client engagements. Members will look to
@@ -67,7 +64,6 @@ departmentsSection:
           accompanying them in design sessions, thereby driving their growth
           beyond the basics of UX Design.
 
-            
 
           Tasks:
 
@@ -82,7 +78,7 @@ departmentsSection:
 
           * Aids in curating content for design education
 
-          * Aids in mentoring product designers and content strategists
+          * Mentors product designers and content strategists
         title: AVP for Design Mentorship
       - description: >-
           **The People Officer**
