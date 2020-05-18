@@ -267,38 +267,50 @@ departmentsSection:
     title: "\U0001F917 Human Resources"
     type: Associate Vice President Positions
   - description: >-
-      We are the core of UXSoc that advocates the practice of user experience.
-      We handle all client projects in and outside of Ateneo. As officers of
-      this department, you will focus on making products to be both functional
-      and impactful for our clients.
+      At the Marketing department, we nurture the identity of the UXSoc and
+      ensure that the organization is well represented on all platforms through
+      our campaign strategies for content and promotional materials. We make
+      sure that event and initiative collaterals are aesthetically pleasing and
+      informative at the same time.
     positions:
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+      - description: >-
+          The AVP for Branding focuses on strengthening the brand and perception
+          visualization of the organization as well as its events and clients.
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+          Tasks:
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
+          * Creates and designs appealing posters and visual collaterals to grab
+          the attention of audiences.
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-    title: Marketing
+          * Manages campaigns and multimedia to be posted across print and
+          online platforms to ensure that the organization is well represented
+          and marketed. 
+
+          * Manages the organization’s online presence on social media like
+          Instagram in which we showcase our portfolio.
+        title: AVP for Branding
+      - description: >-
+          The AVP for Content Creation focuses on producing engaging content and
+          marketing copies in order to advertise the organization as well as its
+          events and initiatives.
+
+
+          Tasks:
+
+
+          * Writes and publishes various types of pieces for the organizations’
+          social media posts in order to clearly communicate the goal of the
+          event or initiative they are writing for. 
+
+          * Edits and proofreads written pieces before publication to avoid
+          misrepresentation. 
+
+          * Manages the organization's online presence on social media like the
+          Facebook page in which all our content is displayed.
+        title: AVP for Content Creation
+    title: "\U0001F3A8 Marketing"
     type: Associate Vice President Positions
   - description: >-
       We are the core of UXSoc that advocates the practice of user experience.
