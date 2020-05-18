@@ -18,9 +18,9 @@ export const HomePageTemplate = ({ heroSection, departmentsSection }) => (
 
 const HomePage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-  const { seo, headerSection, heroSection, departmentsSection } = frontmatter;
+  const { slug, seo, headerSection, heroSection, departmentsSection } = frontmatter;
   return (
-    <Layout seo={seo} header={headerSection}>
+    <Layout slug={slug} seo={seo} header={headerSection}>
       <HomePageTemplate {...{ heroSection, departmentsSection }} />
     </Layout>
   )

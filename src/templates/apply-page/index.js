@@ -5,19 +5,19 @@ import { graphql } from "gatsby"
 
 
 export const ApplyPageTemplate = ({ link }) => (
-    <Fragment>
-        <iframe className="airtable-embed" src={link} frameborder="0" onmousewheel="" width="100%" style={{ background: "transparent", border: "1px solid #ccc", overflow: "hidden", height: "100vh" }} />
-    </Fragment >
+  <Fragment>
+    <iframe className="airtable-embed" title="airtable" src={link} frameborder="0" onmousewheel="" width="100%" style={{ background: "transparent", border: "1px solid #ccc", overflow: "hidden", height: "100vh" }} />
+  </Fragment >
 )
 
 const ApplyPage = ({ data }) => {
-    const { frontmatter } = data.markdownRemark
-    const { seo, headerSection, link } = frontmatter;
-    return (
-        <Layout seo={seo} header={headerSection}>
-            <ApplyPageTemplate {...{ link }} />
-        </Layout>
-    )
+  const { frontmatter } = data.markdownRemark
+  const { slug, seo, headerSection, link } = frontmatter;
+  return (
+    <Layout slug={slug} seo={seo} header={headerSection}>
+      <ApplyPageTemplate {...{ link }} />
+    </Layout>
+  )
 }
 
 export default ApplyPage

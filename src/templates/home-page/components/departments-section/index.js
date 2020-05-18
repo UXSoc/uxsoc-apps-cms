@@ -8,6 +8,19 @@ const DepartmentsSection = ({ departmentsSection }) => {
     const forceUpdate = useCallback(() => updateState({}), []);
     const [state, setState] = useState(false);
 
+
+    const renderDepartment = () => {
+        return departmentsSection.map((department, index) => {
+            if (state) {
+                forceUpdate();
+                setState(false);
+            }
+            if (tab === index) {
+                return <Department department={department} key={index} />
+            }
+        })
+    }
+
     return (
         <div>
             <div className="dept-tabs-flow">
@@ -24,15 +37,7 @@ const DepartmentsSection = ({ departmentsSection }) => {
                 </div>
             </div>
             {
-                departmentsSection.map((department, index) => {
-                    if (state) {
-                        forceUpdate();
-                        setState(false);
-                    }
-                    if (tab === index) {
-                        return <Department department={department} key={index} />
-                    }
-                })
+                renderDepartment()
             }
         </div >
     )

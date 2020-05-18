@@ -7,7 +7,7 @@ seo:
   siteKeywords: Test Keywords
   siteTitle: Apply
 headerSection:
-  title: "AVP Apps"
+  title: AVP Apps
   buttonVisible: true
 link: https://airtable.com/embed/shrwjywYNVXLfNttD?backgroundColor=pink
 ---

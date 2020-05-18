@@ -7,7 +7,7 @@ seo:
   siteKeywords: Test Keywords
   siteTitle: Home
 headerSection:
-  title: "AVP Primer"
+  title: AVP Primer
   buttonVisible: true
 heroSection:
   title: "OFFICER APPLICATION PRIMER"

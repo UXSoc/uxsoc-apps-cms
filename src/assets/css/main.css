@@ -18,6 +18,11 @@ p {
     margin: 0;
 }
 
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
 /* font */
 @font-face {
     font-family: Proxima Nova;
