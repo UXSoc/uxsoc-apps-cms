@@ -15,7 +15,7 @@ init()
 
 // CMS.registerWidget("wysiwyg", WysiwygComponent, [WysiwygPreviewComponent])
 
-CMS.registerPreviewTemplate("home", props => (
+CMS.registerPreviewTemplate("index", props => (
   <CSSInjector>
     <HomePagePreview {...props} />
   </CSSInjector>
