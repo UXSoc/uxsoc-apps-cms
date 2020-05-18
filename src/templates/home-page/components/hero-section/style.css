@@ -1,0 +1,14 @@
+.main__spiel {
+    color: #828282;
+    font-family: proxima nova;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    width: 70%;
+    letter-spacing: 0.05em;
+    margin: auto;
+}
+
+.main__spiel strong {
+    color: #8400c7;
+}

@@ -1,0 +1,43 @@
+.header {
+  background-color: #8400c7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 60px;
+  border-radius: 0px 0px 3px 3px;
+}
+
+.header__logo-container {
+  width: 40px;
+  margin-right: 16px;
+}
+
+.header__logo-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.header__item {
+  font-size: 18px;
+  letter-spacing: 0.05em;
+  color: white;
+  font-family: Proxima Nova;
+  font-weight: bold;
+}
+
+.header__apply-link {
+  text-transform: uppercase;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Proxima Nova;
+  letter-spacing: 0.05em;
+  border: 2px solid white;
+  border-radius: 4px;
+  padding: 7px 12px;
+}
+
+.header__logo-wrapper {
+  display: flex;
+  align-items: center;
+}
