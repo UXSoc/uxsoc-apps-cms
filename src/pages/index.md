@@ -84,6 +84,67 @@ departmentsSection:
 
           * Aids in mentoring product designers and content strategists
         title: AVP for Design Mentorship
+      - description: >-
+          **The People Officer**
+
+
+          If you love interacting with new people and you're highly organized,
+          then this role is for you!
+
+            
+
+          The AVP for Client Relations is in charge of ensuring continuous
+          positive experiences for the various clients of UXSociety. You’ll
+          manage the interactions and potential clients of the  organization,
+          together with attending meetings and handling the administrative
+          duties for client projects.
+
+            
+
+          Tasks:
+
+
+          * Leads the Referral Program initiative which ensures that UXSoc
+          reaches out to potential clients and that individuals with successful
+          referrals get compensated
+
+          * Responsible for managing the CRM tracker and updating the EB with
+          the status of potential clients
+
+          * In charge  of crafting MOAs for clients
+
+          * In charge of handling documentation for client-based payments and
+          reimbursements along with the Finance department
+
+          * Assists the VPs of UXDC-UXDev in meetings with clients
+        title: AVP for Client Relations
+      - description: >-
+          **The Junior Product Manager**
+
+
+          If you've always been curious about what it's like to be behind the
+          scenes in a project, then this is perfect for you! 
+
+
+          The AVP for Product Management is in charge of ensuring a
+          smooth-sailing process from project deployment to project turnover.
+          You’ll be handling the logistics of numerous UXDC-UXDev meetings while
+          working alongside the team on various projects. You’ll also get the
+          chance to collaborate on content for design education!
+
+
+          Tasks:
+
+
+          * In charge of scheduling and organizing meetings as well as handling
+          logistics for events
+
+          * Spearhead the documentation process of projects from start to finish
+          alongside UXSoc and its clients in User Research and Design Sessions
+
+          * Create content for design education in collaboration with the AVP
+          for Design Mentorship
+        title: AVP for Product Management
     title: "\U0001F4DD Design & Consultancy"
     type: Associate Vice President Positions
   - description: >-
@@ -118,7 +179,7 @@ departmentsSection:
           - **Visual Designer: ** Focuses on the “look” of the product and
           creates wireframes, mockups, MVPs, and design elements
         title: Product Designer
-    title: Engineering
+    title: "\U0001F4BB Engineering"
     type: Associate Vice President Positions
   - description: >-
       We are the core of UXSoc that advocates the practice of user experience.
