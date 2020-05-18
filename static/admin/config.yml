@@ -131,17 +131,6 @@ collections:
                 name: buttonVisible
                 widget: boolean
                 default: true
-          - label: "Hero Section"
-            name: heroSection
-            widget: object
-            fields:
-              - label: "Title"
-                name: title
-                widget: string
-              - label: "Description"
-                name: description
-                widget: markdown
-                buttons: ["bold", "italic"]
-          - label: "Aritable Embed Link"
+          - label: "Airtable Embed Link"
             name: link
             widget: string
