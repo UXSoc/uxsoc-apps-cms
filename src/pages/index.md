@@ -50,19 +50,36 @@ departmentsSection:
 
           * Mentors product designers and content strategists
         title: AVP for Design Training
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+      - description: >-
+          **The Confidant**
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
+          Are you an experienced designer looking to share your knowledge? Then
+          this job is for you!
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
+
+          The AVP for Design Mentorship is in charge of mentoring the officers
+          by being their confidant in client engagements. Members will look to
+          you as a design coach as you will be giving them advice and
+          accompanying them in design sessions, thereby driving their growth
+          beyond the basics of UX Design.
+
+
+          Tasks include:
+
+
+          * Accompanies product designers and content strategists in design
+          sessions for client projects
+
+          * Schedules consultations with product designers during projects
+
+          * Be open to answer UX Design questions from members of the UXDC
+          department
+
+          * Aids in curating content for design education
+
+          * Aids in mentoring product designers and content strategists
+        title: AVP for Design Mentorship
     title: Design & Consultancy
     type: Associate Vice President Positions
   - description: >-
