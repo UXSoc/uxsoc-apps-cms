@@ -68,19 +68,19 @@ module.exports = {
         trackingId: `UA-40088075-7`,
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-manifest`,
-    //   options: {
-    //     name: `Gatsby Starter Blog`,
-    //     short_name: `GatsbyJS`,
-    //     start_url: `/`,
-    //     background_color: `#ffffff`,
-    //     theme_color: `#663399`,
-    //     display: `minimal-ui`,
-    //     // edit below
-    //     icon: `content/assets/gatsby-icon.png`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `User Experience Society Apps`,
+        short_name: `UXSoc Apps`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#0885c3`,
+        display: `minimal-ui`,
+        // edit below
+        icon: `src/assets/images/logo.png`,
+      },
+    },
     "gatsby-plugin-netlify"
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline

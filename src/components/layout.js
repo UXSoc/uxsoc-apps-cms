@@ -12,14 +12,13 @@ import Footer from './Footer';
 import PropTypes from "prop-types"
 
 const Layout = ({ children, seo, header, slug }) => {
-  const { siteTitle, siteDescription, siteKeywords } = seo;
+  const { siteTitle, siteDescription } = seo;
   return (
     <>
       <Navbar header={header} slug={slug} />
       <SEO
         title={siteTitle}
         description={siteDescription}
-        keywords={siteKeywords}
       />
       {children}
       <Footer />

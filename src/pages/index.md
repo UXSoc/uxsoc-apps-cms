@@ -4,8 +4,8 @@ slug: /
 seo:
   siteDescription: >-
     UXSoc's Offical Application Platform for Executive Board, Associate Vice President and Officer positions. Apply now for a position at UX Society!
-  siteKeywords: Test Keywords
   siteTitle: Home
+  siteImage: static/images/uploads/uxapps.jpg
 headerSection:
   title: AVP Primer
   buttonVisible: true

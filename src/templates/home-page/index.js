@@ -36,7 +36,6 @@ export const HomePageQuery = graphql`
         seo {
           siteTitle
           siteDescription
-          siteKeywords
         }
         headerSection {
           title

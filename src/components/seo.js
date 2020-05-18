@@ -8,9 +8,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
+import image from '../assets/images/uxapps.jpg'
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, title, keywords }) {
+function SEO({ description, lang, meta, title }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -27,7 +28,6 @@ function SEO({ description, lang, meta, title, keywords }) {
 
   const metaDescription = description || site.siteMetadata.description
   const metaTitle = title || ""
-  const metaKeywords = keywords || ""
 
   return (
     <Helmet
@@ -70,9 +70,13 @@ function SEO({ description, lang, meta, title, keywords }) {
           content: metaDescription,
         },
         {
-          name: `keywords`,
-          content: metaKeywords,
+          name: `og:url`,
+          content: `https://apps.uxsociety.org`
         },
+        {
+          name: `og:image`,
+          content: image,
+        }
       ].concat(meta)}
     />
   )
@@ -82,7 +86,6 @@ SEO.defaultProps = {
   lang: `en`,
   meta: [],
   description: ``,
-  keywords: ``,
 }
 
 SEO.propTypes = {
@@ -90,7 +93,6 @@ SEO.propTypes = {
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
-  keywords: PropTypes.string.isRequired,
 }
 
 export default SEO
