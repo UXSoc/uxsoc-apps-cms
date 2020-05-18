@@ -82,7 +82,7 @@ departmentsSection:
 
           * Aids in mentoring product designers and content strategists
         title: AVP for Design Mentorship
-    title: Design & Consultancy
+    title: "\U0001F4DD Design & Consultancy"
     type: Associate Vice President Positions
   - description: >-
       We are the core of UXSoc that advocates the practice of user experience.
