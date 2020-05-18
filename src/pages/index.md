@@ -148,37 +148,63 @@ departmentsSection:
     title: "\U0001F4DD Design & Consultancy"
     type: Associate Vice President Positions
   - description: >-
-      We are the core of UXSoc that advocates the practice of user experience.
-      We handle all client projects in and outside of Ateneo. As officers of
-      this department, you will focus on making products to be both functional
-      and impactful for our clients.
+      Bringing the designs to life, we, engineers from the Engineering
+      department, focus on developing the website projects of UXSoc and its
+      clients both in Front-End and Back-End Engineering. The department has a
+      professional and tight-knit environment that enables the members of UXSoc
+      to expand their knowledge and appreciate the beauty of impactful web
+      development for well-made designs.
     positions:
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+      - description: >-
+          **The Visual Coding Mage**
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+          The AVP for Front-End Engineering shall be the  officer-in-charge for
+          all front-end development matters inside UXSociety.
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
+          Tasks:
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
+
+          * Assists the VP of Engineering in creating and finalizing the front
+          end aspect of the Dev Manual/Engineering Wiki
+
+          * Propose and spearhead front-end related learning opportunities like
+          modules for front-end development
+
+          * Delegate front end officers and accompany them in dev sessions for
+          engineering projects
+
+          * Accompany the VP of Engineering in Dev turnovers and QA review 
+          sessions
+
+          * Create and distribute project evaluations
+        title: AVP for Front-End Engineering
+      - description: >-
+          **The Shadow Code Architect**
+
+
+          The AVP for Front-End Engineering shall be the  officer-in-charge for
+          all back-end development matters inside UXSociety.
+
+
+          Tasks:
+
+
+          * Assists the VP of Engineering in creating and finalizing the back
+          end aspect of the Dev Manual/Engineering Wiki
+
+          * Propose and spearhead back-end related learning opportunities like
+          modules for front-end development
+
+          * Delegate front end officers and accompany them in dev sessions for
+          engineering projects
+
+          * Accompany the VP of Engineering in Dev turnovers and QA review 
+          sessions
+
+          * Create and distribute project evaluations
+        title: AVP for Back-End Engineering
     title: "\U0001F4BB Engineering"
     type: Associate Vice President Positions
   - description: >-
