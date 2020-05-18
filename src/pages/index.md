@@ -371,38 +371,64 @@ departmentsSection:
     title: "\U0001F389 Events"
     type: Associate Vice President Positions
   - description: >-
-      We are the core of UXSoc that advocates the practice of user experience.
-      We handle all client projects in and outside of Ateneo. As officers of
-      this department, you will focus on making products to be both functional
-      and impactful for our clients.
+      Money makes the world go round. We enable UXSociety activities to happen
+      as we allocate and maximize the organization’s funds to continue
+      UXSociety’s mission of evangelizing user experience. Being advocates of
+      financial literacy, we experience the  real-life financial processes of a
+      design firm as we are compensated for our client work.
     positions:
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+      - description: >-
+          **The Money Maker**
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+          The AVP for Fundraising is in charge of working on fundraisers in
+          effort to raise revenue for the organization, he/ she is also in
+          charge for all  fundraising matters inside the organization.
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
+          Tasks:
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-    title: Finance
+
+          * Aids the VP of Finance with coming up with fundraising ideas 
+
+          * Aids the VP of Finance with the implementation of fundraisers
+
+          * In charge of communication with suppliers
+
+          * In charge of the constant improvement and innovation of UXSoc
+          merchandise, and broadening of the product line 
+
+          * In charge of merchandise production, ensuring that the merchandise
+          produced is of top quality and appeals to the organization's identity
+          and members
+        title: AVP for Fundraising
+      - description: >-
+          **The Dealer**
+
+
+          The AVP for Fund Management is in charge of ensuring that the
+          Organization is in great financial health, as well as constantly
+          innovating on how the funds of the organization can be effectively
+          managed. 
+
+
+          Tasks:
+
+
+          * Aids the VP of Finance with the handling and allocation funds
+
+          * Aids the VP of Finance with the tracking of funds within the
+          organization
+
+          * In charge of documenting financial transactions of the
+          organization. 
+
+          * Aids the VP with handling the organizations income and expenses
+
+          * Aid in the curation of possible innovations for the organizations
+          fund management systems
+        title: AVP for Fund Management
+    title: "\U0001F4B8 Finance"
     type: Associate Vice President Positions
   - description: >-
       We are the core of UXSoc that advocates the practice of user experience.
