@@ -87,15 +87,13 @@ departmentsSection:
           If you love interacting with new people and you're highly organized,
           then this role is for you!
 
-            
 
           The AVP for Client Relations is in charge of ensuring continuous
           positive experiences for the various clients of UXSociety. You’ll
-          manage the interactions and potential clients of the  organization,
-          together with attending meetings and handling the administrative
-          duties for client projects.
+          manage the potential clients of the  organization, together with
+          attending meetings and handling the administrative duties for client
+          projects.
 
-            
 
           Tasks:
 
@@ -104,7 +102,7 @@ departmentsSection:
           reaches out to potential clients and that individuals with successful
           referrals get compensated
 
-          * Responsible for managing the CRM tracker and updating the EB with
+          * Responsible for managing the client tracker and updating the EB with
           the status of potential clients
 
           * In charge  of crafting MOAs for clients
