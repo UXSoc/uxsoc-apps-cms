@@ -431,38 +431,71 @@ departmentsSection:
     title: "\U0001F4B8 Finance"
     type: Associate Vice President Positions
   - description: >-
-      We are the core of UXSoc that advocates the practice of user experience.
-      We handle all client projects in and outside of Ateneo. As officers of
-      this department, you will focus on making products to be both functional
-      and impactful for our clients.
+      We, in the Externals department, are the faces of UXSoc who interact with
+      organizations and companies inside and outside of Ateneo. We create
+      connections through partnerships and sponsorships, and serve as the
+      bridgeway for students to network with people in the industry.
     positions:
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+      - description: >-
+          **The Social Butterfly**
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+          The AVP for Partner Acquisition is in charge of contacting and
+          acquiring new partners and sponsors for the org. The AVP is also in
+          charge of preliminary negotiations as well as crafting letters,
+          proposals, and contracts.
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-    title: Externals
+
+          It is highly recommended that he/she have a keen nose for bluffs. The
+          AVP must be able to stir a conversation in their favor and market the
+          organization to potential partners.
+
+
+          Tasks:
+
+
+          * Contacts potential partners through email and social media
+
+          * Aids in creating partnership proposals for the orgs various events
+          and initiatives
+
+          * Be the point person in correspondence with various partners
+
+          * Conduct negotiations with potential partners
+        title: AVP for Partner Acquisition
+      - description: >-
+          **The Tracker**
+
+
+          The AVP for Partner Relations is in charge of keeping track of the
+          various agreements and responsibilities that need to be upheld by both
+          the org and the partner. The AVP must be detail-oriented and
+          persistent in making sure that each point of the Memorandum of
+          Agreement is met within the time slot allotted.
+
+
+
+
+          He/she is also in charge of coordinating with the various departments
+          in the completion of said responsibilities and agreements.
+
+
+          Tasks:
+
+
+          * Creates and maintains a partnership tracker and database
+
+          * Coordinates with various officers and departments to make sure that
+          the org upholds our end of the MOA.
+
+          * Runs Papers - Make sure that all necessary paperwork is filled out
+          correctly and sent to the necessary individuals.
+
+          * Keeps record of all contracts.
+        title: AVP for Partner Relations
+    title: "\U0001F91D Externals"
     type: Associate Vice President Positions
 ---
 
