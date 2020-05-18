@@ -139,7 +139,7 @@ departmentsSection:
           * Create content for design education in collaboration with the AVP
           for Design Mentorship
         title: AVP for Product Management
-    title: "\U0001F4DD Design & Consultancy"
+    title: "\U0001F3A8 Design & Consultancy"
     type: Associate Vice President Positions
   - description: >-
       Bringing the designs to life, we, engineers from the Engineering
@@ -323,7 +323,7 @@ departmentsSection:
           * Manages the organization's online presence on social media like
           Twitter in which all of our event coverage and live-tweets are done.
         title: AVP for Coverage
-    title: "\U0001F3A8 Marketing"
+    title: "\U0001F4DD Marketing"
     type: Associate Vice President Positions
   - description: >-
       Being a designer does not happen overnight. We, in the Events department,
