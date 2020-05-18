@@ -208,38 +208,63 @@ departmentsSection:
     title: "\U0001F4BB Engineering"
     type: Associate Vice President Positions
   - description: >-
-      We are the core of UXSoc that advocates the practice of user experience.
-      We handle all client projects in and outside of Ateneo. As officers of
-      this department, you will focus on making products to be both functional
-      and impactful for our clients.
+      Behind the success of every organization is a solid foundation of trust
+      and sense of community. UXSociety cares for its own members’ experience.
+      We, in the department of Human Resources, are the Support Unit of
+      UXSociety: organizing projects and initiatives that create an environment
+      where the members can explore, connect, and grow as design leaders. 
     positions:
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+      - description: >-
+          **The Manager**
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+          The AVP for Internal Management is in charge of working alongside the
+          VP of Human Resources in managing the manpower within the
+          organization.
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
+          Tasks:
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-    title: Human Resources
+
+          * Assigns and manages officer allocation to projects to prevent
+          burnout
+
+          * Ensures that members’ happiness and morale are boosted
+
+          * Manages all internal affairs of the UXSoc such as the retention
+          system, officer allocation, conflict resolution, member research, and
+          wellbeing evaluation
+
+          * Mentors and oversees the officers under Internal Management
+
+          * Aids the VP of HR in planning, executing, and evaluating HR projects
+          and initiatives
+        title: AVP for Internal Management
+      - description: >-
+          **The Liaison**
+
+
+          The AVP for Community Engagement is in charge of working alongside the
+          VP of Human Resources in engaging with the members of the
+          organization.
+
+
+          Tasks:
+
+
+          * Spearhead the creating, planning and, executing of initiatives that
+          would provide academic support and talent formation for members such
+          as soft skills workshops and bonding activities
+
+          * Conducts end-of-sem evaluation of the members’ UXSoc experience
+
+          * Aids the VP for HR in relaying information and self-growth
+          initiatives through group posts and message blasts
+
+          * Aids the VP of HR in planning, executing, and evaluating HR projects
+          and initiatives
+        title: AVP for Community Engagement
+    title: "\U0001F917 Human Resources"
     type: Associate Vice President Positions
   - description: >-
       We are the core of UXSoc that advocates the practice of user experience.
