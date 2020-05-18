@@ -39,7 +39,7 @@ departmentsSection:
 
 
 
-          Tasks include:
+          Tasks:
 
 
           * Plans events with the VP of UX Design
@@ -67,7 +67,7 @@ departmentsSection:
           beyond the basics of UX Design.
 
 
-          Tasks include:
+          Tasks:
 
 
           * Accompanies product designers and content strategists in design
