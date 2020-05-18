@@ -313,38 +313,62 @@ departmentsSection:
     title: "\U0001F3A8 Marketing"
     type: Associate Vice President Positions
   - description: >-
-      We are the core of UXSoc that advocates the practice of user experience.
-      We handle all client projects in and outside of Ateneo. As officers of
-      this department, you will focus on making products to be both functional
-      and impactful for our clients.
+      Being a designer does not happen overnight. We, in the Events department,
+      design event experiences that nurture the growth of the members of
+      UXSociety. Our informative and meaningful events add value to the
+      development of members as design leaders and developers.
     positions:
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+      - description: >-
+          **The Captain**
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-      - description: >
-          If you’re interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specializations in this
-          position are:
+          The AVP for Flagships is in charge of leading the organization’s
+          annual events including UX & Chill, UX Crawl, UX University, and UX
+          Masters.
 
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
+          Tasks:
 
-          - **Visual Designer: ** Focuses on the “look” of the product and
-          creates wireframes, mockups, MVPs, and design elements
-        title: Product Designer
-    title: Events
+
+          * Documents, summarizes and analyzes flagship event evaluation
+
+          * Selects all of the flagship events’ appropriate dates/times
+
+          * Plans the logistics of flagship events
+
+          * Gathers details of publication materials
+
+          * Schedules the release of publication materials
+        title: AVP for Flagships
+      - description: >-
+          **The Coordinator**
+
+
+          The AVP for Minor Events is in charge of managing events and
+          initiatives including workshops, seminars, and training sessions which
+          involve other departments.
+
+
+          Tasks:
+
+
+          * Documents, summarizes, and analyzes workshops, seminars, and
+          trainings evaluation
+
+          * Creates a calendar (with appropriate dates/times) of the workshops,
+          seminars, and trainings of each department 
+
+          * Plans the logistics of all workshops, seminars, and training
+          sessions
+
+          * Communicates with other departments regarding schedules of minor
+          events
+
+          * Gathers details of publication materials
+
+          * Schedules the release of publication materials
+        title: AVP for Minor Events
+    title: "\U0001F389 Events"
     type: Associate Vice President Positions
   - description: >-
       We are the core of UXSoc that advocates the practice of user experience.
