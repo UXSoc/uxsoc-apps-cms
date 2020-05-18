@@ -9,18 +9,18 @@ const getHeroSection = ({ entry, getAsset }) => {
   }
 }
 
-const getDepartmentsSection = ({ entry, getAsset }) => {
-  const tmpDepartments = entry.getIn(["data", "departmentsSection"])
-  const departmentsSection = tmpDepartments ? tmpDepartments.toJS() : []
-  return departmentsSection;
-}
+// const getDepartmentsSection = ({ entry, getAsset }) => {
+//   const tmpDepartments = entry.getIn(["data", "departmentsSection"])
+//   const departmentsSection = tmpDepartments ? tmpDepartments.toJS() : []
+//   return departmentsSection;
+// }
 
 const HomePagePreview = ({ entry, getAsset }) => {
 
   return (
     <HomePageTemplate
       heroSection={getHeroSection({ entry, getAsset })}
-      departmentsSection={getDepartmentsSection({ entry, getAsset })}
+    // departmentsSection={getDepartmentsSection({ entry, getAsset })}
     />
   )
 }
