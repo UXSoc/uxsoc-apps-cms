@@ -9,6 +9,7 @@ const Navbar = ({ slug, header }) => (
       <figure className="header__logo-container">
         <Link to="/"><img src={logo} alt="logo" className="header__logo-image" /></Link>
       </figure>
+      {console.log(header.title)}
       <h1 className="header__item">{header.title}</h1>
     </div>
     {
