@@ -268,6 +268,9 @@ departmentsSection:
       informative at the same time.
     positions:
       - description: >-
+          **The Virtuoso**
+
+
           The AVP for Branding focuses on strengthening the brand and perception
           visualization of the organization as well as its events and clients.
 
@@ -286,6 +289,9 @@ departmentsSection:
           Instagram in which we showcase our portfolio.
         title: AVP for Branding
       - description: >-
+          **The Advocate**
+
+
           The AVP for Content Creation focuses on producing engaging content and
           marketing copies in order to advertise the organization as well as its
           events and initiatives.
@@ -305,6 +311,9 @@ departmentsSection:
           Facebook page in which all our content is displayed.
         title: AVP for Content Creation
       - description: >-
+          **The Curator**
+
+
           The AVP for Coverage focuses on the multimedia documentation and
           coverage of all the organizations’ events and initiatives not only for
           archival purposes but also for advertisement, so that we are both
