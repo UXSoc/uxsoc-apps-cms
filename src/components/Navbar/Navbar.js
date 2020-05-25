@@ -9,11 +9,10 @@ const Navbar = ({ slug, header }) => (
       <figure className="header__logo-container">
         <Link to="/"><img src={logo} alt="logo" className="header__logo-image" /></Link>
       </figure>
-      {console.log(header.title)}
       <h1 className="header__item">{header.title}</h1>
     </div>
     {
-      header.buttonVisible ? <Link to="/apply"><div className="header__apply-link">{slug === "/" ? "Apply" : "Primer"}</div></Link> : null
+      header.buttonVisible ? <Link to={slug === "/" ? "/apply" : "/"}><div className="header__apply-link">{slug === "/" ? "Apply" : "Primer"}</div></Link> : null
     }
   </div>
 )
