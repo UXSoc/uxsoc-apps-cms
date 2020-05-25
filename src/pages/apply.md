@@ -10,11 +10,9 @@ headerSection:
   buttonVisible: true
   title: AVP Apps
 link: >-
-  <script
-  src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe
-  class="airtable-embed airtable-dynamic-height"
-  src="https://airtable.com/embed/shr15fwJSlq9hewHI?backgroundColor=purple"
-  frameborder="0" onmousewheel="" width="100%" height="5410" style="background:
+  <iframe class="airtable-embed"
+  src="https://airtable.com/embed/shrwjywYNVXLfNttD?backgroundColor=pink"
+  frameborder="0" onmousewheel="" width="100%" height="533" style="background:
   transparent; border: 1px solid #ccc;"></iframe>
 ---
 
