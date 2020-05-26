@@ -3,8 +3,9 @@ templateKey: home-page
 slug: /
 seo:
   siteDescription: >-
-    UXSoc's Offical Application Platform for Executive Board, Associate Vice
-    President and Officer positions. Apply now for a position at UX Society!
+    This is the official application platform of User Experience Society for
+    Executive Board, Associate Vice President and Officer positions. Apply now
+    for a position in UX Society!
   siteTitle: Home
 headerSection:
   buttonVisible: true
