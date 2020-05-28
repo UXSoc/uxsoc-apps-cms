@@ -12,9 +12,9 @@ export const ApplyPageTemplate = ({ link }) => (
 
 const ApplyPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-  const { slug, seo, headerSection, link } = frontmatter;
+  const { slug, seo, primaryColor, footerColor, headerSection, link } = frontmatter;
   return (
-    <Layout slug={slug} seo={seo} header={headerSection}>
+    <Layout slug={slug} seo={seo} header={headerSection} header={headerSection} primary={primaryColor} footerColor={footerColor}>
       <ApplyPageTemplate {...{ link }} />
     </Layout>
   )
@@ -27,6 +27,8 @@ export const ApplyPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         slug
+        primaryColor
+        footerColor
         seo {
           siteTitle
           siteDescription

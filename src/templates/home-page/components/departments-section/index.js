@@ -1,8 +1,8 @@
 import React, { useState, useCallback } from 'react';
 import Department from '../../../../components/Department'
-import './style.css';
+import { TabContainer, DeptTabs, Button } from './styles'
 
-const DepartmentsSection = ({ departmentsSection }) => {
+const DepartmentsSection = ({ departmentsSection, primaryColor, secondaryColor, footerColor, defaultColor }) => {
     const [tab, setTab] = useState(0);
     const [, updateState] = useState();
     const forceUpdate = useCallback(() => updateState({}), []);
@@ -16,26 +16,33 @@ const DepartmentsSection = ({ departmentsSection }) => {
                 setState(false);
             }
             if (tab === index) {
-                return <Department department={department} key={index} />
+                return <Department
+                    department={department}
+                    key={index}
+                    defaultColor={defaultColor}
+                    secondaryColor={secondaryColor}
+                    footerColor={footerColor}
+                    primaryColor={primaryColor} />
             }
         })
     }
 
     return (
         <div>
-            <div className="dept-tabs-flow">
-                <div className="dept-tabs">
+            <TabContainer>
+                <DeptTabs primary={primaryColor}>
                     {
-                        departmentsSection.map((department, index) => <button
+                        departmentsSection.map((department, index) => <Button
+                            primary={primaryColor}
                             key={index}
-                            className={tab === index ? "dept-tablinks active" : "dept-tablinks"}
+                            className={tab === index ? "active" : ""}
                             onClick={() => {
                                 setState(true)
                                 setTab(index)
-                            }}>{department.title}</button>)
+                            }}>{department.title}</Button>)
                     }
-                </div>
-            </div>
+                </DeptTabs>
+            </TabContainer>
             {
                 renderDepartment()
             }

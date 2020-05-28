@@ -2,18 +2,18 @@ import React from 'react'
 import remark from 'remark';
 import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
-import './style.css'
+import { Title, DeptPosition } from './styles'
 
-const Position = ({ title, description }) => (
-  <div className="department-positions">
-    <h4>{title}</h4>
+const Position = ({ title, description, primary, footer }) => (
+  <DeptPosition footer={footer}>
+    <Title primary={primary}>{title}</Title>
     <div dangerouslySetInnerHTML={{
       __html: remark()
         .use(recommended)
         .use(remarkHtml)
         .processSync(description).toString()
     }} />
-  </div>
+  </DeptPosition>
 )
 
 export default Position;

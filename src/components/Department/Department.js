@@ -1,17 +1,18 @@
 import React from 'react'
 import Position from '../Position'
+import { Container, Header, SecondaryHeader } from './styles'
 import './style.css'
 
-const Department = ({ department }) => (
+const Department = ({ department, defaultColor, secondaryColor, footerColor, primaryColor }) => (
   <div className="dept-panel">
-    <div className="department-container">
-      <header className="department-main-header">{department.title}</header>
+    <Container default={defaultColor}>
+      <Header footer={footerColor}>{department.title}</Header>
       <p>{department.description}</p>
       <div className="department-secondary-container">
-        <header className="department-secondary-header">{department.type}</header>
+        <SecondaryHeader footer={footerColor} secondary={secondaryColor}>{department.type}</SecondaryHeader>
       </div>
       {
-        department.positions.map((position, index) => <Position title={position.title} description={position.description} key={index} />)
+        department.positions.map((position, index) => <Position title={position.title} description={position.description} key={index} primary={primaryColor} footer={footerColor} />)
       }
       {/* <div className="department-secondary-container">
         <header className="department-secondary-header">DEPARTMENT PROJECTS AND INITIATIVES</header>
@@ -44,7 +45,7 @@ const Department = ({ department }) => (
                 will also be shared, in case our members want to read up and learn at their own pace!</p>
         </div>
       </div> */}
-    </div>
+    </Container>
   </div>
 )
 

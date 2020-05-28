@@ -1,6 +1,11 @@
 ---
 templateKey: home-page
 slug: /
+backgroundColor: "#FBFBFB"
+primaryColor: "#8400c7"
+footerColor: "#4f4f4f"
+defaultColor: "#828282"
+secondaryColor: "#F2A81F"
 seo:
   siteDescription: >-
     UXSoc's Offical Application Platform for Executive Board, Associate Vice
@@ -206,7 +211,7 @@ departmentsSection:
       and sense of community. UXSociety cares for its own members’ experience.
       We, in the department of Human Resources, are the Support Unit of
       UXSociety: organizing projects and initiatives that create an environment
-      where the members can explore, connect, and grow as design leaders. 
+      where the members can explore, connect, and grow as design leaders.
     positions:
       - description: >-
           **The Manager**
@@ -520,4 +525,3 @@ departmentsSection:
     title: "\U0001F91D Externals"
     type: Associate Vice President Positions
 ---
-

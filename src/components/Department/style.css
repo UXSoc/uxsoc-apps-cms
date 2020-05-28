@@ -19,27 +19,23 @@
 
 
 /* department */
-.department-container {
+/* .department-container {
     font-size: 16px;
     line-height: 30px;
     letter-spacing: 0.05em;
     color: #747474;
     margin: 50px auto 30px auto;
-}
+} */
 
 
-.bold-text {
-    font-weight: bold
-}
-
-.department-main-header {
+/* .department-main-header {
     font-size: 30px;
     line-height: 50px;
     letter-spacing: 0.05em;
     color: #4F4F4F;
     font-weight: bold;
     margin-bottom: 10px;
-}
+} */
 
 .department-secondary-container {
     display: inline-block;
@@ -47,16 +43,15 @@
     margin-top: 25px;
 }
 
-.department-secondary-header {
+/* .department-secondary-header {
     font-size: 15px;
     line-height: 30px;
     letter-spacing: 0.05em;
     color: #4F4F4F;
-    border-bottom: 3px solid #F2A81F;
     margin-top: 10px;
     font-weight: bold;
     text-transform: uppercase;
-}
+} */
 
 .department-info-container {
     display: flex;

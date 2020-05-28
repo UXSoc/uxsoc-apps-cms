@@ -3,8 +3,8 @@ import { Link } from 'gatsby'
 import logo from '../../assets/images/logo.png'
 import "./style.css"
 
-const Navbar = ({ slug, header }) => (
-  <div className="header">
+const Navbar = ({ slug, header, primary }) => (
+  <div className="header" style={{ background: `${primary}` }}>
     <div className="header__logo-wrapper">
       <figure className="header__logo-container">
         <Link to="/"><img src={logo} alt="logo" className="header__logo-image" /></Link>

@@ -24,6 +24,21 @@ collections:
             name: slug
             widget: hidden
             default: /
+          - label: "Default Text Color"
+            name: defaultColor
+            widget: string
+          - label: "Primary Color"
+            name: primaryColor
+            widget: string
+          - label: "Secondary Color"
+            name: secondaryColor
+            widget: string
+          - label: "Background Color"
+            name: backgroundColor
+            widget: string
+          - label: "Footer Color"
+            name: footerColor
+            widget: string
           - label: SEO
             name: seo
             widget: object
@@ -108,6 +123,12 @@ collections:
             name: slug
             widget: hidden
             default: /apply
+          - label: "Primary Color"
+            name: primaryColor
+            widget: string
+          - label: "Footer Color"
+            name: footerColor
+            widget: string
           - label: SEO
             name: seo
             widget: object

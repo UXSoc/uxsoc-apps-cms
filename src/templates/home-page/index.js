@@ -1,27 +1,26 @@
 import React, { Fragment } from "react"
 import Layout from "../../components/layout"
 import { graphql } from "gatsby"
-import "./styles.css"
 
 import HeroSection from './components/hero-section'
 import DepartmentsSection from './components/departments-section'
 
 
-export const HomePageTemplate = ({ heroSection, departmentsSection }) => (
+export const HomePageTemplate = ({ heroSection, departmentsSection, backgroundColor, primaryColor, secondaryColor, defaultColor, footerColor }) => (
   <Fragment>
-    <main>
-      <HeroSection heroSection={heroSection} />
-      <DepartmentsSection departmentsSection={departmentsSection} />
+    <main style={{ background: `${backgroundColor}` }}>
+      <HeroSection heroSection={heroSection} defaultColor={defaultColor} primaryColor={primaryColor} />
+      <DepartmentsSection departmentsSection={departmentsSection} primaryColor={primaryColor} defaultColor={defaultColor} secondaryColor={secondaryColor} footerColor={footerColor} backgroundColor={backgroundColor} />
     </main>
   </Fragment>
 )
 
 const HomePage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-  const { slug, seo, headerSection, heroSection, departmentsSection } = frontmatter;
+  const { slug, seo, backgroundColor, primaryColor, secondaryColor, defaultColor, footerColor, headerSection, heroSection, departmentsSection } = frontmatter;
   return (
-    <Layout slug={slug} seo={seo} header={headerSection}>
-      <HomePageTemplate {...{ heroSection, departmentsSection }} />
+    <Layout slug={slug} seo={seo} header={headerSection} primary={primaryColor} footerColor={footerColor}>
+      <HomePageTemplate {...{ heroSection, departmentsSection, backgroundColor, primaryColor, secondaryColor, defaultColor, footerColor }} />
     </Layout>
   )
 }
@@ -33,6 +32,11 @@ export const HomePageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         slug
+        backgroundColor
+        primaryColor
+        secondaryColor
+        defaultColor
+        footerColor
         seo {
           siteTitle
           siteDescription

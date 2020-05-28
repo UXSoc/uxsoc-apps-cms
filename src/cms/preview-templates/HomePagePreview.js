@@ -20,6 +20,10 @@ const HomePagePreview = ({ entry, getAsset }) => {
   return (
     <HomePageTemplate
       heroSection={getHeroSection({ entry, getAsset })}
+      backgroundColor={entry.getIn(["data", "backgroundColor"])}
+      primaryColor={entry.getIn(["data", "primaryColor"])}
+      secondaryColor={entry.getIn(["data", "secondaryColor"])}
+      secondaryColor={entry.getIn(["data", "secondaryColor"])}
     // departmentsSection={getDepartmentsSection({ entry, getAsset })}
     />
   )

@@ -2,12 +2,12 @@ import React from 'react';
 import remark from 'remark';
 import recommended from 'remark-preset-lint-recommended';
 import remarkHtml from 'remark-html';
-import './style.css';
+import { Main, Title } from './styles'
 
-const HeroSection = ({ heroSection }) => (
+const HeroSection = ({ heroSection, defaultColor, primaryColor }) => (
     <div>
-        <h1>{heroSection.title}</h1>
-        <div className="main__spiel" dangerouslySetInnerHTML={{
+        <Title primary={primaryColor}>{heroSection.title}</Title>
+        <Main default={defaultColor} primary={primaryColor} dangerouslySetInnerHTML={{
             __html: remark()
                 .use(recommended)
                 .use(remarkHtml)
