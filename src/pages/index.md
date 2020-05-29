@@ -525,5 +525,32 @@ departmentsSection:
         title: AVP for Partner Relations
     title: "\U0001F91D Externals"
     type: Associate Vice President Positions
+  - description: >-
+      The Secretariat is composed of the Secretary General and two Associate
+      Secretaries. The Secretariat team is responsible for the efficient and
+      complete internal documentation of the organization, as well as
+      proofreading and formalizing important documents. 
+    positions:
+      - description: >-
+          Tasks:
+
+
+          * Proofreading documents that go in and out of the organization,
+          grammar checking, formalizing as approved or for revision
+
+          * Documenting the internal processes for the Code of Internal
+          Procedures 
+
+          * Creating efficient trackers and other management tools to ensure
+          productivity and efficiency of the departments
+
+          * Deployment into projects to review documents and take minutes,
+          turning over department meetings to the Top 3 and vice versa when
+          needed
+
+          * Applying efficiency methods to email tagging and tracking
+        title: Associate Secretaries (2)
+    title: "\U0001F5C2 Secretariat"
+    type: Associate Vice President Positions
 ---
 
