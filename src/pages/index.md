@@ -1,11 +1,11 @@
 ---
 templateKey: home-page
 slug: /
-backgroundColor: "#FBFBFB"
-primaryColor: "#8400c7"
-footerColor: "#4f4f4f"
-defaultColor: "#828282"
-secondaryColor: "#F2A81F"
+defaultColor: '#828282'
+primaryColor: black
+secondaryColor: '#F2A81F'
+backgroundColor: '#FBFBFB'
+footerColor: '#4f4f4f'
 seo:
   siteDescription: >-
     This is the official application platform of User Experience Society for
@@ -526,3 +526,4 @@ departmentsSection:
     title: "\U0001F91D Externals"
     type: Associate Vice President Positions
 ---
+
