@@ -2,8 +2,8 @@
 templateKey: home-page
 slug: /
 defaultColor: '#828282'
-primaryColor: black
-secondaryColor: '#F2A81F'
+primaryColor: '#051A91'
+secondaryColor: '#FA8C71'
 backgroundColor: '#FBFBFB'
 footerColor: '#4f4f4f'
 seo:
@@ -55,6 +55,13 @@ departmentsSection:
           Design Education resources
 
           * Aids in mentoring product designers and content strategists
+
+
+          \*AVP for Design Training is required to accomplish a design challenge
+          prior to their interview. It’s recommended to have 2-3 days in between
+          your application submission and interview slot to prepare for the
+          challenge. The challenge will be emailed to you along with the GCal of
+          your interview.
         title: AVP for Design Training
       - description: >-
           **The Confidant**
@@ -85,6 +92,13 @@ departmentsSection:
           * Aids in curating content for design education
 
           * Mentors product designers and content strategists
+
+
+          \*AVP for Design Mentoring is required to accomplish a design
+          challenge prior to their interview. It’s recommended to have 2-3 days
+          in between your application submission and interview slot to prepare
+          for the challenge. The challenge will be emailed to you along with the
+          GCal of your interview.
         title: AVP for Design Mentorship
       - description: >-
           **The People Officer**
@@ -179,6 +193,13 @@ departmentsSection:
           sessions
 
           * Create and distribute project evaluations
+
+
+          \*AVP for Front End Engineering is required to accomplish a challenge
+          prior to their interview. It’s recommended to have 2-3 days in between
+          your application submission and interview slot to prepare for the
+          challenge. The challenge will be emailed to you along with the GCal of
+          your interview.
         title: AVP for Front-End Engineering
       - description: >-
           **The Shadow Code Architect**
@@ -204,6 +225,13 @@ departmentsSection:
           sessions
 
           * Create and distribute project evaluations
+
+
+          \*AVP for Back End Engineering is required to accomplish a challenge
+          prior to their interview. It’s recommended to have 2-3 days in between
+          your application submission and interview slot to prepare for the
+          challenge. The challenge will be emailed to you along with the GCal of
+          your interview.
         title: AVP for Back-End Engineering
     title: "\U0001F4BB Engineering"
     type: Associate Vice President Positions
@@ -278,7 +306,7 @@ departmentsSection:
 
 
           The AVP for Branding focuses on strengthening the brand and perception
-          visualization of the organization as well as its events and clients.
+          of the organization as well as its events and clients.
 
 
           Tasks:
@@ -287,11 +315,11 @@ departmentsSection:
           * Creates and designs appealing posters and visual collaterals to grab
           the attention of audiences.
 
-          * Manages campaigns and multimedia to be posted across print and
+          * Oversees campaigns and multimedia to be posted across print and
           online platforms to ensure that the organization is well represented
           and marketed. 
 
-          * Manages the organization’s online presence on social media like
+          * Manages the organization’s online presence on social media such as
           Instagram in which we showcase our portfolio.
         title: AVP for Branding
       - description: >-
@@ -307,14 +335,14 @@ departmentsSection:
 
 
           * Writes and publishes various types of pieces for the organizations’
-          social media posts in order to clearly communicate the goal of the
-          event or initiative they are writing for. 
+          social media posts in order to clearly communicate the goal and
+          advocacy of the event or initiative they are writing for. 
 
           * Edits and proofreads written pieces before publication to avoid
           misrepresentation. 
 
-          * Manages the organization's online presence on social media like the
-          Facebook page in which all our content is displayed.
+          * Manages the organization's online presence on social media such as
+          the Facebook page in which all our content is broadcasted.
         title: AVP for Content Creation
       - description: >-
           **The Curator**
@@ -333,10 +361,10 @@ departmentsSection:
           video means. 
 
           * Makes sure all multimedia documentation is organized and made easy
-          to access and view.
+          to access or view.
 
-          * Manages the organization's online presence on social media like
-          Twitter in which all of our event coverage and live-tweets are done.
+          * Manages the organization's online presence on social media such as
+          Twitter wherein all of our event coverage and live-tweets are done.
         title: AVP for Coverage
     title: "\U0001F4DD Marketing"
     type: Associate Vice President Positions
