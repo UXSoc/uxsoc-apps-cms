@@ -560,6 +560,13 @@ departmentsSection:
       proofreading and formalizing important documents. 
     positions:
       - description: >-
+          **The Memory Guardians**
+
+
+          They are in charge of assisting the Secretary General in the
+          documentation processes of the organization’s activities.
+
+
           Tasks:
 
 
