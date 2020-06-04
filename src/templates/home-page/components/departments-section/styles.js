@@ -44,4 +44,10 @@ export const Button = styled.button`
         color: white;
         font-weight: bold;
     }
+
+    &.active {
+        background-color: ${props => props.primary};
+        color: white;
+        font-weight: bold;
+    }
 `
