@@ -195,11 +195,7 @@ departmentsSection:
           * Create and distribute project evaluations
 
 
-          \*AVP for Front End Engineering is required to accomplish a challenge
-          prior to their interview. It’s recommended to have 2-3 days in between
-          your application submission and interview slot to prepare for the
-          challenge. The challenge will be emailed to you along with the GCal of
-          your interview.
+          \*Please be ready to present your past projects.
         title: AVP for Front-End Engineering
       - description: >-
           **The Shadow Code Architect**
@@ -227,11 +223,7 @@ departmentsSection:
           * Create and distribute project evaluations
 
 
-          \*AVP for Back End Engineering is required to accomplish a challenge
-          prior to their interview. It’s recommended to have 2-3 days in between
-          your application submission and interview slot to prepare for the
-          challenge. The challenge will be emailed to you along with the GCal of
-          your interview.
+          \*Please be ready to present your past projects.
         title: AVP for Back-End Engineering
     title: "\U0001F4BB Engineering"
     type: Associate Vice President Positions
