@@ -11,7 +11,14 @@ module.exports = {
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
         publicPath: `admin`,
-        manualInit: true
+        manualInit: true,
+        customizeWebpackConfig: (config, { plugins }) => {
+          config.plugins.push(
+            plugins.define({
+              __MANIFEST_PLUGIN_HAS_LOCALISATION__: JSON.stringify('false'),
+            }),
+          );
+        },
       }
     },
     `gatsby-plugin-styled-components`,
@@ -76,7 +83,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#0885c3`,
-        display: `minimal-ui`,
+        // display: `minimal-ui`,
         // edit below
         icon: `src/assets/images/logo.png`,
       },

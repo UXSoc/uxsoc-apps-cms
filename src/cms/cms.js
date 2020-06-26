@@ -1,8 +1,6 @@
 import React from "react"
 import CMS, { init } from "netlify-cms-app"
 import CSSInjector from "../components/CSSInjector"
-// import WysiwygComponent from "../components/wysiwyg/WysiwygComponent"
-// import WysiwygPreviewComponent from "../components/wysiwyg/WysiwygPreviewComponent"
 import HomePagePreview from "./preview-templates/HomePagePreview"
 import ApplyPagePreview from "./preview-templates/ApplyPagePreview"
 
@@ -10,10 +8,9 @@ import ApplyPagePreview from "./preview-templates/ApplyPagePreview"
 // if (process.env.GATSBY_IS_CMS === 'true') {
 //     init()
 // }
+window.___loader = { enqueue: () => {}, hovering: () => {} }
 
 init()
-
-// CMS.registerWidget("wysiwyg", WysiwygComponent, [WysiwygPreviewComponent])
 
 CMS.registerPreviewTemplate("index", props => (
   <CSSInjector>
