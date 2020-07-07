@@ -1,11 +1,11 @@
 ---
 templateKey: home-page
 slug: /
-defaultColor: '#828282'
-primaryColor: '#8300D7 '
-secondaryColor: '#FA8C71'
-backgroundColor: '#FBFBFB'
-footerColor: '#4f4f4f'
+defaultColor: "#828282"
+primaryColor: "#8300D7 "
+secondaryColor: "#FA8C71"
+backgroundColor: "#FBFBFB"
+footerColor: "#4f4f4f"
 seo:
   siteDescription: >-
     This is the official application platform of User Experience Society for
@@ -38,52 +38,48 @@ departmentsSection:
           to the power of design, and nurtures them to create meaningful
           products for the community
         title: Mission
-      - description: >-
-          **Champion authentic user empathy**
-
-
-          We at UX Society will always strive to empathize with our members. We
-          listen to your needs, suggestions, opinions, and goals in the
-          organization and translate these into projects, events, and
-          initiatives to serve you better.
-
-
-          **Foster a collaborative environment**
-
-
-          At UX Society, you will never be alone. Every project or initiative is
-          done in a collaborative manner. Everyone is part of the team. Don't be
-          afraid to ask help, mentorship, or advice.
-
-
-          **Value delivery over perfection**
-
-
-          We want to maximize the value we give to our members. We believe that
-          what we do does not have to be perfect to produce strong results.
-          Completion produces results. Perfectionism delays and kills results.
-
-
-          **Maintain a shared sense of purpose**
-
-
-          Our advocacy is what binds us together in UX Society. This is our
-          north star. Everything we do is always guided by our drive to
-          establish the importatn role of design in the community through the
-          products we create, the events we hold, the speakers we invite, and
-          the chapters we create.
-
-
-          **Establish and uphold standards of quality**
-
-
-          We believe that quality work we put out in the community represents
-          who we are as an organization. Therefore, we aspire to create the best
-          products that will not only help the community, but create an
-          awareness that will transform people's perception of design.
-        title: Core Values
+      # - description: >-
+      #     **Champion authentic user empathy**
+      #     We at UX Society will always strive to empathize with our members. We
+      #     listen to your needs, suggestions, opinions, and goals in the
+      #     organization and translate these into projects, events, and
+      #     initiatives to serve you better.
+      #     **Foster a collaborative environment**
+      #     At UX Society, you will never be alone. Every project or initiative is
+      #     done in a collaborative manner. Everyone is part of the team. Don't be
+      #     afraid to ask help, mentorship, or advice.
+      #     **Value delivery over perfection**
+      #     We want to maximize the value we give to our members. We believe that
+      #     what we do does not have to be perfect to produce strong results.
+      #     Completion produces results. Perfectionism delays and kills results.
+      #     **Maintain a shared sense of purpose**
+      #     Our advocacy is what binds us together in UX Society. This is our
+      #     north star. Everything we do is always guided by our drive to
+      #     establish the importatn role of design in the community through the
+      #     products we create, the events we hold, the speakers we invite, and
+      #     the chapters we create.
+      #     **Establish and uphold standards of quality**
+      #     We believe that quality work we put out in the community represents
+      #     who we are as an organization. Therefore, we aspire to create the best
+      #     products that will not only help the community, but create an
+      #     awareness that will transform people's perception of design.
+      #   title: Core Values
     title: About Us
-    type: Associate Vice President Positions
+    cardSectionTitle: Core Values
+    cards:
+      - title: Champion authentic user empathy
+        description: >-
+          We at UX Society will always strive to empathize with our members. We listen to your needs, suggestions, opinions, and goals in the organization and translate these into projects, events, and initiatives to serve you better.
+      - title: Champion authentic user empathy
+        description: >-
+          We at UX Society will always strive to empathize with our members. We listen to your needs, suggestions, opinions, and goals in the organization and translate these into projects, events, and initiatives to serve you better.
+      - title: Champion authentic user empathy
+        description: >-
+          We at UX Society will always strive to empathize with our members. We listen to your needs, suggestions, opinions, and goals in the organization and translate these into projects, events, and initiatives to serve you better.
+      - title: Champion authentic user empathy
+        description: >-
+          We at UX Society will always strive to empathize with our members. We listen to your needs, suggestions, opinions, and goals in the organization and translate these into projects, events, and initiatives to serve you better.
+    # type: Associate Vice President Positions
   - description: >-
       In UXSociety, design is not limited to products but also to event
       experiences for our members. Our projects have the goal of educating
@@ -147,7 +143,7 @@ departmentsSection:
           \*Please be ready to present your past projects.
         title: Event 2
     title: Events
-    type: Associate Vice President Positions
+    # type: Associate Vice President Positions
   - description: Projects
     positions:
       - description: >-
@@ -201,7 +197,7 @@ departmentsSection:
           and initiatives
         title: Project 2
     title: Projects
-    type: Associate Vice President Positions
+    # type: Associate Vice President Positions
   - description: Testimonies
     positions:
       - description: >-
@@ -270,6 +266,5 @@ departmentsSection:
           Twitter wherein all of our event coverage and live-tweets are done.
         title: Testimony 3
     title: Testimonies
-    type: Associate Vice President Positions
+    # type: Associate Vice President Positions
 ---
-

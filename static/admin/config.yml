@@ -73,7 +73,8 @@ collections:
               - label: "Description"
                 name: description
                 widget: markdown
-                buttons: ["bold", "italic"]
+                # buttons: ["bold", "italic"]
+                # editorComponents: ["image"]
           - label: "Departments Section"
             name: departmentsSection
             widget: list
@@ -84,18 +85,19 @@ collections:
               - label: Description
                 name: description
                 widget: text
-              - label: "Type"
-                name: type
-                widget: "select"
-                options:
-                  [
-                    "Executive Board Positions",
-                    "Associate Vice President Positions",
-                    "Officer Positions",
-                  ]
+              # - label: "Type"
+              #   name: type
+              #   widget: "select"
+              #   options:
+              #     [
+              #       "Executive Board Positions",
+              #       "Associate Vice President Positions",
+              #       "Officer Positions",
+              #     ]
               - label: "Positions"
                 name: positions
                 widget: list
+                required: false
                 fields:
                   - label: "Position Title"
                     name: title
@@ -103,8 +105,25 @@ collections:
                   - label: "Position Description"
                     name: description
                     widget: markdown
-                    buttons:
-                      ["bold", "italic", "bulleted-list", "numbered-list"]
+                    # buttons:
+                    #   ["bold", "italic", "bulleted-list", "numbered-list"]
+              - label: "Card Section Title"
+                name: cardSectionTitle
+                required: false
+                widget: string
+              - label: "Cards"
+                name: cards
+                widget: list
+                required: false
+                fields:
+                  - label: "Title"
+                    name: title
+                    widget: string
+                  - label: "Description"
+                    name: description
+                    widget: markdown
+                    # buttons:
+                    #   ["bold", "italic", "bulleted-list", "numbered-list"]
   - name: apply_page
     label: "Apply Page"
     filter:

@@ -1,22 +1,21 @@
 /* Style the tab content */
 .dept-panel {
-    width: 80%;
-    margin: auto;
-    animation: fadeEffect 0.5s;
-    font-family: Proxima Nova;
+  width: 80%;
+  margin: auto;
+  animation: fadeEffect 0.5s;
+  font-family: Proxima Nova;
 }
 
 /* Go from zero to full opacity */
 @keyframes fadeEffect {
-    from {
-        opacity: 0;
-    }
+  from {
+    opacity: 0;
+  }
 
-    to {
-        opacity: 1;
-    }
+  to {
+    opacity: 1;
+  }
 }
-
 
 /* department */
 /* .department-container {
@@ -26,7 +25,6 @@
     color: #747474;
     margin: 50px auto 30px auto;
 } */
-
 
 /* .department-main-header {
     font-size: 30px;
@@ -38,9 +36,9 @@
 } */
 
 .department-secondary-container {
-    display: inline-block;
-    margin-bottom: 10px;
-    margin-top: 25px;
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-top: 25px;
 }
 
 /* .department-secondary-header {
@@ -54,25 +52,39 @@
 } */
 
 .department-info-container {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.department-info-container div:nth-child(odd) {
+  margin-right: 30px;
+}
+
+@media screen and (max-width: 940px) {
+  .department-info-container {
+    justify-content: center;
+  }
+  .department-info-container div:nth-child(odd) {
+    margin-right: 0;
+  }
 }
 
 .department-info-container .department-information-header {
-    margin: 0px;
+  margin: 0px;
 }
 
 .department-info-card {
-    margin: 0 auto 0 0;
-    display: inline-block;
-    background: #FFFFFF;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
-    box-sizing: border-box;
-    margin-top: 25px;
-    padding: 40px 45px;
-    font-size: 14px;
-    color: #747474;
-    line-height: 30px;
-    letter-spacing: 0.05em;
+  margin: 0 auto 0 0;
+  display: inline-block;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 25px;
+  padding: 40px 45px;
+  font-size: 14px;
+  color: #747474;
+  line-height: 30px;
+  letter-spacing: 0.05em;
 }
