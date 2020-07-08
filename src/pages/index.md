@@ -70,13 +70,7 @@ departmentsSection:
           products for the community
         title: Mission
     title: About Us
-  - cards:
-      - description: >-
-          ![](/images/uploads/76608812_1389559281226065_7378537850687455232_o.jpg)
-        title: Learn from professionals
-      - description: >-
-          ![](/images/uploads/53334487_1190382161143779_7946485677162496000_o.jpg)
-        title: Create your best work
+  - cards: []
     description: >-
       In UXSociety, design is not limited to products but also to event
       experiences for our members. Our projects have the goal of educating
