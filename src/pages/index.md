@@ -197,55 +197,33 @@ departmentsSection:
           attend more events since it properly showcased the future events that
           they'll be holding, piquing the interest of the attendees.
         title: Mark
+      - description: >-
+          I joined UXSoc with no knowledge of coding or design in general but
+          seeing my friends develop their skills through workshops in this org
+          really made me wanna try it out. This prompted me to become an officer
+          in my first year so that I can feel more involved with the org and it
+          did. By interacting with the VPs and other officers I decided to join
+          UX University where I got to learn the basics of Figma by our guest
+          speaker. Sadly, I haven't been able to practice Figma but its always
+          nice that I can pick up from where I left off because of this org.
+        title: Matt
+      - description: >-
+          When I joined UXSociety, I had little to no experience in design.
+          Because of my course, I wanted to join an org that showed me how to
+          work with coding, but also enabled me to tap into my more creative
+          side. The first event I attended from UXSoc was the UX General
+          Assembly in 2019. It was in this event that I experienced just how
+          committed the officers and its members are to UXSoc's vision and
+          mission - all while still having fun and enjoying each other's
+          company. I still have a long way to go on my UX journey, but everybody
+          has to start somewhere, and I'm glad I took the leap and applied for
+          the org!
+        title: Jill
     description: >-
       UXSociety has been helping aspiring designers and developers start their
       UX journeys since Day 1. Here are some of UXers' experiences with their
       first UXSociety event!
-    positions:
-      - description: >-
-          **The Advocate**
-
-
-          The AVP for Content Creation focuses on producing engaging content and
-          marketing copies in order to advertise the organization as well as its
-          events and initiatives.
-
-
-          Tasks:
-
-
-          * Writes and publishes various types of pieces for the organizations’
-          social media posts in order to clearly communicate the goal and
-          advocacy of the event or initiative they are writing for. 
-
-          * Edits and proofreads written pieces before publication to avoid
-          misrepresentation. 
-
-          * Manages the organization's online presence on social media such as
-          the Facebook page in which all our content is broadcasted.
-        title: Testimony 2
-      - description: >-
-          **The Curator**
-
-
-          The AVP for Coverage focuses on the multimedia documentation and
-          coverage of all the organizations’ events and initiatives not only for
-          archival purposes but also for advertisement, so that we are both
-          well-seen and heard.
-
-
-          Tasks:
-
-
-          * Captures the essence of each event or initiative through photo and
-          video means. 
-
-          * Makes sure all multimedia documentation is organized and made easy
-          to access or view.
-
-          * Manages the organization's online presence on social media such as
-          Twitter wherein all of our event coverage and live-tweets are done.
-        title: Testimony 3
+    positions: []
     title: Testimonies
 ---
 
