@@ -138,6 +138,53 @@ departmentsSection:
           Advocacy selling of UX branded merchandise to promote organizational
           culture and complete the look for the "Mafia" mentality.
         title: 'Finance: La Familia'
+      - description: >-
+          Learning Front-end & Back-end Development during the workshops to be
+          conducted and working on multiple Engineering projects can really be
+          toxic and taxing for students. Thus, an anti-burnout policy should be
+          top most priority.
+        title: 'UXDev: Anti-Burnout Policy for Engineering'
+      - description: >-
+          An online mentorship system for UXers to bond, connect, and learn from
+          one another in our Discord community. Game nights, netflix parties,
+          and learning channels are open for everyone to enjoy.
+        title: 'HR: Virtual UXSoc Family'
+      - description: >-
+          Aside from the UX workshops that aim to solidify your foundations in
+          design, User Experience Society is also known for its strong
+          mentorship culture. To further complement the workshops, UXDC will
+          have a year-long mentorship program that aims to solidify aspiring
+          designers’ knowledge and skill in UX Design while establishing a
+          close-knit bond with everyone. Get help from our mentors, UXSoc
+          Alumni, and more through our mentorship initiatives!
+        title: 'UXDC: Mentorship'
+      - description: >-
+          UX-related short clips, UX-based games, applications, books, or
+          basically anything UX related will be shared and posted in the UXSoc
+          page to engage members to try and learn something new.
+        title: 'Events: UX How To'
+      - description: >-
+          Build up your network and connect with other designers! Have a chance
+          to interact with industry professionals as they share their expertise
+          and experiences in the tech and design field. Along the way, you might
+          even get to catch an internship opportunity or two.
+        title: 'Externals: Mentorship and Networking Opportunities'
+      - description: >-
+          As a way to uplift members and showcase our pride, we will be
+          accepting design submissions for different types of content such as
+          digital art, photography, animations, videography, UX/UI design
+          concepts, and the like. From these submissions, a handful will be
+          picked and featured on official UXSoc platforms to promote art and
+          inspire others to keep creating.
+        title: 'Marketing: Featured Submissions'
+      - description: >-
+          Learn the skills that will refine your documents into tip-top shape
+          for your organization snd your personal life. With bi-weekly learning
+          sessions, learn more about best practices in document/project set-up
+          and management, content auditing, effective writing and pristine
+          documentation systems. Here, the way you’ll manage your files will
+          never be the same again.
+        title: 'Secretariat: Document Auditing and Efficiency'
     description: Projects
     positions: []
     title: Projects
