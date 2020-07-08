@@ -36,17 +36,23 @@ departmentsSection:
           afraid to ask help, mentorship, or advice.
         title: Foster a collaborative environment
       - description: >-
-          We at UX Society will always strive to empathize with our members. We
-          listen to your needs, suggestions, opinions, and goals in the
-          organization and translate these into projects, events, and
-          initiatives to serve you better.
-        title: Champion authentic user empathy
+          We want to maximize the value we give to our members. We believe that
+          what we do does not have to be perfect to produce strong results.
+          Completion produces results. Perfectionism delays and kills results.
+        title: Value delivery over perfection
       - description: >-
-          We at UX Society will always strive to empathize with our members. We
-          listen to your needs, suggestions, opinions, and goals in the
-          organization and translate these into projects, events, and
-          initiatives to serve you better.
-        title: Champion authentic user empathy
+          Our advocacy is what binds us together in UX Society. This is our
+          north star. Everything we do is always guided by our drive to
+          establish the important role of design in the community through the
+          products we create, the events we hold, the speakers we invite, and
+          the chapters we create.
+        title: Maintain a shared sense of purpose
+      - description: >-
+          We believe that quality work we put out in the community represents
+          who we are as an organization. Therefore, we aspire to create the best
+          products that will not only help the community but create an awareness
+          that will transform people's perception of design.
+        title: Establish and uphold standards of quality
     description: >-
       UX Society is a student organization that advocates and practices
       human-centered design in solving problems in the community.
