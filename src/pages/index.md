@@ -133,58 +133,13 @@ departmentsSection:
           \*Please be ready to present your past projects.
         title: Event 2
     title: Events
-  - description: Projects
-    positions:
+  - cards:
       - description: >-
-          **The Manager**
-
-
-          The AVP for Internal Management is in charge of working alongside the
-          VP of Human Resources in managing the manpower within the
-          organization.
-
-
-          Tasks:
-
-
-          * Assigns and manages officer allocation to projects to prevent
-          burnout
-
-          * Ensures that members’ happiness and morale are boosted
-
-          * Manages all internal affairs of the UXSoc such as the retention
-          system, officer allocation, conflict resolution, member research, and
-          wellbeing evaluation
-
-          * Mentors and oversees the officers under Internal Management
-
-          * Aids the VP of HR in planning, executing, and evaluating HR projects
-          and initiatives
-        title: Project 1
-      - description: >-
-          **The Liaison**
-
-
-          The AVP for Community Engagement is in charge of working alongside the
-          VP of Human Resources in engaging with the members of the
-          organization.
-
-
-          Tasks:
-
-
-          * Spearhead the creating, planning and, executing of initiatives that
-          would provide academic support and talent formation for members such
-          as soft skills workshops and bonding activities
-
-          * Conducts end-of-sem evaluation of the members’ UXSoc experience
-
-          * Aids the VP for HR in relaying information and self-growth
-          initiatives through group posts and message blasts
-
-          * Aids the VP of HR in planning, executing, and evaluating HR projects
-          and initiatives
-        title: Project 2
+          Advocacy selling of UX branded merchandise to promote organizational
+          culture and complete the look for the "Mafia" mentality.
+        title: 'Finance: La Familia'
+    description: Projects
+    positions: []
     title: Projects
   - cards:
       - description: >-
