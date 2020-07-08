@@ -49,5 +49,10 @@ export const Description = styled.div`
 
   & img {
     margin: 30px 0;
+    width: 100%;
+
+    @media (max-width: 768px) {
+      margin: 16px 0;
+    }
   }
 `

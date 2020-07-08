@@ -1,20 +1,45 @@
-import React, { Fragment } from "react"
-import Layout from "../../components/layout"
-import { graphql } from "gatsby"
-
-
+import React, { Fragment } from 'react'
+import Layout from '../../components/layout'
+import { graphql } from 'gatsby'
 
 export const ApplyPageTemplate = ({ link }) => (
   <Fragment>
-    <iframe className="airtable-embed" title="airtable" src={link} frameborder="0" onmousewheel="" width="100%" style={{ background: "transparent", border: "1px solid #ccc", overflow: "hidden", height: "100vh" }} />
-  </Fragment >
+    <iframe
+      className="airtable-embed"
+      title="airtable"
+      src={link}
+      frameborder="0"
+      onmousewheel=""
+      width="100%"
+      style={{
+        background: 'transparent',
+        border: '1px solid #ccc',
+        overflow: 'hidden',
+        height: '100vh',
+      }}
+    />
+  </Fragment>
 )
 
 const ApplyPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-  const { slug, seo, primaryColor, footerColor, headerSection, link } = frontmatter;
+  const {
+    slug,
+    seo,
+    primaryColor,
+    footerColor,
+    headerSection,
+    link,
+  } = frontmatter
   return (
-    <Layout slug={slug} seo={seo} header={headerSection} header={headerSection} primary={primaryColor} footerColor={footerColor}>
+    <Layout
+      slug={slug}
+      seo={seo}
+      header={headerSection}
+      header={headerSection}
+      primary={primaryColor}
+      footerColor={footerColor}
+    >
       <ApplyPageTemplate {...{ link }} />
     </Layout>
   )
@@ -42,5 +67,3 @@ export const ApplyPageQuery = graphql`
     }
   }
 `
-
-

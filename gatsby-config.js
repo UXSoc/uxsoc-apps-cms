@@ -20,7 +20,7 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-netlify-cms",
+      resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
         publicPath: `admin`,
@@ -28,7 +28,7 @@ module.exports = {
         customizeWebpackConfig: (config, { plugins }) => {
           config.plugins.push(
             plugins.define({
-              __MANIFEST_PLUGIN_HAS_LOCALISATION__: JSON.stringify("false"),
+              __MANIFEST_PLUGIN_HAS_LOCALISATION__: JSON.stringify('false'),
             })
           )
         },
@@ -40,14 +40,14 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
-      resolve: "gatsby-transformer-remark",
+      resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-relative-images",
+            resolve: 'gatsby-remark-relative-images',
           },
           {
-            resolve: "gatsby-remark-images",
+            resolve: 'gatsby-remark-images',
             options: {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
@@ -56,9 +56,9 @@ module.exports = {
             },
           },
           {
-            resolve: "gatsby-remark-copy-linked-files",
+            resolve: 'gatsby-remark-copy-linked-files',
             options: {
-              destinationDir: "static",
+              destinationDir: 'static',
             },
           },
         ],
@@ -68,17 +68,17 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static/images/uploads`,
-        name: "uploads",
+        name: 'uploads',
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
-        name: "pages",
+        name: 'pages',
       },
     },
     {
@@ -89,7 +89,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
-    "gatsby-plugin-netlify",
+    'gatsby-plugin-netlify',
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
 

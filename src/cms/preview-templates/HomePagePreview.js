@@ -1,11 +1,10 @@
-import React from "react"
-import { HomePageTemplate } from "../../templates/home-page"
-
+import React from 'react'
+import { HomePageTemplate } from '../../templates/home-page'
 
 const getHeroSection = ({ entry, getAsset }) => {
   return {
-    title: entry.getIn(["data", "heroSection", "title"]),
-    description: entry.getIn(["data", "heroSection", "description"]),
+    title: entry.getIn(['data', 'heroSection', 'title']),
+    description: entry.getIn(['data', 'heroSection', 'description']),
   }
 }
 
@@ -16,14 +15,13 @@ const getHeroSection = ({ entry, getAsset }) => {
 // }
 
 const HomePagePreview = ({ entry, getAsset }) => {
-
   return (
     <HomePageTemplate
-      // heroSection={getHeroSection({ entry, getAsset })}
-      // backgroundColor={entry.getIn(["data", "backgroundColor"])}
-      // primaryColor={entry.getIn(["data", "primaryColor"])}
-      // secondaryColor={entry.getIn(["data", "secondaryColor"])}
-      // secondaryColor={entry.getIn(["data", "secondaryColor"])}
+    // heroSection={getHeroSection({ entry, getAsset })}
+    // backgroundColor={entry.getIn(["data", "backgroundColor"])}
+    // primaryColor={entry.getIn(["data", "primaryColor"])}
+    // secondaryColor={entry.getIn(["data", "secondaryColor"])}
+    // secondaryColor={entry.getIn(["data", "secondaryColor"])}
     // departmentsSection={getDepartmentsSection({ entry, getAsset })}
     />
   )

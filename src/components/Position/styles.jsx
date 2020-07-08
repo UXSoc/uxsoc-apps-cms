@@ -5,6 +5,15 @@ export const DeptPosition = styled.div`
   b {
     color: ${props => props.footer};
   }
+
+  & img {
+    margin: 30px 0;
+    width: 100%;
+
+    @media (max-width: 768px) {
+      margin: 16px 0;
+    }
+  }
 `
 
 export const Title = styled.h4`
