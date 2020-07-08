@@ -31,11 +31,10 @@ departmentsSection:
           initiatives to serve you better.
         title: Champion authentic user empathy
       - description: >-
-          We at UX Society will always strive to empathize with our members. We
-          listen to your needs, suggestions, opinions, and goals in the
-          organization and translate these into projects, events, and
-          initiatives to serve you better.
-        title: Champion authentic user empathy
+          At UX Society, you will never be alone. Every project or initiative is
+          done in a collaborative manner. Everyone is part of the team. Don't be
+          afraid to ask help, mentorship, or advice.
+        title: Foster a collaborative environment
       - description: >-
           We at UX Society will always strive to empathize with our members. We
           listen to your needs, suggestions, opinions, and goals in the
