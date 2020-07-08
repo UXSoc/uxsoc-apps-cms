@@ -36,23 +36,17 @@ departmentsSection:
           afraid to ask help, mentorship, or advice.
         title: Foster a collaborative environment
       - description: >-
-          We want to maximize the value we give to our members. We believe that
-          what we do does not have to be perfect to produce strong results.
-          Completion produces results. Perfectionism delays and kills results.
-        title: Value delivery over perfection
+          We at UX Society will always strive to empathize with our members. We
+          listen to your needs, suggestions, opinions, and goals in the
+          organization and translate these into projects, events, and
+          initiatives to serve you better.
+        title: Champion authentic user empathy
       - description: >-
-          Our advocacy is what binds us together in UX Society. This is our
-          north star. Everything we do is always guided by our drive to
-          establish the important role of design in the community through the
-          products we create, the events we hold, the speakers we invite, and
-          the chapters we create.
-        title: Maintain a shared sense of purpose
-      - description: >-
-          We believe that quality work we put out in the community represents
-          who we are as an organization. Therefore, we aspire to create the best
-          products that will not only help the community but create an awareness
-          that will transform people's perception of design.
-        title: Establish and uphold standards of quality
+          We at UX Society will always strive to empathize with our members. We
+          listen to your needs, suggestions, opinions, and goals in the
+          organization and translate these into projects, events, and
+          initiatives to serve you better.
+        title: Champion authentic user empathy
     description: >-
       UX Society is a student organization that advocates and practices
       human-centered design in solving problems in the community.
@@ -70,121 +64,117 @@ departmentsSection:
           products for the community
         title: Mission
     title: About Us
-  - description: >-
+  - cardSectionTitle: ''
+    description: >-
       In UXSociety, design is not limited to products but also to event
       experiences for our members. Our projects have the goal of educating
       future design leaders with UX fundamentals and equipping everyone with
       skills necessary for growth.
     positions:
       - description: >-
-          **The Visual Coding Mage**
+          ![Photo from UX & Chill
+          2019](/images/uploads/76608812_1389559281226065_7378537850687455232_o.jpg
+          "UX & Chill")
 
 
-          The AVP for Front-End Engineering shall be the  officer-in-charge for
-          all front-end development matters inside UXSociety.
-
-
-          Tasks:
-
-
-          * Assists the VP of Engineering in creating and finalizing the front
-          end aspect of the Dev Manual/Engineering Wiki
-
-          * Propose and spearhead front-end related learning opportunities like
-          modules for front-end development
-
-          * Delegate front end officers and accompany them in dev sessions for
-          engineering projects
-
-          * Accompany the VP of Engineering in Dev turnovers and QA review 
-          sessions
-
-          * Create and distribute project evaluations
-
-
-          \*Please be ready to present your past projects.
-        title: Event 1
+          UXSoc’s annual flagship event that aims to promote UX and its use and
+          impact to various demographics by allowing people from the design
+          industry to share their knowledge and expertise. This year, we’re
+          holding a 1-day design conference and workshop!
+        title: UX & Chill
       - description: >-
-          **The Shadow Code Architect**
+          ![Photo from UX University
+          2019](/images/uploads/53334487_1190382161143779_7946485677162496000_o.jpg
+          "UX University")
 
 
-          The AVP for Front-End Engineering shall be the  officer-in-charge for
-          all back-end development matters inside UXSociety.
-
-
-          Tasks:
-
-
-          * Assists the VP of Engineering in creating and finalizing the back
-          end aspect of the Dev Manual/Engineering Wiki
-
-          * Propose and spearhead back-end related learning opportunities like
-          modules for front-end development
-
-          * Delegate front end officers and accompany them in dev sessions for
-          engineering projects
-
-          * Accompany the VP of Engineering in Dev turnovers and QA review 
-          sessions
-
-          * Create and distribute project evaluations
-
-
-          \*Please be ready to present your past projects.
-        title: Event 2
-    title: Events
-  - description: Projects
-    positions:
+          A 3-week design course and case competition created to equip
+          participants with the right skills, tools, and mindset to solve
+          pressing issues in the community through user experience design. No
+          experience needed - only the will and passion to learn!
+        title: UX University
+    title: Flagships
+  - cards:
       - description: >-
-          **The Manager**
+          **Design & Consultancy**
 
 
-          The AVP for Internal Management is in charge of working alongside the
-          VP of Human Resources in managing the manpower within the
-          organization.
-
-
-          Tasks:
-
-
-          * Assigns and manages officer allocation to projects to prevent
-          burnout
-
-          * Ensures that members’ happiness and morale are boosted
-
-          * Manages all internal affairs of the UXSoc such as the retention
-          system, officer allocation, conflict resolution, member research, and
-          wellbeing evaluation
-
-          * Mentors and oversees the officers under Internal Management
-
-          * Aids the VP of HR in planning, executing, and evaluating HR projects
-          and initiatives
-        title: Project 1
+          Aside from the UX workshops that aim to solidify your foundations in
+          design, User Experience Society is also known for its strong
+          mentorship culture. To further complement the workshops, UXDC will
+          have a year-long mentorship program that aims to solidify aspiring
+          designers’ knowledge and skill in UX Design while establishing a
+          close-knit bond with everyone. Get help from our mentors, UXSoc
+          Alumni, and more through our mentorship initiatives!
+        title: Mentorship
       - description: >-
-          **The Liaison**
+          **Engineering**
 
 
-          The AVP for Community Engagement is in charge of working alongside the
-          VP of Human Resources in engaging with the members of the
-          organization.
+          Learning Front-end & Back-end Development during the workshops to be
+          conducted and working on multiple Engineering projects can really be
+          toxic and taxing for students. Thus, an anti-burnout policy should be
+          top most priority.
+        title: Anti-Burnout Policy
+      - description: >-
+          **Human Resources**
 
 
-          Tasks:
+          An online mentorship system for UXers to bond, connect, and learn from
+          one another in our Discord community. Game nights, netflix parties,
+          and learning channels are open for everyone to enjoy.
+        title: Virtual UXSoc Family
+      - description: >-
+          **Marketing**
 
 
-          * Spearhead the creating, planning and, executing of initiatives that
-          would provide academic support and talent formation for members such
-          as soft skills workshops and bonding activities
+          As a way to uplift members and showcase our pride, we will be
+          accepting design submissions for different types of content such as
+          digital art, photography, animations, videography, UX/UI design
+          concepts, and the like. From these submissions, a handful will be
+          picked and featured on official UXSoc platforms to promote art and
+          inspire others to keep creating.
+        title: Featured Submissions
+      - description: >-
+          **Events**
 
-          * Conducts end-of-sem evaluation of the members’ UXSoc experience
 
-          * Aids the VP for HR in relaying information and self-growth
-          initiatives through group posts and message blasts
+          UX-related short clips, UX-based games, applications, books, or
+          basically anything UX related will be shared and posted in the UXSoc
+          page to engage members to try and learn something new.
+        title: UX How To
+      - description: >-
+          **Externals**
 
-          * Aids the VP of HR in planning, executing, and evaluating HR projects
-          and initiatives
-        title: Project 2
+
+          Build up your network and connect with other designers! Have a chance
+          to interact with industry professionals as they share their expertise
+          and experiences in the tech and design field. Along the way, you might
+          even get to catch an internship opportunity or two.
+        title: Mentorship and Networking Opportunities
+      - description: >-
+          **Finance**
+
+
+          Advocacy selling of UX branded merchandise to promote organizational
+          culture and complete the look for the "Mafia" mentality.
+        title: La Familia
+      - description: >-
+          **Secretariat**
+
+
+          Learn the skills that will refine your documents into tip-top shape
+          for your organization snd your personal life. With bi-weekly learning
+          sessions, learn more about best practices in document/project set-up
+          and management, content auditing, effective writing and pristine
+          documentation systems. Here, the way you’ll manage your files will
+          never be the same again.
+        title: Document Auditing and Efficiency
+    description: >-
+      Take a look at some of our exciting new projects and initiatives from
+      different departments! All projects and initiatives are accessible for
+      members.
+    positions: []
     title: Projects
   - description: Testimonies
     positions:
