@@ -72,17 +72,11 @@ departmentsSection:
     title: About Us
   - cards:
       - description: >-
-          UXSoc’s annual flagship event that aims to promote UX and its use and
-          impact to various demographics by allowing people from the design
-          industry to share their knowledge and expertise. This year, we’re
-          holding a 1-day design conference and workshop!
-        title: UX & Chill
+          ![](/images/uploads/76608812_1389559281226065_7378537850687455232_o.jpg)
+        title: Learn from professionals
       - description: >-
-          A 3-week design course and case competition created to equip
-          participants with the right skills, tools, and mindset to solve
-          pressing issues in the community through user experience design. No
-          experience needed - only the will and passion to learn!
-        title: UX University
+          ![](/images/uploads/53334487_1190382161143779_7946485677162496000_o.jpg)
+        title: Create your best work
     description: >-
       In UXSociety, design is not limited to products but also to event
       experiences for our members. Our projects have the goal of educating
