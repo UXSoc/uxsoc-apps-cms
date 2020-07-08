@@ -70,7 +70,19 @@ departmentsSection:
           products for the community
         title: Mission
     title: About Us
-  - cards: []
+  - cards:
+      - description: >-
+          UXSoc’s annual flagship event that aims to promote UX and its use and
+          impact to various demographics by allowing people from the design
+          industry to share their knowledge and expertise. This year, we’re
+          holding a 1-day design conference and workshop!
+        title: UX & Chill
+      - description: >-
+          A 3-week design course and case competition created to equip
+          participants with the right skills, tools, and mindset to solve
+          pressing issues in the community through user experience design. No
+          experience needed - only the will and passion to learn!
+        title: UX University
     description: >-
       In UXSociety, design is not limited to products but also to event
       experiences for our members. Our projects have the goal of educating
@@ -78,18 +90,12 @@ departmentsSection:
       skills necessary for growth.
     positions:
       - description: >-
-          ![](/images/uploads/76608812_1389559281226065_7378537850687455232_o.jpg)
-
-
           UXSoc’s annual flagship event that aims to promote UX and its use and
           impact to various demographics by allowing people from the design
           industry to share their knowledge and expertise. This year, we’re
           holding a 1-day design conference and workshop!
         title: UX & Chill
       - description: >-
-          ![](/images/uploads/53334487_1190382161143779_7946485677162496000_o.jpg)
-
-
           A 3-week design course and case competition created to equip
           participants with the right skills, tools, and mindset to solve
           pressing issues in the community through user experience design. No
@@ -148,7 +154,9 @@ departmentsSection:
           documentation systems. Here, the way you’ll manage your files will
           never be the same again.
         title: 'Secretariat: Document Auditing and Efficiency'
-    description: Projects
+    description: >-
+      Take a look at some of our exciting new projects and initiatives! All
+      projects and initiatives are open for members to join in.
     positions: []
     title: Projects
   - cards:
