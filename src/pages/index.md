@@ -70,69 +70,32 @@ departmentsSection:
           products for the community
         title: Mission
     title: About Us
-  - description: >-
+  - cards: []
+    description: >-
       In UXSociety, design is not limited to products but also to event
       experiences for our members. Our projects have the goal of educating
       future design leaders with UX fundamentals and equipping everyone with
       skills necessary for growth.
     positions:
       - description: >-
-          **The Visual Coding Mage**
+          ![](/images/uploads/76608812_1389559281226065_7378537850687455232_o.jpg)
 
 
-          The AVP for Front-End Engineering shall be the  officer-in-charge for
-          all front-end development matters inside UXSociety.
-
-
-          Tasks:
-
-
-          * Assists the VP of Engineering in creating and finalizing the front
-          end aspect of the Dev Manual/Engineering Wiki
-
-          * Propose and spearhead front-end related learning opportunities like
-          modules for front-end development
-
-          * Delegate front end officers and accompany them in dev sessions for
-          engineering projects
-
-          * Accompany the VP of Engineering in Dev turnovers and QA review 
-          sessions
-
-          * Create and distribute project evaluations
-
-
-          \*Please be ready to present your past projects.
-        title: Event 1
+          UXSoc’s annual flagship event that aims to promote UX and its use and
+          impact to various demographics by allowing people from the design
+          industry to share their knowledge and expertise. This year, we’re
+          holding a 1-day design conference and workshop!
+        title: UX & Chill
       - description: >-
-          **The Shadow Code Architect**
+          ![](/images/uploads/53334487_1190382161143779_7946485677162496000_o.jpg)
 
 
-          The AVP for Front-End Engineering shall be the  officer-in-charge for
-          all back-end development matters inside UXSociety.
-
-
-          Tasks:
-
-
-          * Assists the VP of Engineering in creating and finalizing the back
-          end aspect of the Dev Manual/Engineering Wiki
-
-          * Propose and spearhead back-end related learning opportunities like
-          modules for front-end development
-
-          * Delegate front end officers and accompany them in dev sessions for
-          engineering projects
-
-          * Accompany the VP of Engineering in Dev turnovers and QA review 
-          sessions
-
-          * Create and distribute project evaluations
-
-
-          \*Please be ready to present your past projects.
-        title: Event 2
-    title: Events
+          A 3-week design course and case competition created to equip
+          participants with the right skills, tools, and mindset to solve
+          pressing issues in the community through user experience design. No
+          experience needed - only the will and passion to learn!
+        title: UX University
+    title: Flagships
   - cards:
       - description: >-
           Advocacy selling of UX branded merchandise to promote organizational
