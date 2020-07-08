@@ -142,7 +142,7 @@ departmentsSection:
         title: 'Marketing: Featured Submissions'
       - description: >-
           Learn the skills that will refine your documents into tip-top shape
-          for your organization snd your personal life. With bi-weekly learning
+          for your organization and your personal life. With bi-weekly learning
           sessions, learn more about best practices in document/project set-up
           and management, content auditing, effective writing and pristine
           documentation systems. Here, the way you’ll manage your files will
