@@ -17,59 +17,50 @@ headerSection:
   title: Member Applications
 heroSection:
   description: >-
-    Hey there, UXer! Want to join the fun for **AY 2020-2021**? Check out what
-    we have in store for you and join us this year. Looking forward to sharing
-    this journey with you!
+    Hey there, UXer! Want to join the run for **SY 2020-2021**? Read through the
+    primer and join the department best fitting for you. Interested? Don’t
+    forget to click apply!
   title: EXPERIENCE BETTER WITH UXSOCIETY
 departmentsSection:
-  - cardSectionTitle: Core Values
-    cards:
-      - description: >-
-          We at UX Society will always strive to empathize with our members. We
-          listen to your needs, suggestions, opinions, and goals in the
-          organization and translate these into projects, events, and
-          initiatives to serve you better.
-        title: Champion authentic user empathy
-      - description: >-
-          At UX Society, you will never be alone. Every project or initiative is
-          done in a collaborative manner. Everyone is part of the team. Don't be
-          afraid to ask help, mentorship, or advice.
-        title: Foster a collaborative environment
-      - description: >-
-          We want to maximize the value we give to our members. We believe that
-          what we do does not have to be perfect to produce strong results.
-          Completion produces results. Perfectionism delays and kills results.
-        title: Value delivery over perfection
-      - description: >-
-          Our advocacy is what binds us together in UX Society. This is our
-          north star. Everything we do is always guided by our drive to
-          establish the important role of design in the community through the
-          products we create, the events we hold, the speakers we invite, and
-          the chapters we create.
-        title: Maintain a shared sense of purpose
-      - description: >-
-          We believe that quality work we put out in the community represents
-          who we are as an organization. Therefore, we aspire to create the best
-          products that will not only help the community but create an awareness
-          that will transform people's perception of design.
-        title: Establish and uphold standards of quality
+  - cardSectionTitle: ''
+    cards: []
     description: >-
-      UX Society is a student organization that advocates and practices
-      human-centered design in solving problems in the community.
-
-
-      We unleash the designer in you.
+      We are the core of UXSoc that advocates the practice of user experience.
+      We handle all client projects in and outside of Ateneo, creating products
+      that are functional and impactful for our clients. We evangelize user
+      experience through workshops and learning modules and train future design
+      leaders.
     positions:
       - description: >-
-          UX Society aims to nurture designers who are passionate about solving
-          problems in the community through human-centered design
-        title: Vision
+          If you're interested in creating tangible products, then this is the
+          perfect role for you. You design products for the user and
+          continuously seek to improve them. The specialization in this position
+          are:
+
+
+          * **Visual Designer** : Focuses on the "look" of the product and
+          create wireframes, mockups, MVPs, and design elements
+
+          * **Interaction Designer**: Focuses on the "feel" of the product and
+          crafts the experiences of the user in motion, action, and reaction
+          components
+        title: Product Design Officer
       - description: >-
-          UX Society empowers people through design education, enlightens them
-          to the power of design, and nurtures them to create meaningful
-          products for the community
-        title: Mission
-    title: About Us
+          f you want to learn how to minds (or close enough), content strategy
+          is your field. You carry out user research and strategize the best way
+          to present the client's content in their product. The specialization
+          in this position are:
+
+
+          * **Researcher**: Conducts stakeholder interview for user research,
+          defines user problems, maps out user journeys, and creates empathy
+          maps
+
+          * **Information Architecture Officer** : Prepares site maps and
+          utilizes other appropriate UX strategies with clients as well as other
+          members of the Design and Consultancy team
+        title: 'UX Researcher '
+    title: UXDC
   - cards: []
     description: >-
       In UXSociety, design is not limited to products but also to event
