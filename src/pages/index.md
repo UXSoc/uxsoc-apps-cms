@@ -195,6 +195,36 @@ departmentsSection:
           * All around work -- help members when they need something,
           communicate with other departments
         title: Project Manager (Flagship Project)
+      - description: >-
+          * In-charge of ideation and content creation with regards to program
+          planning and flow
+
+          * To create programs and activities that are best suited for an online
+          platform (as of now)
+
+          * Must be a creative thinker that can implement fresh and new ideas
+          for the programs for each event
+
+          * Create spiels of the hosts
+
+          * Must be flexible and can easily revise any program changes
+        title: Programs Head (Flagship Project)
+      - description: >-
+          * Takes note of the minutes of the meeting
+
+          * Handles the evaluation process
+
+          * In-charge of handling the logistics of the event (sending necessary
+          forms to OSA)
+
+          * Must be organized and detail-oriented
+        title: Secretariat (Flagship Project)
+      - description: |-
+          * In-charge of looking for speakers and hosts for the events
+          * Create e-mail templates/letters to be sent out to potential clients
+          * Is the communication bridge between the client and the organization
+          * Create write ups about the speakers
+        title: Externals Head (Flagship Project)
     title: "\U0001F3A4 Events"
   - cards: []
     description: >-
