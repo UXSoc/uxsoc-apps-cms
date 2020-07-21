@@ -85,25 +85,103 @@ departmentsSection:
           JavaScript frameworks, and Content Management Systems
         title: Front End Engineering Officer
     title: "\U0001F4BB Engineering (UXDev)"
-  - cards: []
-    description: >
-      Money makes the world go round. We enable UXSociety activities to happen
-      as we allocate and maximize the organization’s funds to continue
-      UXSociety’s mission of evangelizing user experience. Being advocates of
-      financial literacy, we experience the real-life financial processes of a
-      design firm as we are compensated for our client's work.
+  - description: >-
+      Being a designer does not happen overnight. We, in the Events department,
+      design event experiences that nurture the growth of the members of
+      UXSociety. Our informative and meaningful events add value to the
+      development of members as design leaders and developers.
     positions:
+      - description: >-
+          * Oversee all of the members’ tasks and make sure each one is on track
+          with all their responsibilities
+
+          * To set deadlines for each role and ensure that it is followed
+
+          * Will work closely with the AVP and give weekly updates on the
+          members and event progress
+
+          * All around work -- help members when they need something,
+          communicate with other departments
+        title: Project Manager (Flagship Project)
+      - description: >-
+          * In-charge of ideation and content creation with regards to program
+          planning and flow
+
+          * To create programs and activities that are best suited for an online
+          platform (as of now)
+
+          * Must be a creative thinker that can implement fresh and new ideas
+          for the programs for each event
+
+          * Create spiels of the hosts
+
+          * Must be flexible and can easily revise any program changes
+        title: Programs Head (Flagship Project)
+      - description: >-
+          * Takes note of the minutes of the meeting
+
+          * Handles the evaluation process
+
+          * In-charge of handling the logistics of the event (sending necessary
+          forms to OSA)
+
+          * Must be organized and detail-oriented
+        title: Secretariat (Flagship Project)
       - description: |-
-          * **Officer 1** 
-            * In charge of helping the AVP of fund generation with the communication of suppliers and sourcing out potential suppliers of merchandise or supplies.
-          * **Officer 2**
-            * In charge of helping the AVP of fund generation with consumer related tasks of fund generation, this can be from the distribution of merchandise to ensuring that the consumer has a great buying experience from UXS
-        title: Fund Gen
+          * In-charge of looking for speakers and hosts for the events
+          * Create e-mail templates/letters to be sent out to potential clients
+          * Is the communication bridge between the client and the organization
+          * Create write ups about the speakers
+        title: Externals Head (Flagship Project)
+      - description: >-
+          * In charge of facilitating the tasks needed to be accomplished to
+          Programs and Logistics Officers.
+            * Includes Creating A Schedule For Meetings in both Event Planning and Post Event Processing
+            * Includes Setting A Deadline For these Tasks
+            * Include Monitoring and Documenting Project Progress
+          * In charge of Communicating with other departments on what they need
+            *    Includes Creating Meetings For these Departments
+          * In charge of Preparing for Potential Risks
+
+          * All around work -- help members when they need something,
+          communicate with other departments
+        title: Project Manager (Minor Project)
+      - description: >-
+          * In Charge of Handling the Online Platform Needed to Hold the
+          Workshop (ex. Zoom)
+
+          * Prepare Other Materials Needed For the Workshop (ex. Videos or
+          powerpoints needed by other Departments for You To Present, Music
+          While waiting for more participants)
+
+          * Must be prepared for potential risks (ex. Zoom link not working or
+          zoom is lagging and you have to switch platforms)
+
+          * In charge of Creating Sign-ups and post evals for these Workshops
+          and keeping track of registrations
+        title: Logistics (Minor Project)
+      - description: >-
+          * In charge of handling the Program Flow of each Workshop
+
+          * In charge of Creating Icebreakers
+
+          * Help In Creating the Module and Suggesting Content For These
+          Workshops
+
+          * Must be In Contact with Marketing for Spiels
+
+          * In charge of sending emails for possible speakers (if there are any)
+
+          * In Charge of Monitoring the chat and handling the Q&A (ex .Creating
+          a Poll for most voted questions)
+        title: Programs Head (Minor Project)
       - description: |-
-          * Officer 3 
-            * In charge of aiding the AVP of fund management with the tracking and allocation of funds within the organization
-        title: Fund Management
-    title: "\U0001F4B8 Finance"
+          * In-charge of looking for speakers and hosts for the events
+          * Create e-mail templates/letters to be sent out to potential clients
+          * Is the communication bridge between the client and the organization
+          * Create write ups about the speakers
+        title: External Head (Minor Project)
+    title: "\U0001F3A4 Events"
   - cards: []
     description: >-
       We, in the Externals department, are the faces of UXSoc who interact with
@@ -121,7 +199,27 @@ departmentsSection:
           in externals is preferred but not required.
         title: Externals Officer
     title: "\U0001F91D Externals"
-  - description: >-
+  - cards: []
+    description: >
+      Money makes the world go round. We enable UXSociety activities to happen
+      as we allocate and maximize the organization’s funds to continue
+      UXSociety’s mission of evangelizing user experience. Being advocates of
+      financial literacy, we experience the real-life financial processes of a
+      design firm as we are compensated for our client's work.
+    positions:
+      - description: |-
+          * **Officer 1** 
+            * In charge of helping the AVP of fund generation with the communication of suppliers and sourcing out potential suppliers of merchandise or supplies.
+          * **Officer 2**
+            * In charge of helping the AVP of fund generation with consumer related tasks of fund generation, this can be from the distribution of merchandise to ensuring that the consumer has a great buying experience from UXS
+        title: Fund Gen
+      - description: |-
+          * Officer  
+            * In charge of aiding the AVP of fund management with the tracking and allocation of funds within the organization
+        title: Fund Management
+    title: "\U0001F4B8 Finance"
+  - cards: []
+    description: >-
       At the Marketing department, we nurture the identity of the UXSoc and
       ensure that the organization is well represented on all platforms through
       our campaign strategies for content and promotional materials. We make
@@ -160,7 +258,7 @@ departmentsSection:
           different clients of UX Society.
 
 
-          Responsibilities
+          **Responsibilities**
 
 
           * Gain experience by working on branding deliverables for UXSoc
@@ -174,6 +272,105 @@ departmentsSection:
           Illustrator, Figma)\*
             * mean adjustable*
         title: External Branding Officer
+      - description: >-
+          **Role**
+
+
+          * The Content Writer will compose content for the organization's
+          online presence, craft marketing copies, and edit before publication.
+
+
+          **Responsibilities** 
+
+
+          * Produce relevant content for official social media platforms
+
+          * Research UX-related trends, updates, news
+
+          * Spearhead ideation sessions
+        title: Content Officer
+      - description: >-
+          **Role**
+
+
+          * The Community Engagement Officer is in charge of driving member
+          engagement through social media efforts, and ensures all content is
+          grounded in UXSociety's human-centric advocacy.
+
+
+          **Responsibilities** 
+
+
+          * Keeps the official pages and groups up to date
+
+          * Establishes and maintains member relationships
+
+          * Leads OKR (Objectives and Key Results) meetings
+        title: Community Engagement Officer
+      - description: >-
+          **Role**
+
+
+          * The **Photo Editor** ensures proper documentation and representation
+          of UX Society by enhancing photos taken from a UX Soc event to further
+          promote its projects and initiatives.
+
+
+          **Responsibilities**
+
+
+          * Enhances photos for branding purposes of a UX event
+
+          * Ensure to present photos appropriate and appealing to viewers on
+          social media
+
+          * Knows basic photo-editing skills and softwares like Adobe Photoshop,
+          and Adobe Lightroom
+        title: 'Photo Editors '
+      - description: >-
+          **Role**
+
+
+          * The **Video Editor** ensures proper documentation and representation
+          of UX Society by enhancing videos taken from a UX Soc event to further
+          promote its projects and initiatives.
+
+
+          **Responsibilities** 
+
+
+          * Enhances videos for branding purposes of a UX event
+
+          * Ensure to present videos appropriate and appealing to viewers on
+          social media
+
+          * Help create video lectures from other UX departments
+
+          * Has experience in creating quality videos
+        title: Video Editor
     title: "\U0001F4DD Marketing"
+  - description: >-
+      Behind the success of every organization is a solid foundation of trust
+      and a sense of community. UXSociety cares for its own members’ experience.
+      We, in the Department of Human Resources, are the Support Unit of
+      UXSociety: organizing projects and initiatives that create an environment
+      where the members can explore, connect, and grow as design leaders. 
+    positions:
+      - description: |-
+          * Organizes Bonding Activities and Team-building
+          * Conducts ICs with other officers and members
+          * Opportunity widening: Inviting members to UX events outside of UXSoc
+        title: Member Happiness Officer
+      - description: >-
+          * Organizes the HR Curriculum of articles and FB group posts
+
+          * Conducts researches about the current composition of members
+
+          * Assesses trends and creates reports from event and IC responses
+
+          * Conducts SWOT Analysis on events in egress and from feedback
+          findings
+        title: Member Growth Officer
+    title: "\U0001F3E0 Human Resources"
 ---
 
