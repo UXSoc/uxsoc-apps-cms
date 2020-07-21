@@ -60,7 +60,7 @@ departmentsSection:
           utilizes other appropriate UX strategies with clients as well as other
           members of the Design and Consultancy team
         title: 'UX Researcher '
-    title: UXDC
+    title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
     description: >
       Bringing the designs to life, we, engineers from the Engineering
@@ -84,7 +84,7 @@ departmentsSection:
           also need to have a proficient understanding of client-side scripting,
           JavaScript frameworks, and Content Management Systems
         title: Front End Engineering Officer
-    title: UXDev
+    title: "\U0001F4BB Engineering (UXDev)"
   - cards: []
     description: >
       Money makes the world go round. We enable UXSociety activities to happen
@@ -103,7 +103,7 @@ departmentsSection:
           * Officer 3 
             * In charge of aiding the AVP of fund management with the tracking and allocation of funds within the organization
         title: Fund Management
-    title: Finance
+    title: "\U0001F4B8 Finance"
   - cards: []
     description: >-
       We, in the Externals department, are the faces of UXSoc who interact with
@@ -120,7 +120,7 @@ departmentsSection:
           detail-oriented and have good communication skills. Prior experience
           in externals is preferred but not required.
         title: Externals Officer
-    title: Externals
+    title: "\U0001F91D Externals"
   - description: >-
       At the Marketing department, we nurture the identity of the UXSoc and
       ensure that the organization is well represented on all platforms through
@@ -174,6 +174,6 @@ departmentsSection:
           Illustrator, Figma)\*
             * mean adjustable*
         title: External Branding Officer
-    title: Marketing
+    title: "\U0001F4DD Marketing"
 ---
 
