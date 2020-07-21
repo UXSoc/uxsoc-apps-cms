@@ -85,12 +85,7 @@ departmentsSection:
           JavaScript frameworks, and Content Management Systems
         title: Front End Engineering Officer
     title: "\U0001F4BB Engineering (UXDev)"
-  - description: >-
-      Being a designer does not happen overnight. We, in the Events department,
-      design event experiences that nurture the growth of the members of
-      UXSociety. Our informative and meaningful events add value to the
-      development of members as design leaders and developers.
-    positions:
+  - cards:
       - description: >-
           * Oversee all of the members’ tasks and make sure each one is on track
           with all their responsibilities
@@ -181,6 +176,12 @@ departmentsSection:
           * Is the communication bridge between the client and the organization
           * Create write ups about the speakers
         title: External Head (Minor Project)
+    description: >-
+      Being a designer does not happen overnight. We, in the Events department,
+      design event experiences that nurture the growth of the members of
+      UXSociety. Our informative and meaningful events add value to the
+      development of members as design leaders and developers.
+    positions: []
     title: "\U0001F3A4 Events"
   - cards: []
     description: >-
