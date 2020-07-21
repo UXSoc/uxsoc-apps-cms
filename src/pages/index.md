@@ -85,7 +85,8 @@ departmentsSection:
           JavaScript frameworks, and Content Management Systems
         title: Front End Engineering Officer
     title: "\U0001F4BB Engineering (UXDev)"
-  - cards:
+  - cardSectionTitle: hih
+    cards:
       - description: >-
           * Oversee all of the members’ tasks and make sure each one is on track
           with all their responsibilities
