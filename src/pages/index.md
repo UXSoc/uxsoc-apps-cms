@@ -46,7 +46,7 @@ departmentsSection:
           components
         title: Product Design Officer
       - description: >-
-          f you want to learn how to minds (or close enough), content strategy
+          If you want to learn how to minds (or close enough), content strategy
           is your field. You carry out user research and strategize the best way
           to present the client's content in their product. The specialization
           in this position are:
@@ -62,126 +62,64 @@ departmentsSection:
         title: 'UX Researcher '
     title: UXDC
   - cards: []
-    description: >-
-      In UXSociety, design is not limited to products but also to event
-      experiences for our members. Our projects have the goal of educating
-      future design leaders with UX fundamentals and equipping everyone with
-      skills necessary for growth.
+    description: >
+      Bringing the designs to life, we, engineers from the Engineering
+      department, focus on developing the website projects of UXSoc and its
+      clients both in Front-End and Back-End Engineering. The department has a
+      professional and tight-knit environment that enables the members of UXSoc
+      to expand their knowledge and appreciate the beauty of impactful web
+      development for well-made designs.
     positions:
       - description: >-
-          ![](/images/uploads/76608812_1389559281226065_7378537850687455232_o.jpg)
-
-
-          UXSoc’s annual flagship event that aims to promote UX and its use and
-          impact to various demographics by allowing people from the design
-          industry to share their knowledge and expertise. This year, we’re
-          holding a 1-day design conference and workshop!
-        title: UX & Chill
+          If you want to curate the structure of server side information, then
+          this role is a fit for you. You primarily help in writing server side
+          scripts and APIs that are to be utilized by front end engineers and UX
+          designers. As a back end engineer, having a willing-to-learn attitude
+          is crucial in your growth and development as a member of the team and
+          as a developer.
+        title: Back End Engineering Officer
       - description: >-
-          ![](/images/uploads/53334487_1190382161143779_7946485677162496000_o.jpg)
-
-
-          A 3-week design course and case competition created to equip
-          participants with the right skills, tools, and mindset to solve
-          pressing issues in the community through user experience design. No
-          experience needed - only the will and passion to learn!
-        title: UX University
-    title: Flagships
-  - cards:
-      - description: >-
-          Advocacy selling of UX branded merchandise to promote organizational
-          culture and complete the look for the "Mafia" mentality.
-        title: 'Finance: La Familia'
-      - description: >-
-          Learning Front-end & Back-end Development during the workshops to be
-          conducted and working on multiple Engineering projects can really be
-          toxic and taxing for students. Thus, an anti-burnout policy should be
-          top most priority.
-        title: 'UXDev: Anti-Burnout Policy for Engineering'
-      - description: >-
-          An online mentorship system for UXers to bond, connect, and learn from
-          one another in our Discord community. Game nights, netflix parties,
-          and learning channels are open for everyone to enjoy.
-        title: 'HR: Virtual UXSoc Family'
-      - description: >-
-          Aside from the UX workshops that aim to solidify your foundations in
-          design, User Experience Society is also known for its strong
-          mentorship culture. To further complement the workshops, UXDC will
-          have a year-long mentorship program that aims to solidify aspiring
-          designers’ knowledge and skill in UX Design while establishing a
-          close-knit bond with everyone. Get help from our mentors, UXSoc
-          Alumni, and more through our mentorship initiatives!
-        title: 'UXDC: Mentorship'
-      - description: >-
-          UX-related short clips, UX-based games, applications, books, or
-          basically anything UX related will be shared and posted in the UXSoc
-          page to engage members to try and learn something new.
-        title: 'Events: UX How To'
-      - description: >-
-          Build up your network and connect with other designers! Have a chance
-          to interact with industry professionals as they share their expertise
-          and experiences in the tech and design field. Along the way, you might
-          even get to catch an internship opportunity or two.
-        title: 'Externals: Mentorship and Networking Opportunities'
-      - description: >-
-          As a way to uplift members and showcase our pride, we will be
-          accepting design submissions for different types of content such as
-          digital art, photography, animations, videography, UX/UI design
-          concepts, and the like. From these submissions, a handful will be
-          picked and featured on official UXSoc platforms to promote art and
-          inspire others to keep creating.
-        title: 'Marketing: Featured Submissions'
-      - description: >-
-          Learn the skills that will refine your documents into tip-top shape
-          for your organization and your personal life. With bi-weekly learning
-          sessions, learn more about best practices in document/project set-up
-          and management, content auditing, effective writing and pristine
-          documentation systems. Here, the way you’ll manage your files will
-          never be the same again.
-        title: 'Secretariat: Document Auditing and Efficiency'
+          Your job is to combine the art of programming with the art of design.
+          You will be tasked to write the web markup, including HTML5, CSS3. You
+          also need to have a proficient understanding of client-side scripting,
+          JavaScript frameworks, and Content Management Systems
+        title: Front End Engineering Officer
+    title: UXDev
+  - cards: []
+    description: >
+      Money makes the world go round. We enable UXSociety activities to happen
+      as we allocate and maximize the organization’s funds to continue
+      UXSociety’s mission of evangelizing user experience. Being advocates of
+      financial literacy, we experience the real-life financial processes of a
+      design firm as we are compensated for our client's work.
+    positions:
+      - description: |-
+          * **Officer 1** 
+            * In charge of helping the AVP of fund generation with the communication of suppliers and sourcing out potential suppliers of merchandise or supplies.
+          * **Officer 2**
+            * In charge of helping the AVP of fund generation with consumer related tasks of fund generation, this can be from the distribution of merchandise to ensuring that the consumer has a great buying experience from UXS
+        title: Fund Gen
+      - description: |-
+          * Officer 3 
+            * In charge of aiding the AVP of fund management with the tracking and allocation of funds within the organization
+        title: Fund Management
+    title: Finance
+  - cards: []
     description: >-
-      Take a look at some of our exciting new projects and initiatives! All
-      projects and initiatives are open for members to join in.
-    positions: []
-    title: Projects
-  - cards:
+      We, in the Externals department, are the faces of UXSoc who interact with
+      organizations and companies inside and outside of Ateneo. We create
+      connections through partnerships and sponsorships and serve as the
+      bridgeway for students to network with people in the industry.
+    positions:
       - description: >-
-          I had my first UXSoc event experience in the General Assembly last
-          2018. I like that it was very informative in terms of explaining the
-          purpose of the organization and the different positions that come with
-          it. I also like the activities that help the audience showcase their
-          creativity such as the paper folding activity. I didn't find anything
-          unlikable about the event, and my experience actually made me want to
-          attend more events since it properly showcased the future events that
-          they'll be holding, piquing the interest of the attendees.
-        title: Mark
-      - description: >-
-          I joined UXSoc with no knowledge of coding or design in general but
-          seeing my friends develop their skills through workshops in this org
-          really made me wanna try it out. This prompted me to become an officer
-          in my first year so that I can feel more involved with the org and it
-          did. By interacting with the VPs and other officers I decided to join
-          UX University where I got to learn the basics of Figma by our guest
-          speaker. Sadly, I haven't been able to practice Figma but its always
-          nice that I can pick up from where I left off because of this org.
-        title: Matt
-      - description: >-
-          When I joined UXSociety, I had little to no experience in design.
-          Because of my course, I wanted to join an org that showed me how to
-          work with coding, but also enabled me to tap into my more creative
-          side. The first event I attended from UXSoc was the UX General
-          Assembly in 2019. It was in this event that I experienced just how
-          committed the officers and its members are to UXSoc's vision and
-          mission - all while still having fun and enjoying each other's
-          company. I still have a long way to go on my UX journey, but everybody
-          has to start somewhere, and I'm glad I took the leap and applied for
-          the org!
-        title: Jill
-    description: >-
-      UXSociety has been helping aspiring designers and developers start their
-      UX journeys since Day 1. Here are some of UXers' experiences with their
-      first UXSociety event!
-    positions: []
-    title: Testimonies
+          Externals officers will be helping the VP, AVP for Partner Acquisition
+          and AVP for Partner Relations in contacting potential partners,
+          drafting emails, acquiring speakers for events and workshops, and
+          keeping track of the various agreements and responsibilities that need
+          to be upheld by both the org and the partner. They must be
+          detail-oriented and have good communication skills. Prior experience
+          in externals is preferred but not required.
+        title: Externals Officer
+    title: Externals
 ---
 
