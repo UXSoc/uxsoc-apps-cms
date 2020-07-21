@@ -121,5 +121,59 @@ departmentsSection:
           in externals is preferred but not required.
         title: Externals Officer
     title: Externals
+  - description: >-
+      At the Marketing department, we nurture the identity of the UXSoc and
+      ensure that the organization is well represented on all platforms through
+      our campaign strategies for content and promotional materials. We make
+      sure that event and initiative collaterals are aesthetically pleasing and
+      informative at the same time.
+    positions:
+      - description: >-
+          **Role**
+
+
+          * The Internal Branding Officer will work under the Branding AVP, and
+          assist in the ideation and design creation of publication materials
+          involved for events and departmental initiatives.
+
+
+          **Responsibilities**
+
+
+          * Conceptualizes and executes publication materials for assigned
+          marketing events
+
+          * Assists in overseeing departmental or office initiatives
+
+          * will propose 1-2 internal initiatives for the department
+
+          * must have experience using creative software (either Photoshop,
+          Illustrator, Figma)*
+            * \*means adjustable
+        title: Internal Branding Officer
+      - description: >-
+          **Role**
+
+
+          * The External Branding Officer will work under the Branding AVP, and
+          assist in the branding collaterals and efforts assigned for the
+          different clients of UX Society.
+
+
+          Responsibilities
+
+
+          * Gain experience by working on branding deliverables for UXSoc
+          clients
+
+          * Coordinate with other departments for requirements if necessary
+
+          * Will propose 1-2 external initiatives for the department
+
+          * \*Must have experience using creative software (either Photoshop,
+          Illustrator, Figma)\*
+            * mean adjustable*
+        title: External Branding Officer
+    title: Marketing
 ---
 
