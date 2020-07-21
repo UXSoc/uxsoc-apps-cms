@@ -1,9 +1,9 @@
-import React, { Fragment } from 'react'
-import Layout from '../../components/layout'
-import { graphql } from 'gatsby'
+import React, { Fragment } from "react"
+import Layout from "../../components/layout"
+import { graphql } from "gatsby"
 
-import HeroSection from './components/hero-section'
-import DepartmentsSection from './components/departments-section'
+import HeroSection from "./components/hero-section"
+import DepartmentsSection from "./components/departments-section"
 
 export const HomePageTemplate = ({
   heroSection,
@@ -101,13 +101,14 @@ export const HomePageQuery = graphql`
             title
             description
           }
-          cardSectionTitle
-          cards {
-            title
-            description
-          }
         }
       }
     }
   }
 `
+
+// cardSectionTitle
+//           cards {
+//             title
+//             description
+//           }
