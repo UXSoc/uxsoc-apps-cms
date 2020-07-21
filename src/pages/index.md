@@ -182,7 +182,19 @@ departmentsSection:
       design event experiences that nurture the growth of the members of
       UXSociety. Our informative and meaningful events add value to the
       development of members as design leaders and developers.
-    positions: []
+    positions:
+      - description: >-
+          * Oversee all of the members’ tasks and make sure each one is on track
+          with all their responsibilities
+
+          * To set deadlines for each role and ensure that it is followed
+
+          * Will work closely with the AVP and give weekly updates on the
+          members and event progress
+
+          * All around work -- help members when they need something,
+          communicate with other departments
+        title: Project Manager (Flagship Project)
     title: "\U0001F3A4 Events"
   - cards: []
     description: >-
