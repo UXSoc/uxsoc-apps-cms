@@ -258,7 +258,7 @@ departmentsSection:
             * In charge of helping the AVP of fund generation with consumer related tasks of fund generation, this can be from the distribution of merchandise to ensuring that the consumer has a great buying experience from UXS
         title: Fund Gen
       - description: |-
-          * Officer  
+          * **Officer**  
             * In charge of aiding the AVP of fund management with the tracking and allocation of funds within the organization
         title: Fund Management
     title: "\U0001F4B8 Finance"
@@ -355,8 +355,8 @@ departmentsSection:
           **Role**
 
 
-          * The **Photo Editor** ensures proper documentation and representation
-          of UX Society by enhancing photos taken from a UX Soc event to further
+          * The Photo Editor ensures proper documentation and representation of
+          UX Society by enhancing photos taken from a UX Soc event to further
           promote its projects and initiatives.
 
 
@@ -375,8 +375,8 @@ departmentsSection:
           **Role**
 
 
-          * The **Video Editor** ensures proper documentation and representation
-          of UX Society by enhancing videos taken from a UX Soc event to further
+          * The Video Editor ensures proper documentation and representation of
+          UX Society by enhancing videos taken from a UX Soc event to further
           promote its projects and initiatives.
 
 
