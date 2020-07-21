@@ -11,6 +11,6 @@ seo:
 headerSection:
   buttonVisible: true
   title: Member Applications
-link: 'https://airtable.com/embed/shrAtJwFe3Kk2Q7me?backgroundColor=cyan'
+link: 'https://airtable.com/embed/shr0AAzifPZPwvGUv?backgroundColor=pink'
 ---
 
