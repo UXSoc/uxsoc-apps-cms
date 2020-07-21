@@ -14,7 +14,7 @@ seo:
   siteTitle: Home
 headerSection:
   buttonVisible: true
-  title: Member Applications
+  title: Officer Applications
 heroSection:
   description: >-
     Hey there, UXer! Want to join the run for **SY 2020-2021**? Read through the
