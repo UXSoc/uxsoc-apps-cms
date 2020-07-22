@@ -182,7 +182,98 @@ departmentsSection:
       design event experiences that nurture the growth of the members of
       UXSociety. Our informative and meaningful events add value to the
       development of members as design leaders and developers.
-    positions: []
+    positions:
+      - description: >-
+          * Oversee all of the members’ tasks and make sure each one is on track
+          with all their responsibilities
+
+          * To set deadlines for each role and ensure that it is followed
+
+          * Will work closely with the AVP and give weekly updates on the
+          members and event progress
+
+          * All around work -- help members when they need something,
+          communicate with other departments
+        title: Project Manager (Flagship Project)
+      - description: >-
+          * In-charge of ideation and content creation with regards to program
+          planning and flow
+
+          * To create programs and activities that are best suited for an online
+          platform (as of now)
+
+          * Must be a creative thinker that can implement fresh and new ideas
+          for the programs for each event
+
+          * Create spiels of the hosts
+
+          * Must be flexible and can easily revise any program changes
+        title: Programs Head (Flagship Project)
+      - description: >-
+          * Takes note of the minutes of the meeting
+
+          * Handles the evaluation process
+
+          * In-charge of handling the logistics of the event (sending necessary
+          forms to OSA)
+
+          * Must be organized and detail-oriented
+        title: Secretariat (Flagship Project)
+      - description: |-
+          In-charge of looking for speakers and hosts for the events
+
+          * Create e-mail templates/letters to be sent out to potential clients
+          * Is the communication bridge between the client and the organization
+          * Create write ups about the speakers
+        title: Externals Head (Flagship Project)
+      - description: >-
+          * In charge of facilitating the tasks needed to be accomplished to
+          Programs and Logistics Officers.
+            * Includes Creating A Schedule For Meetings in both Event Planning and Post Event Processing
+            * Includes Setting A Deadline For these Tasks
+            * Include Monitoring and Documenting Project Progress
+          * In charge of Communicating with other departments on what they need
+            * Includes Creating Meetings For these Departments
+          * In charge of Preparing for Potential Risks
+
+          * All around work -- help members when they need something,
+          communicate with other departments
+        title: Project Manager (Minor Project)
+      - description: >-
+          * In Charge of Handling the Online Platform Needed to Hold the
+          Workshop (ex. Zoom)
+
+          * Prepare Other Materials Needed For the Workshop (ex. Videos or
+          powerpoints needed by other Departments for You To Present, Music
+          While waiting for more participants)
+
+          * Must be prepared for potential risks (ex. Zoom link not working or
+          zoom is lagging and you have to switch platforms)
+
+          * In charge of Creating Sign-ups and post evals for these Workshops
+          and keeping track of registrations
+        title: Logistics (Minor Project)
+      - description: >-
+          * In charge of handling the Program Flow of each Workshop
+
+          * In charge of Creating Icebreakers
+
+          * Help In Creating the Module and Suggesting Content For These
+          Workshops
+
+          * Must be In Contact with Marketing for Spiels
+
+          * In charge of sending emails for possible speakers (if there are any)
+
+          * In Charge of Monitoring the chat and handling the Q&A (ex .Creating
+          a Poll for most voted questions)
+        title: Programs Head (Minor Project)
+      - description: |-
+          * In-charge of looking for speakers and hosts for the events
+          * Create e-mail templates/letters to be sent out to potential clients
+          * Is the communication bridge between the client and the organization
+          * Create write ups about the speakers
+        title: External Head (Minor Project)
     title: "\U0001F3A4 Events"
   - cards: []
     description: >-
