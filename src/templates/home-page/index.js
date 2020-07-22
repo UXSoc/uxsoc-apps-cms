@@ -102,7 +102,6 @@ export const HomePageQuery = graphql`
             description
           }
         }
-        cardSectionTitle
         cards {
           title
           description
