@@ -182,49 +182,7 @@ departmentsSection:
       design event experiences that nurture the growth of the members of
       UXSociety. Our informative and meaningful events add value to the
       development of members as design leaders and developers.
-    positions:
-      - description: >-
-          * Oversee all of the members’ tasks and make sure each one is on track
-          with all their responsibilities
-
-          * To set deadlines for each role and ensure that it is followed
-
-          * Will work closely with the AVP and give weekly updates on the
-          members and event progress
-
-          * All around work -- help members when they need something,
-          communicate with other departments
-        title: Project Manager (Flagship Project)
-      - description: >-
-          * In-charge of ideation and content creation with regards to program
-          planning and flow
-
-          * To create programs and activities that are best suited for an online
-          platform (as of now)
-
-          * Must be a creative thinker that can implement fresh and new ideas
-          for the programs for each event
-
-          * Create spiels of the hosts
-
-          * Must be flexible and can easily revise any program changes
-        title: Programs Head (Flagship Project)
-      - description: >-
-          * Takes note of the minutes of the meeting
-
-          * Handles the evaluation process
-
-          * In-charge of handling the logistics of the event (sending necessary
-          forms to OSA)
-
-          * Must be organized and detail-oriented
-        title: Secretariat (Flagship Project)
-      - description: |-
-          * In-charge of looking for speakers and hosts for the events
-          * Create e-mail templates/letters to be sent out to potential clients
-          * Is the communication bridge between the client and the organization
-          * Create write ups about the speakers
-        title: Externals Head (Flagship Project)
+    positions: []
     title: "\U0001F3A4 Events"
   - cards: []
     description: >-
