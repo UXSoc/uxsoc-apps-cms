@@ -85,7 +85,7 @@ departmentsSection:
           JavaScript frameworks, and Content Management Systems
         title: Front End Engineering Officer
     title: "\U0001F4BB Engineering (UXDev)"
-  - cardSectionTitle: ihhiuhiu
+  - cardSectionTitle: ''
     cards:
       - description: >-
           * Oversee all of the members’ tasks and make sure each one is on track
@@ -220,7 +220,129 @@ departmentsSection:
             * In charge of aiding the AVP of fund management with the tracking and allocation of funds within the organization
         title: Fund Management
     title: "\U0001F4B8 Finance"
-  - cards: []
+  - cards:
+      - description: >-
+          **Role**
+
+
+          * The Internal Branding Officer will work under the Branding AVP, and
+          assist in the ideation and design creation of publication materials
+          involved for events and departmental initiatives.
+
+
+          **Responsibilities**
+
+
+          * Conceptualizes and executes publication materials for assigned
+          marketing events
+
+          * Assists in overseeing departmental or office initiatives
+
+          * will propose 1-2 internal initiatives for the department
+
+          * must have experience using creative software (either Photoshop,
+          Illustrator, Figma)*
+            * \*means adjustable
+        title: Internal Branding Officer
+      - description: >-
+          **Role**
+
+
+          * The External Branding Officer will work under the Branding AVP, and
+          assist in the branding collaterals and efforts assigned for the
+          different clients of UX Society.
+
+
+          **Responsibilities**
+
+
+          * Gain experience by working on branding deliverables for UXSoc
+          clients
+
+          * Coordinate with other departments for requirements if necessary
+
+          * Will propose 1-2 external initiatives for the department
+
+          * \*Must have experience using creative software (either Photoshop,
+          Illustrator, Figma)\*
+            * mean adjustable*
+        title: External Branding Officer
+      - description: >-
+          **Role**
+
+
+          * The Content Writer will compose content for the organization's
+          online presence, craft marketing copies, and edit before publication.
+
+
+          **Responsibilities** 
+
+
+          * Produce relevant content for official social media platforms
+
+          * Research UX-related trends, updates, news
+
+          * Spearhead ideation sessions
+        title: Content Officer
+      - description: >-
+          **Role**
+
+
+          * The Community Engagement Officer is in charge of driving member
+          engagement through social media efforts, and ensures all content is
+          grounded in UXSociety's human-centric advocacy.
+
+
+          **Responsibilities** 
+
+
+          * Keeps the official pages and groups up to date
+
+          * Establishes and maintains member relationships
+
+          * Leads OKR (Objectives and Key Results) meetings
+        title: Community Engagement Officer
+      - description: >-
+          **Role**
+
+
+          * The Photo Editor ensures proper documentation and representation of
+          UX Society by enhancing photos taken from a UX Soc event to further
+          promote its projects and initiatives.
+
+
+          **Responsibilities**
+
+
+          * Enhances photos for branding purposes of a UX event
+
+          * Ensure to present photos appropriate and appealing to viewers on
+          social media
+
+          * Knows basic photo-editing skills and softwares like Adobe Photoshop,
+          and Adobe Lightroom
+        title: 'Photo Editors '
+      - description: >-
+          **Role**
+
+
+          * The Video Editor ensures proper documentation and representation of
+          UX Society by enhancing videos taken from a UX Soc event to further
+          promote its projects and initiatives.
+
+
+          **Responsibilities** 
+
+
+          * Enhances videos for branding purposes of a UX event
+
+          * Ensure to present videos appropriate and appealing to viewers on
+          social media
+
+          * Help create video lectures from other UX departments
+
+          * Has experience in creating quality videos
+        title: Video Editor
     description: >-
       At the Marketing department, we nurture the identity of the UXSoc and
       ensure that the organization is well represented on all platforms through
