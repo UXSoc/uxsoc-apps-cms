@@ -1,11 +1,11 @@
 ---
 templateKey: home-page
 slug: /
-defaultColor: '#828282'
-primaryColor: '#8300D7 '
-secondaryColor: '#FA8C71'
-backgroundColor: '#FBFBFB'
-footerColor: '#4f4f4f'
+defaultColor: "#828282"
+primaryColor: "#8300D7 "
+secondaryColor: "#FA8C71"
+backgroundColor: "#FBFBFB"
+footerColor: "#4f4f4f"
 seo:
   siteDescription: >-
     This is the official application platform of User Experience Society for
@@ -22,7 +22,7 @@ heroSection:
     forget to click apply!
   title: EXPERIENCE BETTER WITH UXSOCIETY
 departmentsSection:
-  - cardSectionTitle: ''
+  - cardSectionTitle: ""
     cards: []
     description: >-
       We are the core of UXSoc that advocates the practice of user experience.
@@ -59,7 +59,7 @@ departmentsSection:
           * **Information Architecture Officer** : Prepares site maps and
           utilizes other appropriate UX strategies with clients as well as other
           members of the Design and Consultancy team
-        title: 'UX Researcher '
+        title: "UX Researcher "
     title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
     description: >
@@ -85,7 +85,7 @@ departmentsSection:
           JavaScript frameworks, and Content Management Systems
         title: Front End Engineering Officer
     title: "\U0001F4BB Engineering (UXDev)"
-  - cardSectionTitle: ''
+  - cardSectionTitle: ""
     cards:
       - description: >-
           * Oversee all of the members’ tasks and make sure each one is on track
@@ -321,7 +321,7 @@ departmentsSection:
 
           * Knows basic photo-editing skills and softwares like Adobe Photoshop,
           and Adobe Lightroom
-        title: 'Photo Editors '
+        title: "Photo Editors "
       - description: >-
           **Role**
 
@@ -356,7 +356,7 @@ departmentsSection:
       and a sense of community. UXSociety cares for its own members’ experience.
       We, in the Department of Human Resources, are the Support Unit of
       UXSociety: organizing projects and initiatives that create an environment
-      where the members can explore, connect, and grow as design leaders. 
+      where the members can explore, connect, and grow as design leaders.
     positions:
       - description: |-
           * Organizes Bonding Activities and Team-building
@@ -375,4 +375,3 @@ departmentsSection:
         title: Member Growth Officer
     title: "\U0001F3E0 Human Resources"
 ---
-

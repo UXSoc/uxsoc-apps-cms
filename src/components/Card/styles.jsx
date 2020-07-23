@@ -12,11 +12,12 @@ export const CardContainer = styled.div`
   line-height: 30px;
   letter-spacing: 0.05em;
 
-  width: 48%;
-  margin: 0 0 30px 0;
+  width: 45%;
+  margin: 30px 16px;
 
   @media (max-width: 940px) {
     width: 100%;
+    margin: 0 0 30px 0;
   }
 `
 export const Title = styled.header`
