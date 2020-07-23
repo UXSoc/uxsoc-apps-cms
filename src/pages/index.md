@@ -104,7 +104,7 @@ departmentsSection:
           planning and flow, and create spiels of the host
 
           * To create programs and activities that are best suited for an online
-          platform (as of now)
+          platform (as of now) 
 
           * Must be a creative thinker that can implement fresh and new ideas
           for the programs for each event
