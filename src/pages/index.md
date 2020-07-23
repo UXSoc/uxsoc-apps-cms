@@ -44,7 +44,7 @@ departmentsSection:
           * **Interaction Designer**: Focuses on the "feel" of the product and
           crafts the experiences of the user in motion, action, and reaction
           components
-        title: Product Designer Officer
+        title: Product Designer
       - description: >-
           If you want to learn how to minds (or close enough), content strategy
           is your field. You carry out user research and strategize the best way
@@ -101,15 +101,13 @@ departmentsSection:
         title: Project Manager (Flagship Project)
       - description: >-
           * In-charge of ideation and content creation with regards to program
-          planning and flow
+          planning and flow, and create spiels of the host
 
           * To create programs and activities that are best suited for an online
           platform (as of now)
 
           * Must be a creative thinker that can implement fresh and new ideas
           for the programs for each event
-
-          * Create spiels of the hosts
 
           * Must be flexible and can easily revise any program changes
         title: Programs Head (Flagship Project)
@@ -123,11 +121,13 @@ departmentsSection:
 
           * Must be organized and detail-oriented
         title: Secretariat (Flagship Project)
-      - description: |-
-          * In-charge of looking for speakers and hosts for the events
-          * Create e-mail templates/letters to be sent out to potential clients
+      - description: >-
+          * In-charge of looking for and create write ups about speakers and
+          hosts
+
+          * Create e-mail letters to be sent out to potential clients
+
           * Is the communication bridge between the client and the organization
-          * Create write ups about the speakers
         title: Externals Head (Flagship Project)
       - description: >-
           * In charge of facilitating the tasks needed to be accomplished to
@@ -135,8 +135,9 @@ departmentsSection:
             * Includes Creating A Schedule For Meetings in both Event Planning and Post Event Processing
             * Includes Setting A Deadline For these Tasks
             * Include Monitoring and Documenting Project Progress
-          * In charge of Communicating with other departments on what they need
-            *    Includes Creating Meetings For these Departments
+          * In charge of communicating and creating meetings with other
+          departments on what they need
+
           * In charge of Preparing for Potential Risks
 
           * All around work -- help members when they need something,
@@ -157,18 +158,15 @@ departmentsSection:
           and keeping track of registrations
         title: Logistics (Minor Project)
       - description: >-
-          * In charge of handling the Program Flow of each Workshop
+          * In charge of handling the program flow of each workshop (creating
+          icebreakers as well)
 
-          * In charge of Creating Icebreakers
+          * Help in creating the module and suggesting content for these
+          workshops
 
-          * Help In Creating the Module and Suggesting Content For These
-          Workshops
+          * Must be in contact with marketing for spiels
 
-          * Must be In Contact with Marketing for Spiels
-
-          * In charge of sending emails for possible speakers (if there are any)
-
-          * In Charge of Monitoring the chat and handling the Q&A (ex .Creating
+          * In charge of monitoring the chat and handling the Q&A (ex . creating
           a Poll for most voted questions)
         title: Programs Head (Minor Project)
       - description: |-
