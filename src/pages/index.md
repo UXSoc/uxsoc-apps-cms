@@ -44,7 +44,7 @@ departmentsSection:
           * **Interaction Designer**: Focuses on the "feel" of the product and
           crafts the experiences of the user in motion, action, and reaction
           components
-        title: Product Design Officer
+        title: Product Designer Officer
       - description: >-
           If you want to learn how to minds (or close enough), content strategy
           is your field. You carry out user research and strategize the best way
@@ -214,7 +214,7 @@ departmentsSection:
             * In charge of helping the AVP of fund generation with the communication of suppliers and sourcing out potential suppliers of merchandise or supplies.
           * **Officer 2**
             * In charge of helping the AVP of fund generation with consumer related tasks of fund generation, this can be from the distribution of merchandise to ensuring that the consumer has a great buying experience from UXS
-        title: Fund Gen
+        title: Fund Generation
       - description: |-
           * **Officer**  
             * In charge of aiding the AVP of fund management with the tracking and allocation of funds within the organization
