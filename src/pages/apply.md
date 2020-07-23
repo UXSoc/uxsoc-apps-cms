@@ -10,7 +10,7 @@ seo:
   siteTitle: Apply
 headerSection:
   buttonVisible: true
-  title: Member Applications
+  title: Officer Applications
 link: 'https://airtable.com/embed/shr0AAzifPZPwvGUv?backgroundColor=pink'
 ---
 
