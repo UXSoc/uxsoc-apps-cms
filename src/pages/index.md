@@ -39,6 +39,8 @@ departmentsSection:
           clients.
 
 
+
+
           Being skilled in Graphic Design and Content Writing is a plus BUT is
           not required. The roles of a CM Officer include the following: 
 
@@ -75,7 +77,7 @@ departmentsSection:
           Your job is to combine the art of programming with the art of design.
           You will be tasked to write the web markup, including HTML5, CSS3. You
           also need to have a proficient understanding of client-side scripting,
-          JavaScript frameworks, and Content Management Systems
+          JavaScript frameworks, and Content Management Systems.
         title: Front End Engineering Officer
     title: "\U0001F4BB Engineering (UXDev)"
   - cardSectionTitle: ''
@@ -89,11 +91,11 @@ departmentsSection:
           * Will work closely with the AVP and give weekly updates on the
           members and event progress
 
-          * All around work -- help members when they need something,
-          communicate with other departments
+          * All around work – help members when they need something, communicate
+          with other departments
         title: Project Manager (Flagship Project)
       - description: >-
-          * In-charge of ideation and content creation with regards to program
+          * In charge of ideation and content creation with regards to program
           planning and flow, and create spiels of the host
 
           * To create programs and activities that are best suited for an online
@@ -105,17 +107,21 @@ departmentsSection:
           * Must be flexible and can easily revise any program changes
         title: Programs Head (Flagship Project)
       - description: >-
-          * Takes note of the minutes of the meeting
+          * In charge of Handling the Online Platform Needed to Hold the
+          Workshop (ex. Zoom)
 
-          * Handles the evaluation process
+          * Prepare Other Materials Needed For the Workshop (ex. Videos or
+          powerpoints needed by other Departments for You To Present, Music
+          While waiting for more participants)
 
-          * In-charge of handling the logistics of the event (sending necessary
-          forms to OSA)
+          * Must be prepared for potential risks (ex. Zoom link not working or
+          zoom is lagging and you have to switch platforms)
 
-          * Must be organized and detail-oriented
-        title: Secretariat (Flagship Project)
+          * In charge of Creating Sign-ups and post evals for these Workshops
+          and keeping track of registrations
+        title: Logistics (Flagship Project)
       - description: >-
-          * In-charge of looking for and create write ups about speakers and
+          * In charge of looking for and creating write-ups about speakers and
           hosts
 
           * Create e-mail letters to be sent out to potential clients
@@ -137,7 +143,7 @@ departmentsSection:
           communicate with other departments
         title: Project Manager (Minor Project)
       - description: >-
-          * In Charge of Handling the Online Platform Needed to Hold the
+          * In charge of Handling the Online Platform Needed to Hold the
           Workshop (ex. Zoom)
 
           * Prepare Other Materials Needed For the Workshop (ex. Videos or
@@ -162,12 +168,6 @@ departmentsSection:
           * In charge of monitoring the chat and handling the Q&A (ex . creating
           a Poll for most voted questions)
         title: Programs Head (Minor Project)
-      - description: |-
-          * In-charge of looking for speakers and hosts for the events
-          * Create e-mail templates/letters to be sent out to potential clients
-          * Is the communication bridge between the client and the organization
-          * Create write ups about the speakers
-        title: External Head (Minor Project)
     description: >-
       Being a designer does not happen overnight. We, in the Events department,
       design event experiences that nurture the growth of the members of
@@ -203,144 +203,64 @@ departmentsSection:
       - description: |-
           * **Officer 1** 
             * In charge of helping the AVP of fund generation with the communication of suppliers and sourcing out potential suppliers of merchandise or supplies.
-          * **Officer 2**
-            * In charge of helping the AVP of fund generation with consumer related tasks of fund generation, this can be from the distribution of merchandise to ensuring that the consumer has a great buying experience from UXS
         title: Fund Generation
-      - description: |-
-          * **Officer**  
-            * In charge of aiding the AVP of fund management with the tracking and allocation of funds within the organization
-        title: Fund Management
     title: "\U0001F4B8 Finance"
-  - cards:
-      - description: >-
-          **Role**
-
-
-          * The Internal Branding Officer will work under the Branding AVP, and
-          assist in the ideation and design creation of publication materials
-          involved for events and departmental initiatives.
-
-
-          **Responsibilities**
-
-
-          * Conceptualizes and executes publication materials for assigned
-          marketing events
-
-          * Assists in overseeing departmental or office initiatives
-
-          * will propose 1-2 internal initiatives for the department
-
-          * must have experience using creative software (either Photoshop,
-          Illustrator, Figma)*
-            * \*means adjustable
-        title: Internal Branding Officer
-      - description: >-
-          **Role**
-
-
-          * The External Branding Officer will work under the Branding AVP, and
-          assist in the branding collaterals and efforts assigned for the
-          different clients of UX Society.
-
-
-          **Responsibilities**
-
-
-          * Gain experience by working on branding deliverables for UXSoc
-          clients
-
-          * Coordinate with other departments for requirements if necessary
-
-          * Will propose 1-2 external initiatives for the department
-
-          * \*Must have experience using creative software (either Photoshop,
-          Illustrator, Figma)\*
-            * mean adjustable*
-        title: External Branding Officer
-      - description: >-
-          **Role**
-
-
-          * The Content Writer will compose content for the organization's
-          online presence, craft marketing copies, and edit before publication.
-
-
-          **Responsibilities** 
-
-
-          * Produce relevant content for official social media platforms
-
-          * Research UX-related trends, updates, news
-
-          * Spearhead ideation sessions
-        title: Content Officer
-      - description: >-
-          **Role**
-
-
-          * The Community Engagement Officer is in charge of driving member
-          engagement through social media efforts, and ensures all content is
-          grounded in UXSociety's human-centric advocacy.
-
-
-          **Responsibilities** 
-
-
-          * Keeps the official pages and groups up to date
-
-          * Establishes and maintains member relationships
-
-          * Leads OKR (Objectives and Key Results) meetings
-        title: Community Engagement Officer
-      - description: >-
-          **Role**
-
-
-          * The Photo Editor ensures proper documentation and representation of
-          UX Society by enhancing photos taken from a UX Soc event to further
-          promote its projects and initiatives.
-
-
-          **Responsibilities**
-
-
-          * Enhances photos for branding purposes of a UX event
-
-          * Ensure to present photos appropriate and appealing to viewers on
-          social media
-
-          * Knows basic photo-editing skills and softwares like Adobe Photoshop,
-          and Adobe Lightroom
-        title: 'Photo Editors '
-      - description: >-
-          **Role**
-
-
-          * The Video Editor ensures proper documentation and representation of
-          UX Society by enhancing videos taken from a UX Soc event to further
-          promote its projects and initiatives.
-
-
-          **Responsibilities** 
-
-
-          * Enhances videos for branding purposes of a UX event
-
-          * Ensure to present videos appropriate and appealing to viewers on
-          social media
-
-          * Help create video lectures from other UX departments
-
-          * Has experience in creating quality videos
-        title: Video Editor
+  - cards: []
     description: >-
       At the Marketing department, we nurture the identity of the UXSoc and
       ensure that the organization is well represented on all platforms through
       our campaign strategies for content and promotional materials. We make
       sure that event and initiative collaterals are aesthetically pleasing and
       informative at the same time.
-    positions: []
+    positions:
+      - description: >-
+          The UX Marketing Department is opening their doors to (a maximum of) 5
+          individuals who want to hone their skills in branding, content
+          creation, and coverage.
+
+
+
+
+          ## **Role:**
+
+
+          The UXMktg Officer will be part of the team in charge of collateral
+          creation to be published by the organization. They must have at least
+          one of the skillsets below:
+
+
+          * **Writing versatility.** 
+            * Able to adapt to the org's personality and tone in order to write engaging content and spiels.
+          * **Digital Creativity.** 
+            * Able to envision and design different posters for publication in line with the current visual identity of the org. (A proficiency in Figma is helpful as the team uses this platform for ease of collaboration).
+          * **Video-editing skills (and software).** 
+            * Able to source and creatively compile multimedia from events of the org for coverage or publishing.
+            Basing on their skillset, the UXMktg Officer will engage with the other Mktg. Officers and Leads so that they may:
+
+            \- help in the management of UXSoc social media accounts (Facebook, Instagram, or Twitter);
+            \- copywrite spiels and other content for the creative collaterals of the org (i.e. spiels for pubs, content for the pubs, etc.);
+            \- produce and publish publication materials to market events and initiatives of the organization;
+            \- collect and edit any documentation of executed projects or events of the org;
+
+          ## Responsibilities:
+
+
+          Basing on their skillset, the UXMktg Officer will engage with the
+          other Mktg. Officers and Leads so that they may:
+
+
+          * help in the management of UXSoc social media accounts (Facebook,
+          Instagram, or Twitter);
+
+          * copywrite spiels and other content for the creative collaterals of
+          the org (i.e. spiels for pubs, content for the pubs, etc.);
+
+          * produce and publish publication materials to market events and
+          initiatives of the organization;
+
+          * collect and edit any documentation of executed projects or events of
+          the org.
+        title: UXMktg. Officers
     title: "\U0001F4DD Marketing"
   - description: >-
       Behind the success of every organization is a solid foundation of trust
@@ -353,17 +273,7 @@ departmentsSection:
           * Organizes Bonding Activities and Team-building
           * Conducts ICs with other officers and members
           * Opportunity widening: Inviting members to UX events outside of UXSoc
-        title: Member Happiness Officer
-      - description: >-
-          * Organizes the HR Curriculum of articles and FB group posts
-
-          * Conducts researches about the current composition of members
-
-          * Assesses trends and creates reports from event and IC responses
-
-          * Conducts SWOT Analysis on events in egress and from feedback
-          findings
-        title: Member Growth Officer
+        title: Member Development Officer
     title: "\U0001F3E0 Human Resources"
 ---
 
