@@ -219,9 +219,7 @@ departmentsSection:
           creation, and coverage.
 
 
-
-
-          ## **Role:**
+          **Role:**
 
 
           The UXMktg Officer will be part of the team in charge of collateral
@@ -234,15 +232,9 @@ departmentsSection:
           * **Digital Creativity.** 
             * Able to envision and design different posters for publication in line with the current visual identity of the org. (A proficiency in Figma is helpful as the team uses this platform for ease of collaboration).
           * **Video-editing skills (and software).** 
-            * Able to source and creatively compile multimedia from events of the org for coverage or publishing.
-            Basing on their skillset, the UXMktg Officer will engage with the other Mktg. Officers and Leads so that they may:
+            * Able to source and creatively compile multimedia from events of the org for coverage or publishing. 
 
-            \- help in the management of UXSoc social media accounts (Facebook, Instagram, or Twitter);
-            \- copywrite spiels and other content for the creative collaterals of the org (i.e. spiels for pubs, content for the pubs, etc.);
-            \- produce and publish publication materials to market events and initiatives of the organization;
-            \- collect and edit any documentation of executed projects or events of the org;
-
-          ## Responsibilities:
+          **Responsibilities:**
 
 
           Basing on their skillset, the UXMktg Officer will engage with the
@@ -262,18 +254,21 @@ departmentsSection:
           the org.
         title: UXMktg. Officers
     title: "\U0001F4DD Marketing"
-  - description: >-
+  - cards:
+      - description: |-
+          The Member Development Officer sees to the following:
+
+          * Organizing Bonding Activities and Team-building
+          * Conducting ICs with other officers and members
+          * Opportunity widening: Inviting members to UX events outside of UXSoc
+        title: Member Development Officer
+    description: >-
       Behind the success of every organization is a solid foundation of trust
       and a sense of community. UXSociety cares for its own members’ experience.
       We, in the Department of Human Resources, are the Support Unit of
       UXSociety: organizing projects and initiatives that create an environment
       where the members can explore, connect, and grow as design leaders.
-    positions:
-      - description: |-
-          * Organizes Bonding Activities and Team-building
-          * Conducts ICs with other officers and members
-          * Opportunity widening: Inviting members to UX events outside of UXSoc
-        title: Member Development Officer
+    positions: []
     title: "\U0001F3E0 Human Resources"
 ---
 
