@@ -32,34 +32,27 @@ departmentsSection:
       leaders.
     positions:
       - description: >-
-          If you're interested in creating tangible products, then this is the
-          perfect role for you. You design products for the user and
-          continuously seek to improve them. The specialization in this position
-          are:
+          Client Marketing Officers will be important drivers of revenue for the
+          UXDC department. They will be promoting UX Society primarily as a
+          business. CM Officers are quick to think up out-of-the-box and
+          consistent marketing content for connecting and acquiring possible
+          clients.
 
 
-          * **Visual Designer** : Focuses on the "look" of the product and
-          create wireframes, mockups, MVPs, and design elements
-
-          * **Interaction Designer**: Focuses on the "feel" of the product and
-          crafts the experiences of the user in motion, action, and reaction
-          components
-        title: Product Designer
-      - description: >-
-          If you want to learn how to minds (or close enough), content strategy
-          is your field. You carry out user research and strategize the best way
-          to present the client's content in their product. The specialization
-          in this position are:
+          Being skilled in Graphic Design and Content Writing is a plus BUT is
+          not required. The roles of a CM Officer include the following: 
 
 
-          * **Researcher**: Conducts stakeholder interview for user research,
-          defines user problems, maps out user journeys, and creates empathy
-          maps
-
-          * **Information Architecture Officer** : Prepares site maps and
-          utilizes other appropriate UX strategies with clients as well as other
-          members of the Design and Consultancy team
-        title: 'UX Researcher '
+          * **Planning content for client-related marketing material**
+            * Creation of Project content through Case Studies
+            * Graphics/Pubmats
+            * Proofread case study articles made by the project team
+          * **Managing and increasing engagements in content**
+            * Create ways in promoting client-work content (organic or not)
+          * **Acquiring possible clients for UX Society**
+            * Create desired target market/customer personas — and expound from there
+            * Connect possible clients with UX Society
+        title: Client Marketing Officers
     title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
     description: >
