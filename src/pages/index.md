@@ -254,21 +254,22 @@ departmentsSection:
           the org.
         title: UXMktg. Officers
     title: "\U0001F4DD Marketing"
-  - cards:
-      - description: |-
-          The Member Development Officer sees to the following:
-
-          * Organizing Bonding Activities and Team-building
-          * Conducting ICs with other officers and members
-          * Opportunity widening: Inviting members to UX events outside of UXSoc
-        title: Member Development Officer
+  - cards: []
     description: >-
       Behind the success of every organization is a solid foundation of trust
       and a sense of community. UXSociety cares for its own members’ experience.
       We, in the Department of Human Resources, are the Support Unit of
       UXSociety: organizing projects and initiatives that create an environment
       where the members can explore, connect, and grow as design leaders.
-    positions: []
+    positions:
+      - description: |-
+          The Member Development Officer sees to the following:
+
+          * Organizing Bonding Activities and Team-building
+          * Conducting ICs with other officers and members
+          * Conducting researches about the current composition of members
+          * Assessing trends and creating reports from event and IC responses
+        title: Member Development Officer
     title: "\U0001F3E0 Human Resources"
 ---
 
