@@ -18,7 +18,7 @@ const events = [
     title: `Programs Head (Flagship Project)`,
   },
   {
-    title: `Secretariat (Flagship Project)`,
+    title: `Logistics (Flagship Project)`,
   },
   {
     title: `Externals Head (Flagship Project)`,
@@ -31,9 +31,6 @@ const events = [
   },
   {
     title: `Programs Head (Minor Project)`,
-  },
-  {
-    title: `External Head (Minor Project)`,
   },
 ]
 
@@ -133,13 +130,25 @@ const Department = ({
           </Card>
           <Card title={events[2].title} footer={footerColor}>
             <ul>
-              <li>Takes note of the minutes of the meeting</li>
-              <li>Handles the evaluation process</li>
               <li>
-                In-charge of handling the logistics of the event (sending
-                necessary forms to OSA)
+                In Charge of Handling the Online Platform Needed to Hold the
+                Workshop (ex. Zoom)
+                <ul>
+                  <li>
+                    Prepare Other Materials Needed For the Workshop (ex. Videos
+                    or powerpoints needed by other Departments for You To
+                    Present, Music While waiting for more participants)
+                  </li>
+                  <li>
+                    Must be prepared for potential risks (ex. Zoom link not
+                    working or zoom is lagging and you have to switch platforms)
+                  </li>
+                  <li>
+                    In charge of Creating Sign-ups and post evals for these
+                    Workshops and keeping track of registrations
+                  </li>
+                </ul>
               </li>
-              <li>Must be organized and detail-oriented</li>
             </ul>
           </Card>
           <Card title={events[3].title} footer={footerColor}>
@@ -228,7 +237,7 @@ const Department = ({
               </li>
             </ul>
           </Card>
-          <Card title={events[7].title} footer={footerColor}>
+          {/* <Card title={events[7].title} footer={footerColor}>
             <ul>
               <li>
                 In-charge of looking for speakers and hosts for the events
@@ -243,7 +252,7 @@ const Department = ({
               </li>
               <li>Create write ups about the speakers</li>
             </ul>
-          </Card>
+          </Card> */}
         </div>
       ) : null}
       {/* {department.title.includes("Marketing") ? (
