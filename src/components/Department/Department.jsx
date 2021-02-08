@@ -37,26 +37,26 @@ const events = [
   },
 ]
 
-const marketing = [
-  {
-    title: `Internal Branding Officer`,
-  },
-  {
-    title: `External Branding Officer`,
-  },
-  {
-    title: `Content Officer`,
-  },
-  {
-    title: `Community Engagement Officer`,
-  },
-  {
-    title: `Photo Editors`,
-  },
-  {
-    title: `Video Editor`,
-  },
-]
+// const marketing = [
+//   {
+//     title: `Internal Branding Officer`,
+//   },
+//   {
+//     title: `External Branding Officer`,
+//   },
+//   {
+//     title: `Content Officer`,
+//   },
+//   {
+//     title: `Community Engagement Officer`,
+//   },
+//   {
+//     title: `Photo Editors`,
+//   },
+//   {
+//     title: `Video Editor`,
+//   },
+// ]
 
 const Department = ({
   department,
@@ -246,7 +246,7 @@ const Department = ({
           </Card>
         </div>
       ) : null}
-      {department.title.includes("Marketing") ? (
+      {/* {department.title.includes("Marketing") ? (
         <div>
           <Card title={marketing[0].title} footer={footerColor}>
             <strong>Role</strong>
@@ -375,7 +375,7 @@ const Department = ({
             </ul>
           </Card>
         </div>
-      ) : null}
+      ) : null} */}
       {/* <div className="department-info-container">
         {department.cards === null || department.cards === undefined
           ? null
