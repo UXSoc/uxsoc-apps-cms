@@ -227,11 +227,11 @@ departmentsSection:
           one of the skillsets below:
 
 
-          * **Writing versatility.** 
+          * **Content -** Writing versatility. 
             * Able to adapt to the org's personality and tone in order to write engaging content and spiels.
-          * **Digital Creativity.** 
+          * **Branding -** Digital Creativity. 
             * Able to envision and design different posters for publication in line with the current visual identity of the org. (A proficiency in Figma is helpful as the team uses this platform for ease of collaboration).
-          * **Video-editing skills (and software).** 
+          * **Coverage -** Video-editing skills (and software). 
             * Able to source and creatively compile multimedia from events of the org for coverage or publishing. 
 
           **Responsibilities:**
