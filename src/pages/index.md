@@ -246,29 +246,6 @@ departmentsSection:
   - description: ' '
     positions:
       - description: >-
-          The VP for Externals has the responsibility of being **the face of the
-          organization** and **ensuring a good rapport to our dear partners and
-          sponsors**, both long-term and short-term. The VP works closely with
-          departments that have major events and projects. 
-
-
-          This includes **preparing sponsorship & media partnership packages**,
-          **emailing partners**, **assuring fulfillment of terms in
-          partnerships**, and **settling** **MoAs** with the organization or
-          corporation partners in person. 
-
-
-          They should have **prior** **experience** in the creation of MoAs, as
-          well as  sponsorship and partnership packages. The VP should also
-          **create a system** to efficiently track the partnerships and
-          sponsorships ongoing for the organization, and **foster the
-          development and skillsets** of the AVPs of Sponsorships and
-          Partnerships.
-        title: ' The User Experience Ambassador'
-    title: "\U0001F91D VP for Externals"
-  - description: ' '
-    positions:
-      - description: >-
           The VP for Events is **in charge of making sure the programs and
           logistics of UXSoc's events are smooth and well-designed**. Moreover,
           they are responsible for keeping the overall event experience (both
@@ -306,6 +283,29 @@ departmentsSection:
           design, etc.).
         title: The Event Experience Designer
     title: "\U0001F389 VP for Eventss"
+  - description: ' '
+    positions:
+      - description: >-
+          The VP for Externals has the responsibility of being **the face of the
+          organization** and **ensuring a good rapport to our dear partners and
+          sponsors**, both long-term and short-term. The VP works closely with
+          departments that have major events and projects. 
+
+
+          This includes **preparing sponsorship & media partnership packages**,
+          **emailing partners**, **assuring fulfillment of terms in
+          partnerships**, and **settling** **MoAs** with the organization or
+          corporation partners in person. 
+
+
+          They should have **prior** **experience** in the creation of MoAs, as
+          well as  sponsorship and partnership packages. The VP should also
+          **create a system** to efficiently track the partnerships and
+          sponsorships ongoing for the organization, and **foster the
+          development and skillsets** of the AVPs of Sponsorships and
+          Partnerships.
+        title: ' The User Experience Ambassador'
+    title: "\U0001F91D VP for Externals"
   - description: ' '
     positions:
       - description: >-
