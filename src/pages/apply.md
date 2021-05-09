@@ -1,7 +1,7 @@
 ---
 templateKey: apply-page
 slug: /apply
-primaryColor: '#8300D7 '
+primaryColor: '#04A0E8 '
 footerColor: '#4f4f4f'
 seo:
   siteDescription: >-
