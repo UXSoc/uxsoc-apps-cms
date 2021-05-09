@@ -374,13 +374,13 @@ departmentsSection:
           initiatives are properly promoted .
 
 
-          They must help ensure that the org has a good reputation through
-          timely and sensible campaign strategies that reflect the values of the
-          organization.
+          They must help **ensure that the org has a good reputation** through
+          **timely and sensible campaign strategies** that reflect the values of
+          the organization.
 
 
-          It is recommended that they be able to juggle multiple projects and
-          teams as they will be **overseeing and advising the creatives,
+          It is recommended that they be **able to juggle multiple projects and
+          teams** as they will be **overseeing and advising the creatives,
           copywriters, and documentations committees**. This involves the
           **tracking and management of all content and output**, ensuring their
           quality and completion.
