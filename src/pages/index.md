@@ -356,46 +356,28 @@ departmentsSection:
     description: ' '
     positions:
       - description: >-
-          The VP for Engineering is in charge of transforming designs into
-          digital masterpieces that are usable, useful, and delightful.
-        title: The Coding Sage
-      - description: >-
-          This VP is the chief technological officer that manages all the
+          The VP for Engineering is in charge of **transforming designs into
+          digital masterpieces** that are **usable**, **useful**, and
+          **delightful**.
+
+
+          This VP is the **chief technological officer** that manages all the
           software engineering projects. He or she works hand in hand with the
           designers and ensures that the projects are moving forward as planned.
-          This VP is also in charge of developing and honing the programming
-          skills of his/her developers.
+          This VP is also in charge of **developing and honing the programming
+          skills of his/her developers**.
 
 
-
-
-          It’s recommended that the VP for Engineering should have an in-depth
+          It’s recommended that the VP for Engineering should have an **in-depth
           knowledge and experience in using the git flow and programming
-          front-end and back-end applications.
+          front-end and back-end applications**.
 
 
-
-
-          He or she should have a coding portfolio, meaning he or she has
-          already worked on other projects before. Moreover, the VP for
-          Engineering should also be meticulous in the code structure, style and
-          infrastructure.
-
-
-
-
-          Some responsibilities the VP for Engineering is expected to undertake:
-
-
-          * Leading, guiding, and teaching your officers (and pool if you decide
-          to have), as well as interested UXS members!
-
-          * Client Projects
-
-          * Dev Workshops
-
-          * Dev Manual
-        title: ' '
+          He or she should have a **coding** **portfolio**, meaning he or she
+          has already worked on other projects before. Moreover, the VP for
+          Engineering should also be **meticulous in the code structure, style
+          and infrastructure**.
+        title: The Coding Sage
     title: "\U0001F4BB VP for Engineering"
   - description: ' '
     positions:
