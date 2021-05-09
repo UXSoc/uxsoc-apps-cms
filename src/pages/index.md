@@ -43,7 +43,8 @@ departmentsSection:
           It’s recommended that the President has the **skills of effective
           communication**, **persuasion**, **ability to handle conflict**,
           **good judgment** and **past experience on leadership and team
-          management**.
+          management** in order to propel the organization and its members
+          towards growth.
         title: ' The Chief Evangelist'
     title: "\U0001F451 President"
   - cards: []
