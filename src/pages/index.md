@@ -28,20 +28,20 @@ departmentsSection:
     positions:
       - description: >-
           The President is the **highest** **ranking** **executive** in the
-          organization. He or she is in charge of **establishing** **the**
+          organization. They are in charge of **establishing** **the**
           **vision** **and** **mission** **for** **the** **organization** and
           making sure it can be translated to a portfolio of projects and events
-          during his/her term.
+          during their term.
 
 
-          He or she is responsible for **leading** **the** **growth** of the
-          entire organization and also should be **open** **to** **mentoring**
-          the next set of leaders for the organization. The President is also
-          responsible for **coordinating with LIONS, Ateneo admin and other
-          offices, as well as external UX Society chapters**. He or she shall be
-          willing to guide interested students outside of Ateneo de Manila that
-          may be interested in founding their own UX Society chapter for their
-          respective universities.
+          They are responsible for **leading** **the** **growth** of the entire
+          organization and also should be **open** **to** **mentoring** the next
+          set of leaders for the organization. The President is also responsible
+          for **coordinating with LIONS, Ateneo admin and other offices, as well
+          as external UX Society chapters**. They shall be willing to guide
+          interested students outside of Ateneo de Manila that may be interested
+          in founding their own UX Society chapter for their respective
+          universities.
 
 
           It’s recommended that the President has the **skills of effective
@@ -54,26 +54,26 @@ departmentsSection:
     description: ' '
     positions:
       - description: >-
-          The EVP is the **right hand** **of the President**. He or she fills in
-          the gaps the President cannot fill. Together with the President, they
-          are **unbreakable in advocating User Experience**.
+          The EVP is the **right hand** **of the President**. They fill in the
+          gaps the President cannot fill. Together with the President, they are
+          **unbreakable in advocating User Experience**.
 
 
-          He or she is the **leader of all the vice presidents**. He or she
-          should be **deeply concerned with each of their growth** and as much
-          as possible schedule individual consultations, hold honest
-          conversations, and find the root of the matter whenever they do not
-          perform well as well as address all internal conflicts within the
-          executive board. He or she ensures that UXSoc continues to grow in the
-          quality of initiatives and prepares the organization for continuous
-          growth across different chapters alongside the president and directly
-          reports to LIONS as part of the legislative committee.
+          They are the **leader of all the vice presidents**. They should be
+          **deeply concerned with each of their growth** and as much as possible
+          schedule individual consultations, hold honest conversations, and find
+          the root of the matter whenever they do not perform well as well as
+          address all internal conflicts within the executive board. They
+          **ensure that UXSoc continues to grow in the quality** of initiatives
+          and prepares the organization for continuous growth across different
+          chapters alongside the president and directly reports to LIONS as part
+          of the legislative committee.
 
 
-          It is recommended that the Executive Vice President has **a** **strong
-          sense of empathy for the organization’s people**, **standards of
-          quality and growth**, and **a can-do attitude** that takes the
-          organization far more than it could be without them.
+          It is recommended that the EVP has **a** **strong sense of empathy for
+          the organization’s people**, **standards of quality and growth**, and
+          **a can-do attitude** that takes the organization far more than it
+          could be without them.
         title: The Right Hand
     title: "\U0001F4A1 Executive Vice President"
   - cardSectionTitle: ''
@@ -170,9 +170,8 @@ departmentsSection:
           The Secretary General is in charge of **establishing an organized file
           management system** and having **proper and appropriate
           documentation**. Also, the SecGen is the **chief coordinator** for all
-          tasks of the executive board member. He or she ensures that all
-          department heads are finishing their deliverables on time and with
-          quality.
+          tasks of the executive board member. They ensure that all department
+          heads are finishing their deliverables on time and with quality.
 
 
           Some responsibilities/tasks include setting up important internal
@@ -191,9 +190,9 @@ departmentsSection:
     description: '   '
     positions:
       - description: >-
-          The Vice President for Consultancy is **in charge of client
-          projects**, whilst **advocating for product (and project) management**
-          within UX Society. 
+          The VP for Consultancy is **in charge of client projects**, whilst
+          **advocating for product (and project) management** within UX
+          Society. 
 
 
           Whilst UX Consultancy, UX Design, and Engineering are the **staple
@@ -203,17 +202,18 @@ departmentsSection:
           research, design, and development skills in real-life projects. 
 
 
-          It is recommended that the VP for Consultancy must be ready to pitch
-          UXSoc’s various services to clients, quote the right prices, negotiate
-          reasonably with stakeholders, and to ensure the project team is able
-          to deliver a top-notch output within a reasonable timeframe. Ideally,
-          he/she **must have had freelance experience** to be able to quote
-          properly, but **tremendous project management and people management
-          skills** are highly required and are non-negotiables.
+          It is recommended that the VP for Consultancy must be ready to **pitch
+          UXSoc’s various services to clients**, **quote the right prices**,
+          **negotiate reasonably** with stakeholders, and to **ensure the
+          project team is able to deliver** a top-notch output within a
+          reasonable timeframe. Ideally, they **must have had freelance
+          experience** to be able to quote properly, but **tremendous project
+          management and people management skills** are highly required and are
+          non-negotiables.
 
 
-          The Vice President for Consultancy works hand in hand with the Vice
-          President for UX Design in managing the UXDC team.
+          The VP for Consultancy works hand in hand with the VP for UX Design in
+          managing the UXDC team.
         title: The Product Manager
     title: "\U0001F5E3 VP for Consultancy"
   - cards: []
@@ -225,11 +225,11 @@ departmentsSection:
           **delightful**.
 
 
-          This VP is the **chief technological officer** that manages all the
-          software engineering projects. He or she works hand in hand with the
+          The VP is the **chief technological officer** that manages all the
+          software engineering projects. They work hand in hand with the
           designers and ensures that the projects are moving forward as planned.
-          This VP is also in charge of **developing and honing the programming
-          skills of his/her developers**.
+          The VP is also in charge of **developing and honing the programming
+          skills of their developers**.
 
 
           It’s recommended that the VP for Engineering should have an **in-depth
@@ -237,8 +237,8 @@ departmentsSection:
           front-end and back-end applications**.
 
 
-          He or she should have a **coding** **portfolio**, meaning he or she
-          has already worked on other projects before. Moreover, the VP for
+          They should have a **coding** **portfolio**, meaning he or she has
+          already worked on other projects before. Moreover, the VP for
           Engineering should also be **meticulous in the code structure, style
           and infrastructure**.
         title: The Coding Sage
@@ -246,40 +246,39 @@ departmentsSection:
   - description: ' '
     positions:
       - description: >-
-          The Vice President for Events is **in charge of making sure the
-          programs and logistics of UXSoc's events are smooth and
-          well-designed**. Moreover, he/ she is responsible for keeping the
-          overall event experience (both for audience and speaker) meaningful
-          and relevant. 
+          The VP for Events is **in charge of making sure the programs and
+          logistics of UXSoc's events are smooth and well-designed**. Moreover,
+          they are responsible for keeping the overall event experience (both
+          for audience and speaker) meaningful and relevant. 
 
 
-          He/she is an **efficient planner and organizer of events**. He/she is
+          They are an **efficient planner and organizer of events**. They are
           **familiar with Ateneo’s (rigorous) mechanisms** with regards to venue
-          reservations and project proposals. If not, he/she is **ready to
+          reservations and project proposals. If not, they should be **ready to
           learn** them, immerse in them, and give their soul to them.
 
 
-          He/she knows how to deploy project teams, manage expectations and
+          They know how to deploy project teams, manage expectations and
           motivations, and pick the right people for the right job.
 
 
-          The Events VP is in charge of working alongside the Finance department
-          to keep track of the budget of all events for the year as well as to
-          keep track of the expenses of each project or event. 
+          The VP is in charge of working alongside the Finance department to
+          keep track of the budget of all events for the year as well as to keep
+          track of the expenses of each project or event. 
 
 
-          He/ she is also in charge of working with the Externals department to
+          They are also in charge of working with the Externals department to
           scout and assign relevant speakers for each major event. 
 
 
-          He/ she must also collaborate together with the Branding, Design &
+          They must also collaborate together with the Branding, Design &
           Consultancy, Dev, and Content Marketing department to create a lesson
           plan as well as assign relevant and appropriate speakers for
           workshops.
 
 
           Most importantly, the Events VP must advocate for User Experience
-          design. He/ she must encourage his/ her AVPs and members to learn and
+          design. They must encourage their AVPs and members to learn and
           practice User Experience design outside Events (e.g. web development,
           design, etc.).
         title: ' The Event Experience Designer'
@@ -287,46 +286,93 @@ departmentsSection:
   - description: ' '
     positions:
       - description: >-
+          The VP for Externals has the responsibility of being **the face of the
+          organization** and **ensuring a good rapport to our dear partners and
+          sponsors**, both long-term and short-term. The VP works closely with
+          departments that have major events and projects. 
+
+
+          This includes **preparing sponsorship & media partnership packages**,
+          **emailing partners**, **assuring fulfillment of terms in
+          partnerships**, and **settling** **MoAs** with the organization or
+          corporation partners in person. 
+
+
+          They should have **prior** **experience** in the creation of MoAs, as
+          well as  sponsorship and partnership packages. The VP should also
+          **create a system** to efficiently track the partnerships and
+          sponsorships ongoing for the organization, and **foster the
+          development and skillsets** of the AVPs of Sponsorships and
+          Partnerships.
+        title: ' The User Experience Ambassador'
+    title: "\U0001F91D VP for Externals"
+  - description: ' '
+    positions:
+      - description: >-
           The Vice President for Finance keeps the organization running with
           enough cash.
 
 
-          He/she **keeps the organization’s financials in check**, and creates
+          They **keep the organization’s financials in check**, and creates
           systems and processes to **ensure that projects and expenses are
           properly accounted for** and there’s enough to go around.
 
 
-          He/she **sets systems to track where our finances go**. This Vice
-          President is obsessed with getting receipts, tallying expenses, and
-          analyzing our financial health so that we know how to maximize our
-          funds for the org’s growth.
+          They **set systems to track where our finances go**. This VP is
+          obsessed with getting receipts, tallying expenses, and analyzing our
+          financial health so that we know how to maximize our funds for the
+          org’s growth.
 
 
-          This Vice President is often collaborating with the Consultancy and
-          Design department in order to secure payments from clients. It is not
-          unnatural for him/her to be handling MoA’s and other similar
-          documents. He/she is also able to keep track of expenses such as
-          hosting and domain management fees, SSL certificates, and more.
+          This VP is often collaborating with the Consultancy and Design
+          department in order to secure payments from clients. It is not
+          unnatural for them to be handling MoA’s and other similar documents.
+          They are also able to keep track of expenses such as hosting and
+          domain management fees, SSL certificates, and more.
 
 
-          He/she is also in charge of working alongside the Events department to
+          They are also in charge of working alongside the Events department to
           make sure that expenses for UXSoc’s projects and events are properly
           accounted for and recorded.
 
 
           The Finance department doesn’t need to just be all numbers and
-          systems. He/she can also be seen dabbling with the Branding department
+          systems. They can also be seen dabbling with the Branding department
           to come up with the latest UX Merch that both speaks of the org’s
           identity and generates cash for more projects and events for the org.
         title: The Money Lover
     title: "\U0001F4B8 VP for Finance"
   - cards: []
+    description: ' '
+    positions:
+      - description: >-
+          The VP for Human Resources is **in charge of the recruitment,
+          development, and happiness of all members of UXSociety**. Overseeing
+          the AVPs of Internal Management and Community Engagement, the VP
+          ensures the accomplishing of tasks while expressing empathy for
+          others. 
+
+
+          Responsibilities and tasks include **activities and initiatives
+          concerning member bonding and research**. This includes events like
+          RecWeek, Onboarding, PlanSem/PlevSem, to initiatives like internal
+          posts, team buildings, and internal research for community policies.
+
+
+          It’s recommended that the VP for HR have **great writing skills and
+          planning skills**, and be an **organized and systematic** person. It’s
+          also recommended that they have a **passion for helping and supporting
+          others**, whether through sharing resources or for organizing fun
+          activities.
+        title: ' The Support Unit'
+    title: "\U0001F3E0 VP for Human Resources"
+  - cards: []
     description: '  '
     positions:
       - description: >-
-          The Vice President for Marketing is responsible for **ensuring that
-          the org is well represented** on all platforms and that all events,
-          projects, and initiatives are properly promoted .
+          The VP for Marketing is responsible for **ensuring that the org is
+          well represented** on all platforms and that all events, projects, and
+          initiatives are properly promoted .
 
 
           They must help ensure that the org has a good reputation through
@@ -342,35 +388,18 @@ departmentsSection:
         title: The Trendsetter
     title: "\U0001F4DD VP for Marketing"
   - cards: []
-    description: >-
-      Behind the success of every organization is a solid foundation of trust
-      and a sense of community. UXSociety cares for its own members’ experience.
-      We, in the Department of Human Resources, are the Support Unit of
-      UXSociety: organizing projects and initiatives that create an environment
-      where the members can explore, connect, and grow as design leaders.
-    positions:
-      - description: |-
-          The Member Development Officer sees to the following:
-
-          * Organizing Bonding Activities and Team-building
-          * Conducting ICs with other officers and members
-          * Conducting researches about the current composition of members
-          * Assessing trends and creating reports from event and IC responses
-        title: Member Development Officer
-    title: "\U0001F3E0 Human Resources"
-  - cards: []
     description: '   '
     positions:
       - description: >-
-          The Vice President for UX Design is **in charge of leading the UX
-          education efforts** through **client projects** and **events**.
+          The VP for UX Design is **in charge of leading the UX education
+          efforts** through **client projects** and **events**.
 
 
-          He or she **ensures that product design (with a focus on UX) is
-          effectively taught throughout the organization** by collaborating with
-          different departments in executing design-related events, while also
-          **making sure that quality is executed in all digital products created
-          for clients**.
+          They **ensure that product design (with a focus on UX) is effectively
+          taught throughout the organization** by collaborating with different
+          departments in executing design-related events, while also **making
+          sure that quality is executed in all digital products created for
+          clients**.
 
 
           It is recommended that the Vice President for UX Design has past
@@ -380,8 +409,8 @@ departmentsSection:
           collaboration**, and if possible, product management.
 
 
-          The Vice President for UX Design works hand in hand with the Vice
-          President for Consultancy in managing the UXDC team.
+          The VP for UX Design works hand in hand with the VP for Consultancy in
+          managing the UXDC team.
         title: The Design Educator
     title: "\U0001F499 VP for UX Design"
 ---
