@@ -49,29 +49,30 @@ departmentsSection:
         title: ' The Chief Evangelist'
     title: "\U0001F451 President"
   - cards: []
-    description: >
-      Bringing the designs to life, we, engineers from the Engineering
-      department, focus on developing the website projects of UXSoc and its
-      clients both in Front-End and Back-End Engineering. The department has a
-      professional and tight-knit environment that enables the members of UXSoc
-      to expand their knowledge and appreciate the beauty of impactful web
-      development for well-made designs.
+    description: ' '
     positions:
       - description: >-
-          If you want to curate the structure of server side information, then
-          this role is a fit for you. You primarily help in writing server side
-          scripts and APIs that are to be utilized by front end engineers and UX
-          designers. As a back end engineer, having a willing-to-learn attitude
-          is crucial in your growth and development as a member of the team and
-          as a developer.
-        title: Back End Engineering Officer
-      - description: >-
-          Your job is to combine the art of programming with the art of design.
-          You will be tasked to write the web markup, including HTML5, CSS3. You
-          also need to have a proficient understanding of client-side scripting,
-          JavaScript frameworks, and Content Management Systems.
-        title: Front End Engineering Officer
-    title: "\U0001F4BB Engineering (UXDev)"
+          The EVP is the right hand of the President. He or she fills in the
+          gaps the President cannot fill. Together with the President, they are
+          unbreakable in advocating User Experience.
+
+
+          He or she is the leader of all the vice presidents. He or she should
+          be deeply concerned with each of their growth and as much as possible
+          schedule individual consultations, hold honest conversations, and find
+          the root of the matter whenever they do not perform well as well as
+          address all internal conflicts within the executive board. He or she
+          ensures that UXSoc continues to grow in the quality of initiatives and
+          prepares the organization for continuous growth across different
+          chapters alongside the president and directly reports to LIONS as part
+          of the legislative committee.
+
+
+          Your strong sense of empathy for the organization’s people, standards
+          of quality and growth, and can-do attitude takes the organization far
+          more than it could be without you.
+        title: The Right Hand
+    title: "\U0001F4A1 Executive Vice President"
   - cardSectionTitle: ''
     cards:
       - description: >-
@@ -160,30 +161,67 @@ departmentsSection:
           * In charge of monitoring the chat and handling the Q&A (ex . creating
           a Poll for most voted questions)
         title: Programs Head (Minor Project)
-    description: >-
-      Being a designer does not happen overnight. We, in the Events department,
-      design event experiences that nurture the growth of the members of
-      UXSociety. Our informative and meaningful events add value to the
-      development of members as design leaders and developers.
-    positions: []
-    title: "\U0001F3A4 Events"
-  - cards: []
-    description: >-
-      We, in the Externals department, are the faces of UXSoc who interact with
-      organizations and companies inside and outside of Ateneo. We create
-      connections through partnerships and sponsorships and serve as the
-      bridgeway for students to network with people in the industry.
+    description: ' '
     positions:
       - description: >-
-          Externals officers will be helping the VP, AVP for Partner Acquisition
-          and AVP for Partner Relations in contacting potential partners,
-          drafting emails, acquiring speakers for events and workshops, and
-          keeping track of the various agreements and responsibilities that need
-          to be upheld by both the org and the partner. They must be
-          detail-oriented and have good communication skills. Prior experience
-          in externals is preferred but not required.
-        title: Externals Officer
-    title: "\U0001F91D Externals"
+          The SecGen is in charge of establishing an organized file management
+          system and having proper and appropriate documentation. Also, the
+          SecGen is the chief coordinator for all tasks of the executive board
+          member. He or she ensures that all department heads are finishing
+          their deliverables on time and with quality.
+
+
+          Some responsibilities/tasks include setting up important internal
+          meetings while following respective agendas, creating an organized
+          Google Drive (or any other platform) available to the team, and
+          upholding standards of quality for org documents
+
+
+          It’s recommended that SecGen is detail-oriented, a team player, a
+          critical listener, and passionately champions quality standards. Past
+          experiences on quick and effective note-taking is also recommended.
+        title: ' The Chief Organizer'
+    title: "\U0001F5C3 Secretary General"
+  - cards: []
+    description: ' '
+    positions:
+      - description: >-
+          The VP for Consultancy is in charge of client projects, whilst
+          advocating for product (and project!) management within UX Society. 
+
+
+          Whilst UX Consultancy, UX Design, and Engineering are the staple
+          income generating departments of UXSoc, clientwork may also involve
+          other departments. These client projects will serve as a practice
+          ground for UXSoc AVPs and officers to hone their product management,
+          research, design, and development skills in real-life projects. 
+
+
+          For clientwork, the VP for Consultancy must be ready to pitch UXSoc’s
+          various services to clients, quote the right prices, negotiate
+          reasonably with stakeholders, and to ensure the project team is able
+          to deliver a top-notch output within a reasonable timeframe. Ideally,
+          he/she must have had freelance experience to be able to quote
+          properly, but tremendous project management and people management
+          skills are highly required and are non-negotiables! 
+
+
+          Some responsibilities the VP for Consultancy is expected to undertake
+          for client-work: 
+
+
+          * Lead a team of UX Researchers, Product Designers, and Developers
+
+          * Take ownership of the entire project management cycle and product
+          roadmap 
+
+          * Establish close rapport with both internal stakeholders
+          (researchers, designers, developers, finance, UXSoc Top 3) and
+          external stakeholders (clients, end-users)
+
+          * Ensure project is executed well from deployment to turnover
+        title: The Product Manager
+    title: "\U0001F5E3 VP for Consultancy"
   - cards: []
     description: >
       Money makes the world go round. We enable UXSociety activities to happen
