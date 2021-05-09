@@ -246,46 +246,78 @@ departmentsSection:
   - description: ' '
     positions:
       - description: >-
-          The VP of Finance keeps the organization running with enough cash.
+          The Vice President for Events is **in charge of making sure the
+          programs and logistics of UXSoc's events are smooth and
+          well-designed**. Moreover, he/ she is responsible for keeping the
+          overall event experience (both for audience and speaker) meaningful
+          and relevant. 
 
 
+          He/she is an **efficient planner and organizer of events**. He/she is
+          **familiar with Ateneo’s (rigorous) mechanisms** with regards to venue
+          reservations and project proposals. If not, he/she is **ready to
+          learn** them, immerse in them, and give their soul to them.
 
 
-          He/she keeps the organization’s financials in check, and creates
-          systems and processes to ensure that projects and expenses are
-          properly accounted for and there’s enough to go around!
+          He/she knows how to deploy project teams, manage expectations and
+          motivations, and pick the right people for the right job.
 
 
+          The Events VP is in charge of working alongside the Finance department
+          to keep track of the budget of all events for the year as well as to
+          keep track of the expenses of each project or event. 
 
 
-          He/she sets systems to track where our finances go. This VP is
-          obsessed with getting receipts, tallying expenses, and analyzing our
-          financial health so that we know how to maximize our funds for the
-          org’s growth!
+          He/ she is also in charge of working with the Externals department to
+          scout and assign relevant speakers for each major event. 
 
 
+          He/ she must also collaborate together with the Branding, Design &
+          Consultancy, Dev, and Content Marketing department to create a lesson
+          plan as well as assign relevant and appropriate speakers for
+          workshops.
 
 
-          This VP is often collaborating with the Consultancy and Design
-          department in order to secure payments from clients. It is not
+          Most importantly, the Events VP must advocate for User Experience
+          design. He/ she must encourage his/ her AVPs and members to learn and
+          practice User Experience design outside Events (e.g. web development,
+          design, etc.).
+        title: ' The Event Experience Designer'
+    title: "\U0001F389 VP for Events"
+  - description: ' '
+    positions:
+      - description: >-
+          The Vice President for Finance keeps the organization running with
+          enough cash.
+
+
+          He/she **keeps the organization’s financials in check**, and creates
+          systems and processes to **ensure that projects and expenses are
+          properly accounted for** and there’s enough to go around.
+
+
+          He/she **sets systems to track where our finances go**. This Vice
+          President is obsessed with getting receipts, tallying expenses, and
+          analyzing our financial health so that we know how to maximize our
+          funds for the org’s growth.
+
+
+          This Vice President is often collaborating with the Consultancy and
+          Design department in order to secure payments from clients. It is not
           unnatural for him/her to be handling MoA’s and other similar
           documents. He/she is also able to keep track of expenses such as
           hosting and domain management fees, SSL certificates, and more.
 
 
-
-
-          The Finance VP is also in charge of working alongside the Events
-          department to make sure that expenses for UXSoc’s projects and events
-          are properly accounted for and recorded!
-
-
+          He/she is also in charge of working alongside the Events department to
+          make sure that expenses for UXSoc’s projects and events are properly
+          accounted for and recorded.
 
 
           The Finance department doesn’t need to just be all numbers and
-          systems! He/she can also be seen dabbling with the Branding department
+          systems. He/she can also be seen dabbling with the Branding department
           to come up with the latest UX Merch that both speaks of the org’s
-          identity and generates cash for more projects and events for the org!
+          identity and generates cash for more projects and events for the org.
         title: The Money Lover
     title: "\U0001F4B8 VP for Finance"
   - cards: []
@@ -376,46 +408,5 @@ departmentsSection:
           President for Consultancy in managing the UXDC team.
         title: The Design Educator
     title: "\U0001F499 VP for UX Design"
-  - description: ' '
-    positions:
-      - description: >-
-          The Vice President for Events is **in charge of making sure the
-          programs and logistics of UXSoc's events are smooth and
-          well-designed**. Moreover, he/ she is responsible for keeping the
-          overall event experience (both for audience and speaker) meaningful
-          and relevant. 
-
-
-          He/she is an **efficient planner and organizer of events**. He/she is
-          **familiar with Ateneo’s (rigorous) mechanisms** with regards to venue
-          reservations and project proposals. If not, he/she is **ready to
-          learn** them, immerse in them, and give their soul to them.
-
-
-          He/she knows how to deploy project teams, manage expectations and
-          motivations, and pick the right people for the right job.
-
-
-          The Events VP is in charge of working alongside the Finance department
-          to keep track of the budget of all events for the year as well as to
-          keep track of the expenses of each project or event. 
-
-
-          He/ she is also in charge of working with the Externals department to
-          scout and assign relevant speakers for each major event. 
-
-
-          He/ she must also collaborate together with the Branding, Design &
-          Consultancy, Dev, and Content Marketing department to create a lesson
-          plan as well as assign relevant and appropriate speakers for
-          workshops.
-
-
-          Most importantly, the Events VP must advocate for User Experience
-          design. He/ she must encourage his/ her AVPs and members to learn and
-          practice User Experience design outside Events (e.g. web development,
-          design, etc.).
-        title: ' The Event Experience Designer'
-    title: "\U0001F389 VP for Events"
 ---
 
