@@ -33,6 +33,8 @@ departmentsSection:
           projects and events during his/her term.
 
 
+
+
           He or she is responsible for leading the growth of the entire
           organization and also should be open to mentoring the next set of
           leaders for the organization. The President is also responsible for
@@ -41,6 +43,8 @@ departmentsSection:
           interested students outside of Ateneo de Manila that may be interested
           in founding their own UX Society chapter for their respective
           universities.
+
+
 
 
           It’s recommended that the President has the skills of effective
@@ -57,6 +61,8 @@ departmentsSection:
           unbreakable in advocating User Experience.
 
 
+
+
           He or she is the leader of all the vice presidents. He or she should
           be deeply concerned with each of their growth and as much as possible
           schedule individual consultations, hold honest conversations, and find
@@ -66,6 +72,8 @@ departmentsSection:
           prepares the organization for continuous growth across different
           chapters alongside the president and directly reports to LIONS as part
           of the legislative committee.
+
+
 
 
           Your strong sense of empathy for the organization’s people, standards
@@ -161,7 +169,7 @@ departmentsSection:
           * In charge of monitoring the chat and handling the Q&A (ex . creating
           a Poll for most voted questions)
         title: Programs Head (Minor Project)
-    description: ' '
+    description: '  '
     positions:
       - description: >-
           The SecGen is in charge of establishing an organized file management
@@ -171,10 +179,14 @@ departmentsSection:
           their deliverables on time and with quality.
 
 
+
+
           Some responsibilities/tasks include setting up important internal
           meetings while following respective agendas, creating an organized
           Google Drive (or any other platform) available to the team, and
-          upholding standards of quality for org documents
+          upholding standards of quality for org documents.
+
+
 
 
           It’s recommended that SecGen is detail-oriented, a team player, a
@@ -183,11 +195,13 @@ departmentsSection:
         title: ' The Chief Organizer'
     title: "\U0001F5C3 Secretary General"
   - cards: []
-    description: ' '
+    description: '   '
     positions:
       - description: >-
           The VP for Consultancy is in charge of client projects, whilst
           advocating for product (and project!) management within UX Society. 
+
+
 
 
           Whilst UX Consultancy, UX Design, and Engineering are the staple
@@ -197,6 +211,8 @@ departmentsSection:
           research, design, and development skills in real-life projects. 
 
 
+
+
           For clientwork, the VP for Consultancy must be ready to pitch UXSoc’s
           various services to clients, quote the right prices, negotiate
           reasonably with stakeholders, and to ensure the project team is able
@@ -204,6 +220,8 @@ departmentsSection:
           he/she must have had freelance experience to be able to quote
           properly, but tremendous project management and people management
           skills are highly required and are non-negotiables! 
+
+
 
 
           Some responsibilities the VP for Consultancy is expected to undertake
@@ -223,67 +241,100 @@ departmentsSection:
         title: The Product Manager
     title: "\U0001F5E3 VP for Consultancy"
   - cards: []
-    description: >
-      Money makes the world go round. We enable UXSociety activities to happen
-      as we allocate and maximize the organization’s funds to continue
-      UXSociety’s mission of evangelizing user experience. Being advocates of
-      financial literacy, we experience the real-life financial processes of a
-      design firm as we are compensated for our client's work.
-    positions:
-      - description: |-
-          * **Officer 1** 
-            * In charge of helping the AVP of fund generation with the communication of suppliers and sourcing out potential suppliers of merchandise or supplies.
-        title: Fund Generation
-    title: "\U0001F4B8 Finance"
-  - cards: []
-    description: >-
-      At the Marketing department, we nurture the identity of the UXSoc and
-      ensure that the organization is well represented on all platforms through
-      our campaign strategies for content and promotional materials. We make
-      sure that event and initiative collaterals are aesthetically pleasing and
-      informative at the same time.
+    description: '   '
     positions:
       - description: >-
-          The UX Marketing Department is opening their doors to (a maximum of) 5
-          individuals who want to hone their skills in branding, content
-          creation, and coverage.
+          The VP for UX Design is in charge of leading the UX education efforts
+          through client projects and events.
 
 
-          **Role:**
 
 
-          The UXMktg Officer will be part of the team in charge of collateral
-          creation to be published by the organization. They must have at least
-          one of the skillsets below:
+          He or she ensures that product design (with a focus on UX) is
+          effectively taught throughout the organization by collaborating with
+          different departments in executing design-related events, while also
+          making sure that quality is executed in all digital products created
+          for clients.
 
 
-          * **Content -** Writing versatility. 
-            * Able to adapt to the org's personality and tone in order to write engaging content and spiels.
-          * **Branding -** Digital Creativity. 
-            * Able to envision and design different posters for publication in line with the current visual identity of the org. (A proficiency in Figma is helpful as the team uses this platform for ease of collaboration).
-          * **Coverage -** Video-editing skills (and software). 
-            * Able to source and creatively compile multimedia from events of the org for coverage or publishing. 
-
-          **Responsibilities:**
 
 
-          Basing on their skillset, the UXMktg Officer will engage with the
-          other Mktg. Officers and Leads so that they may:
+          It is recommended that the VP for UX Design has past experience not
+          only in product design, but also profound knowledge in user research,
+          visual design, and usability. The VP for UX Design must also have
+          experience in mentorship and collaboration, and if possible, product
+          management.
 
 
-          * help in the management of UXSoc social media accounts (Facebook,
-          Instagram, or Twitter);
 
-          * copywrite spiels and other content for the creative collaterals of
-          the org (i.e. spiels for pubs, content for the pubs, etc.);
 
-          * produce and publish publication materials to market events and
-          initiatives of the organization;
+          The VP for UX Design works hand in hand with the VP for Consultancy in
+          managing the UXDC team.
 
-          * collect and edit any documentation of executed projects or events of
-          the org.
-        title: UXMktg. Officers
-    title: "\U0001F4DD Marketing"
+
+
+
+          Some responsibilities the VP for UX Design is expected to undertake:
+
+
+          * In charge of leading functional and impactful digital products for
+          clients
+
+          * In charge of managing AVPs under UX Design
+
+          * In charge of leading and guiding officers under UXDC with regards to
+          producing effective outputs for client work
+
+          * In charge of facilitating design workshops
+
+          * In charge of sharing design resources
+        title: The Design Educator
+    title: "\U0001F499 VP for UX Design"
+  - cards: []
+    description: '  '
+    positions:
+      - description: >-
+          The VP for Marketing is responsible for ensuring that the org is well
+          represented on all platforms and that all events, projects, and
+          initiatives are properly promoted .
+
+
+
+
+          They must help ensure that the org has a good reputation  through
+          timely and sensible campaign strategies that reflect the values of the
+          organization.
+
+
+
+
+          It is recommended that they be able to juggle multiple projects and
+          teams as they will be overseeing and advising the creatives,
+          copywriters, and documentations committees. This involves the tracking
+          and management of all content and output, ensuring their quality and
+          completion.
+
+
+
+
+          Responsibilities
+
+
+          * Social Media Planning & Management (Facebook, Instagram, Twitter,
+          LinkedIn) to increase member and audience engagement
+
+          * Ideating and executing different marketing strategies for the org’s
+          various events, projects, and initiatives.
+
+          * Ensuring that each event, project, and initiative maintains a
+          consistent brand that aligns with the org’s values.
+
+          * Managing the creation of output for the org’s various events,
+          projects, and initiatives.
+
+          * Setting the annual motto/theme of the org
+        title: The Trendsetter
+    title: "\U0001F4DD VP for Marketing"
   - cards: []
     description: >-
       Behind the success of every organization is a solid foundation of trust
@@ -301,5 +352,95 @@ departmentsSection:
           * Assessing trends and creating reports from event and IC responses
         title: Member Development Officer
     title: "\U0001F3E0 Human Resources"
+  - description: ' '
+    positions:
+      - description: >-
+          The VP for Engineering is in charge of transforming designs into
+          digital masterpieces that are usable, useful, and delightful.
+
+           
+
+          This VP is the chief technological officer that manages all the
+          software engineering projects. He or she works hand in hand with the
+          designers and ensures that the projects are moving forward as planned.
+          This VP is also in charge of developing and honing the programming
+          skills of his/her developers.
+
+
+
+
+          It’s recommended that the VP for Engineering should have an in-depth
+          knowledge and experience in using the git flow and programming
+          front-end and back-end applications.
+
+
+
+
+          He or she should have a coding portfolio, meaning he or she has
+          already worked on other projects before. Moreover, the VP for
+          Engineering should also be meticulous in the code structure, style and
+          infrastructure.
+
+
+
+
+          Some responsibilities the VP for Engineering is expected to undertake:
+
+
+          * Leading, guiding, and teaching your officers (and pool if you decide
+          to have), as well as interested UXS members!
+
+          * Client Projects
+
+          * Dev Workshops
+
+          * Dev Manual
+        title: The Coding Sage
+    title: "\U0001F4BB VP for Engineering"
+  - description: ' '
+    positions:
+      - description: >-
+          The VP of Finance keeps the organization running with enough cash.
+
+
+
+
+          He/she keeps the organization’s financials in check, and creates
+          systems and processes to ensure that projects and expenses are
+          properly accounted for and there’s enough to go around!
+
+
+
+
+          He/she sets systems to track where our finances go. This VP is
+          obsessed with getting receipts, tallying expenses, and analyzing our
+          financial health so that we know how to maximize our funds for the
+          org’s growth!
+
+
+
+
+          This VP is often collaborating with the Consultancy and Design
+          department in order to secure payments from clients. It is not
+          unnatural for him/her to be handling MoA’s and other similar
+          documents. He/she is also able to keep track of expenses such as
+          hosting and domain management fees, SSL certificates, and more.
+
+
+
+
+          The Finance VP is also in charge of working alongside the Events
+          department to make sure that expenses for UXSoc’s projects and events
+          are properly accounted for and recorded!
+
+
+
+
+          The Finance department doesn’t need to just be all numbers and
+          systems! He/she can also be seen dabbling with the Branding department
+          to come up with the latest UX Merch that both speaks of the org’s
+          identity and generates cash for more projects and events for the org!
+        title: The Money Lover
+    title: "\U0001F4B8 VP for Finance"
 ---
 
