@@ -373,5 +373,7 @@ departmentsSection:
           managing the UXDC team.
         title: The Design Educator
     title: "\U0001F499 VP for UX Design"
+  - description: ' '
+    title: VP for Events
 ---
 
