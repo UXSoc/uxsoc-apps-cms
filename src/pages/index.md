@@ -20,42 +20,34 @@ heroSection:
     Hey there, UXer! Want to join the run for **SY 2020-2021**? Read through the
     primer and join the department best fitting for you. Interested? Don’t
     forget to click apply!
-  title: EXPERIENCE BETTER WITH UXSOCIETY
+  title: EXECUTIVE BOARD RUN
 departmentsSection:
   - cardSectionTitle: ''
     cards: []
-    description: >-
-      We are the core of UXSoc that advocates the practice of user experience.
-      We handle all client projects in and outside of Ateneo, creating products
-      that are functional and impactful for our clients. We evangelize user
-      experience through workshops and learning modules and train future design
-      leaders.
+    description: ' '
     positions:
       - description: >-
-          Client Marketing Officers will be important drivers of revenue for the
-          UXDC department. They will be promoting UX Society primarily as a
-          business. CM Officers are quick to think up out-of-the-box and
-          consistent marketing content for connecting and acquiring possible
-          clients.
+          The President is the highest ranking executive in the organization. He
+          or she is in charge of establishing the vision and mission for the
+          organization and making sure it can be translated to a portfolio of
+          projects and events during his/her term.
 
 
+          He or she is responsible for leading the growth of the entire
+          organization and also should be open to mentoring the next set of
+          leaders for the organization. The President is also responsible for
+          coordinating with LIONS, Ateneo admin and other offices, as well as
+          external UX Society chapters. He or she shall be willing to guide
+          interested students outside of Ateneo de Manila that may be interested
+          in founding their own UX Society chapter for their respective
+          universities.
 
 
-          Being skilled in Graphic Design and Content Writing is a plus BUT is
-          not required. The roles of a CM Officer include the following: 
-
-
-          * **Planning content for client-related marketing material**
-            * Creation of Project content through Case Studies
-            * Graphics/Pubmats
-            * Proofread case study articles made by the project team
-          * **Managing and increasing engagements in content**
-            * Create ways in promoting client-work content (organic or not)
-          * **Acquiring possible clients for UX Society**
-            * Create desired target market/customer personas — and expound from there
-            * Connect possible clients with UX Society
-        title: Client Marketing Officers
-    title: "\U0001F3A8 Design & Consultancy (UXDC)"
+          It’s recommended that the President has the skills of effective
+          communication, persuasion, ability to handle conflict, good judgment
+          and past experience on leadership and team management.
+        title: ' The Chief Evangelist'
+    title: "\U0001F451 President"
   - cards: []
     description: >
       Bringing the designs to life, we, engineers from the Engineering
