@@ -166,13 +166,12 @@ departmentsSection:
     description: '  '
     positions:
       - description: >-
-          The SecGen is in charge of establishing an organized file management
-          system and having proper and appropriate documentation. Also, the
-          SecGen is the chief coordinator for all tasks of the executive board
-          member. He or she ensures that all department heads are finishing
-          their deliverables on time and with quality.
-
-
+          The Secretary General is in charge of **establishing an organized file
+          management system** and having **proper and appropriate
+          documentation**. Also, the SecGen is the **chief coordinator** for all
+          tasks of the executive board member. He or she ensures that all
+          department heads are finishing their deliverables on time and with
+          quality.
 
 
           Some responsibilities/tasks include setting up important internal
@@ -181,11 +180,10 @@ departmentsSection:
           upholding standards of quality for org documents.
 
 
-
-
-          It’s recommended that SecGen is detail-oriented, a team player, a
-          critical listener, and passionately champions quality standards. Past
-          experiences on quick and effective note-taking is also recommended.
+          It’s recommended that Secretary General is detail-oriented, a team
+          player, a critical listener, and passionately champions quality
+          standards. Past experiences on quick and effective note-taking is also
+          recommended.
         title: ' The Chief Organizer'
     title: "\U0001F5C3 Secretary General"
   - cards: []
