@@ -304,8 +304,7 @@ departmentsSection:
   - description: ' '
     positions:
       - description: >-
-          The Vice President for Finance keeps the organization running with
-          enough cash.
+          The VP for Finance keeps the organization running with enough cash.
 
 
           They **keep the organization’s financials in check**, and creates
