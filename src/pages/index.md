@@ -318,10 +318,10 @@ departmentsSection:
           org’s growth.
 
 
-          This VP is often collaborating with the Consultancy and Design
-          department in order to secure payments from clients. It is not
+          This VP is **often** **collaborating** with the Consultancy and Design
+          department in order to **secure payments from clients**. It is not
           unnatural for them to be handling MoA’s and other similar documents.
-          They are also able to keep track of expenses such as hosting and
+          They are also able to **keep track of expenses** such as hosting and
           domain management fees, SSL certificates, and more.
 
 
@@ -332,8 +332,9 @@ departmentsSection:
 
           The Finance department doesn’t need to just be all numbers and
           systems. They can also be seen dabbling with the Branding department
-          to come up with the latest UX Merch that both speaks of the org’s
-          identity and generates cash for more projects and events for the org.
+          to **come up with the latest UX Merch** that both speaks of the org’s
+          identity and **generates cash for more projects and events** for the
+          org.
         title: The Money Lover
     title: "\U0001F4B8 VP for Finance"
   - cards: []
