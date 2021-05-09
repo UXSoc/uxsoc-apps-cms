@@ -53,29 +53,26 @@ departmentsSection:
     description: ' '
     positions:
       - description: >-
-          The EVP is the right hand of the President. He or she fills in the
-          gaps the President cannot fill. Together with the President, they are
-          unbreakable in advocating User Experience.
+          The EVP is the **right hand** **of the President**. He or she fills in
+          the gaps the President cannot fill. Together with the President, they
+          are **unbreakable in advocating User Experience**.
 
 
+          He or she is the **leader of all the vice presidents**. He or she
+          should be **deeply concerned with each of their growth** and as much
+          as possible schedule individual consultations, hold honest
+          conversations, and find the root of the matter whenever they do not
+          perform well as well as address all internal conflicts within the
+          executive board. He or she ensures that UXSoc continues to grow in the
+          quality of initiatives and prepares the organization for continuous
+          growth across different chapters alongside the president and directly
+          reports to LIONS as part of the legislative committee.
 
 
-          He or she is the leader of all the vice presidents. He or she should
-          be deeply concerned with each of their growth and as much as possible
-          schedule individual consultations, hold honest conversations, and find
-          the root of the matter whenever they do not perform well as well as
-          address all internal conflicts within the executive board. He or she
-          ensures that UXSoc continues to grow in the quality of initiatives and
-          prepares the organization for continuous growth across different
-          chapters alongside the president and directly reports to LIONS as part
-          of the legislative committee.
-
-
-
-
-          Your strong sense of empathy for the organization’s people, standards
-          of quality and growth, and can-do attitude takes the organization far
-          more than it could be without you.
+          It is recommended that the Executive Vice President has a strong sense
+          of empathy for the organization’s people, standards of quality and
+          growth, and a can-do attitude that takes the organization far more
+          than it could be without them.
         title: The Right Hand
     title: "\U0001F4A1 Executive Vice President"
   - cardSectionTitle: ''
