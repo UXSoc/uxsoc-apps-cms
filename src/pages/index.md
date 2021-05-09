@@ -15,10 +15,7 @@ headerSection:
   buttonVisible: true
   title: Executive Board Applications
 heroSection:
-  description: >-
-    Hey there, UXer! Want to join the run for **SY 2020-2021**? Read through the
-    primer and join the department best fitting for you. Interested? Don’t
-    forget to click apply!
+  description: "Hey there, UXer! Want to join the **Executive Board** run for **AY 2021-2022**? Read through the primer and see which position would best fit you. \U0001F440 Interested? Don’t forget to click apply!"
   title: JOIN THE MAFIA
 departmentsSection:
   - cardSectionTitle: ''
