@@ -8,19 +8,18 @@ backgroundColor: '#15202b'
 footerColor: '#F2F2F2'
 seo:
   siteDescription: >-
-    This is the official application platform of User Experience Society for
-    member re-applications and officer applications. Experience better with
-    UXSociety and join now!
+    This is the official application platform of User Experience Society for EB
+    applications. Experience better with UXSociety and join now!
   siteTitle: Home
 headerSection:
   buttonVisible: true
-  title: Officer Applications
+  title: Executive Board Applications
 heroSection:
   description: >-
     Hey there, UXer! Want to join the run for **SY 2020-2021**? Read through the
     primer and join the department best fitting for you. Interested? Don’t
     forget to click apply!
-  title: EXECUTIVE BOARD RUN
+  title: JOIN THE MAFIA
 departmentsSection:
   - cardSectionTitle: ''
     cards: []
