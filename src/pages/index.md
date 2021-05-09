@@ -246,46 +246,6 @@ departmentsSection:
   - description: ' '
     positions:
       - description: >-
-          The VP for Events is **in charge of making sure the programs and
-          logistics of UXSoc's events are smooth and well-designed**. Moreover,
-          they are responsible for keeping the overall event experience (both
-          for audience and speaker) meaningful and relevant. 
-
-
-          They are an **efficient planner and organizer of events**. They are
-          **familiar with Ateneo’s (rigorous) mechanisms** with regards to venue
-          reservations and project proposals. If not, they should be **ready to
-          learn** them, immerse in them, and give their soul to them.
-
-
-          They know how to deploy project teams, manage expectations and
-          motivations, and pick the right people for the right job.
-
-
-          The VP is in charge of working alongside the Finance department to
-          keep track of the budget of all events for the year as well as to keep
-          track of the expenses of each project or event. 
-
-
-          They are also in charge of working with the Externals department to
-          scout and assign relevant speakers for each major event. 
-
-
-          They must also collaborate together with the Branding, Design &
-          Consultancy, Dev, and Content Marketing department to create a lesson
-          plan as well as assign relevant and appropriate speakers for
-          workshops.
-
-
-          Most importantly, the Events VP must advocate for User Experience
-          design. They must encourage their AVPs and members to learn and
-          practice User Experience design outside Events (e.g. web development,
-          design, etc.).
-        title: The Event Experience Designer
-    title: "\U0001F389 VP for Eventss"
-  - description: ' '
-    positions:
-      - description: >-
           The VP for Externals has the responsibility of being **the face of the
           organization** and **ensuring a good rapport to our dear partners and
           sponsors**, both long-term and short-term. The VP works closely with
