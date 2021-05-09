@@ -32,12 +32,14 @@ departmentsSection:
 
           They are responsible for **leading** **the** **growth** of the entire
           organization and also should be **open** **to** **mentoring** the next
-          set of leaders for the organization. The President is also responsible
-          for **coordinating with LIONS, Ateneo admin and other offices, as well
-          as external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
+          set of leaders for the organization. The President is also in charge
+          of **monitoring or handling external affairs of the organization** –
+          such as LIONS, Ateneo admin and offices, as well as external UX
+          Society chapters. They are **mainly focused on the interests and
+          welfare of their own Executive Board**, but shall also be **willing to
+          guide interested students outside of Ateneo de Manila** that may be
+          interested in founding their own UX Society chapter for their
+          respective universities.
 
 
           It’s recommended that the President has the **skills of excellent
