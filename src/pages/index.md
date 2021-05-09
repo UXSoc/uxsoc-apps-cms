@@ -352,14 +352,14 @@ departmentsSection:
           * Assessing trends and creating reports from event and IC responses
         title: Member Development Officer
     title: "\U0001F3E0 Human Resources"
-  - description: ' '
+  - cards: []
+    description: ' '
     positions:
       - description: >-
           The VP for Engineering is in charge of transforming designs into
           digital masterpieces that are usable, useful, and delightful.
-
-           
-
+        title: The Coding Sage
+      - description: >-
           This VP is the chief technological officer that manages all the
           software engineering projects. He or she works hand in hand with the
           designers and ensures that the projects are moving forward as planned.
@@ -395,7 +395,7 @@ departmentsSection:
           * Dev Workshops
 
           * Dev Manual
-        title: The Coding Sage
+        title: ' '
     title: "\U0001F4BB VP for Engineering"
   - description: ' '
     positions:
