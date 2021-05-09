@@ -324,45 +324,21 @@ departmentsSection:
     description: '  '
     positions:
       - description: >-
-          The VP for Marketing is responsible for ensuring that the org is well
-          represented on all platforms and that all events, projects, and
-          initiatives are properly promoted .
+          The Vice President for Marketing is responsible for **ensuring that
+          the org is well represented** on all platforms and that all events,
+          projects, and initiatives are properly promoted .
 
 
-
-
-          They must help ensure that the org has a good reputation  through
+          They must help ensure that the org has a good reputation through
           timely and sensible campaign strategies that reflect the values of the
           organization.
 
 
-
-
           It is recommended that they be able to juggle multiple projects and
-          teams as they will be overseeing and advising the creatives,
-          copywriters, and documentations committees. This involves the tracking
-          and management of all content and output, ensuring their quality and
-          completion.
-
-
-
-
-          Responsibilities
-
-
-          * Social Media Planning & Management (Facebook, Instagram, Twitter,
-          LinkedIn) to increase member and audience engagement
-
-          * Ideating and executing different marketing strategies for the org’s
-          various events, projects, and initiatives.
-
-          * Ensuring that each event, project, and initiative maintains a
-          consistent brand that aligns with the org’s values.
-
-          * Managing the creation of output for the org’s various events,
-          projects, and initiatives.
-
-          * Setting the annual motto/theme of the org
+          teams as they will be **overseeing and advising the creatives,
+          copywriters, and documentations committees**. This involves the
+          **tracking and management of all content and output**, ensuring their
+          quality and completion.
         title: The Trendsetter
     title: "\U0001F4DD VP for Marketing"
   - cards: []
