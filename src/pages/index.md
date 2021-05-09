@@ -44,9 +44,10 @@ departmentsSection:
           respective universities.
 
 
-          It’s recommended that the President has the skills of effective
-          communication, persuasion, ability to handle conflict, good judgment
-          and past experience on leadership and team management.
+          It’s recommended that the President has the **skills of effective
+          communication**, **persuasion**, **ability to handle conflict**,
+          **good judgment** and **past experience on leadership and team
+          management**.
         title: ' The Chief Evangelist'
     title: "\U0001F451 President"
   - cards: []
@@ -69,10 +70,10 @@ departmentsSection:
           reports to LIONS as part of the legislative committee.
 
 
-          It is recommended that the Executive Vice President has a strong sense
-          of empathy for the organization’s people, standards of quality and
-          growth, and a can-do attitude that takes the organization far more
-          than it could be without them.
+          It is recommended that the Executive Vice President has **a** **strong
+          sense of empathy for the organization’s people**, **standards of
+          quality and growth**, and **a can-do attitude** that takes the
+          organization far more than it could be without them.
         title: The Right Hand
     title: "\U0001F4A1 Executive Vice President"
   - cardSectionTitle: ''
@@ -180,10 +181,10 @@ departmentsSection:
           upholding standards of quality for org documents.
 
 
-          It’s recommended that Secretary General is detail-oriented, a team
-          player, a critical listener, and passionately champions quality
-          standards. Past experiences on quick and effective note-taking is also
-          recommended.
+          It’s recommended that Secretary General is **detail-oriented**, **a
+          team player**, **a critical listener**, and **passionately champions
+          quality standards**. Past experiences on quick and effective
+          note-taking is also recommended.
         title: ' The Chief Organizer'
     title: "\U0001F5C3 Secretary General"
   - cards: []
@@ -208,57 +209,37 @@ departmentsSection:
           to deliver a top-notch output within a reasonable timeframe. Ideally,
           he/she **must have had freelance experience** to be able to quote
           properly, but **tremendous project management and people management
-          skills** are highly required and are non-negotiables!
+          skills** are highly required and are non-negotiables.
+
+
+          The Vice President for Consultancy works hand in hand with the Vice
+          President for UX Design in managing the UXDC team.
         title: The Product Manager
     title: "\U0001F5E3 VP for Consultancy"
   - cards: []
     description: '   '
     positions:
       - description: >-
-          The VP for UX Design is in charge of leading the UX education efforts
-          through client projects and events.
+          The Vice President for UX Design is **in charge of leading the UX
+          education efforts** through **client projects** and **events**.
 
 
-
-
-          He or she ensures that product design (with a focus on UX) is
-          effectively taught throughout the organization by collaborating with
+          He or she **ensures that product design (with a focus on UX) is
+          effectively taught throughout the organization** by collaborating with
           different departments in executing design-related events, while also
-          making sure that quality is executed in all digital products created
-          for clients.
+          **making sure that quality is executed in all digital products created
+          for clients**.
 
 
+          It is recommended that the Vice President for UX Design has past
+          experience not only in **product** **design**, but also **profound
+          knowledge in user research, visual design, and usability**. The VP for
+          UX Design must also have **experience** **in mentorship and
+          collaboration**, and if possible, product management.
 
 
-          It is recommended that the VP for UX Design has past experience not
-          only in product design, but also profound knowledge in user research,
-          visual design, and usability. The VP for UX Design must also have
-          experience in mentorship and collaboration, and if possible, product
-          management.
-
-
-
-
-          The VP for UX Design works hand in hand with the VP for Consultancy in
-          managing the UXDC team.
-
-
-
-
-          Some responsibilities the VP for UX Design is expected to undertake:
-
-
-          * In charge of leading functional and impactful digital products for
-          clients
-
-          * In charge of managing AVPs under UX Design
-
-          * In charge of leading and guiding officers under UXDC with regards to
-          producing effective outputs for client work
-
-          * In charge of facilitating design workshops
-
-          * In charge of sharing design resources
+          The Vice President for UX Design works hand in hand with the Vice
+          President for Consultancy in managing the UXDC team.
         title: The Design Educator
     title: "\U0001F499 VP for UX Design"
   - cards: []
