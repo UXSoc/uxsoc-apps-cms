@@ -27,24 +27,21 @@ departmentsSection:
     description: ' '
     positions:
       - description: >-
-          The President is the highest ranking executive in the organization. He
-          or she is in charge of establishing the vision and mission for the
-          organization and making sure it can be translated to a portfolio of
-          projects and events during his/her term.
+          The President is the **highest** **ranking** **executive** in the
+          organization. He or she is in charge of **establishing** **the**
+          **vision** **and** **mission** **for** **the** **organization** and
+          making sure it can be translated to a portfolio of projects and events
+          during his/her term.
 
 
-
-
-          He or she is responsible for leading the growth of the entire
-          organization and also should be open to mentoring the next set of
-          leaders for the organization. The President is also responsible for
-          coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters. He or she shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
-
-
+          He or she is responsible for **leading** **the** **growth** of the
+          entire organization and also should be **open** **to** **mentoring**
+          the next set of leaders for the organization. The President is also
+          responsible for **coordinating with LIONS, Ateneo admin and other
+          offices, as well as external UX Society chapters**. He or she shall be
+          willing to guide interested students outside of Ateneo de Manila that
+          may be interested in founding their own UX Society chapter for their
+          respective universities.
 
 
           It’s recommended that the President has the skills of effective
