@@ -217,94 +217,6 @@ departmentsSection:
         title: The Product Manager
     title: "\U0001F5E3 VP for Consultancy"
   - cards: []
-    description: '   '
-    positions:
-      - description: >-
-          The Vice President for UX Design is **in charge of leading the UX
-          education efforts** through **client projects** and **events**.
-
-
-          He or she **ensures that product design (with a focus on UX) is
-          effectively taught throughout the organization** by collaborating with
-          different departments in executing design-related events, while also
-          **making sure that quality is executed in all digital products created
-          for clients**.
-
-
-          It is recommended that the Vice President for UX Design has past
-          experience not only in **product** **design**, but also **profound
-          knowledge in user research, visual design, and usability**. The VP for
-          UX Design must also have **experience** **in mentorship and
-          collaboration**, and if possible, product management.
-
-
-          The Vice President for UX Design works hand in hand with the Vice
-          President for Consultancy in managing the UXDC team.
-        title: The Design Educator
-    title: "\U0001F499 VP for UX Design"
-  - cards: []
-    description: '  '
-    positions:
-      - description: >-
-          The VP for Marketing is responsible for ensuring that the org is well
-          represented on all platforms and that all events, projects, and
-          initiatives are properly promoted .
-
-
-
-
-          They must help ensure that the org has a good reputation  through
-          timely and sensible campaign strategies that reflect the values of the
-          organization.
-
-
-
-
-          It is recommended that they be able to juggle multiple projects and
-          teams as they will be overseeing and advising the creatives,
-          copywriters, and documentations committees. This involves the tracking
-          and management of all content and output, ensuring their quality and
-          completion.
-
-
-
-
-          Responsibilities
-
-
-          * Social Media Planning & Management (Facebook, Instagram, Twitter,
-          LinkedIn) to increase member and audience engagement
-
-          * Ideating and executing different marketing strategies for the org’s
-          various events, projects, and initiatives.
-
-          * Ensuring that each event, project, and initiative maintains a
-          consistent brand that aligns with the org’s values.
-
-          * Managing the creation of output for the org’s various events,
-          projects, and initiatives.
-
-          * Setting the annual motto/theme of the org
-        title: The Trendsetter
-    title: "\U0001F4DD VP for Marketing"
-  - cards: []
-    description: >-
-      Behind the success of every organization is a solid foundation of trust
-      and a sense of community. UXSociety cares for its own members’ experience.
-      We, in the Department of Human Resources, are the Support Unit of
-      UXSociety: organizing projects and initiatives that create an environment
-      where the members can explore, connect, and grow as design leaders.
-    positions:
-      - description: |-
-          The Member Development Officer sees to the following:
-
-          * Organizing Bonding Activities and Team-building
-          * Conducting ICs with other officers and members
-          * Conducting researches about the current composition of members
-          * Assessing trends and creating reports from event and IC responses
-        title: Member Development Officer
-    title: "\U0001F3E0 Human Resources"
-  - cards: []
     description: ' '
     positions:
       - description: >-
@@ -376,5 +288,134 @@ departmentsSection:
           identity and generates cash for more projects and events for the org!
         title: The Money Lover
     title: "\U0001F4B8 VP for Finance"
+  - cards: []
+    description: '  '
+    positions:
+      - description: >-
+          The VP for Marketing is responsible for ensuring that the org is well
+          represented on all platforms and that all events, projects, and
+          initiatives are properly promoted .
+
+
+
+
+          They must help ensure that the org has a good reputation  through
+          timely and sensible campaign strategies that reflect the values of the
+          organization.
+
+
+
+
+          It is recommended that they be able to juggle multiple projects and
+          teams as they will be overseeing and advising the creatives,
+          copywriters, and documentations committees. This involves the tracking
+          and management of all content and output, ensuring their quality and
+          completion.
+
+
+
+
+          Responsibilities
+
+
+          * Social Media Planning & Management (Facebook, Instagram, Twitter,
+          LinkedIn) to increase member and audience engagement
+
+          * Ideating and executing different marketing strategies for the org’s
+          various events, projects, and initiatives.
+
+          * Ensuring that each event, project, and initiative maintains a
+          consistent brand that aligns with the org’s values.
+
+          * Managing the creation of output for the org’s various events,
+          projects, and initiatives.
+
+          * Setting the annual motto/theme of the org
+        title: The Trendsetter
+    title: "\U0001F4DD VP for Marketing"
+  - cards: []
+    description: >-
+      Behind the success of every organization is a solid foundation of trust
+      and a sense of community. UXSociety cares for its own members’ experience.
+      We, in the Department of Human Resources, are the Support Unit of
+      UXSociety: organizing projects and initiatives that create an environment
+      where the members can explore, connect, and grow as design leaders.
+    positions:
+      - description: |-
+          The Member Development Officer sees to the following:
+
+          * Organizing Bonding Activities and Team-building
+          * Conducting ICs with other officers and members
+          * Conducting researches about the current composition of members
+          * Assessing trends and creating reports from event and IC responses
+        title: Member Development Officer
+    title: "\U0001F3E0 Human Resources"
+  - cards: []
+    description: '   '
+    positions:
+      - description: >-
+          The Vice President for UX Design is **in charge of leading the UX
+          education efforts** through **client projects** and **events**.
+
+
+          He or she **ensures that product design (with a focus on UX) is
+          effectively taught throughout the organization** by collaborating with
+          different departments in executing design-related events, while also
+          **making sure that quality is executed in all digital products created
+          for clients**.
+
+
+          It is recommended that the Vice President for UX Design has past
+          experience not only in **product** **design**, but also **profound
+          knowledge in user research, visual design, and usability**. The VP for
+          UX Design must also have **experience** **in mentorship and
+          collaboration**, and if possible, product management.
+
+
+          The Vice President for UX Design works hand in hand with the Vice
+          President for Consultancy in managing the UXDC team.
+        title: The Design Educator
+    title: "\U0001F499 VP for UX Design"
+  - description: ' '
+    positions:
+      - description: >-
+          The Vice President for Events is **in charge of making sure the
+          programs and logistics of UXSoc's events are smooth and
+          well-designed**. Moreover, he/ she is responsible for keeping the
+          overall event experience (both for audience and speaker) meaningful
+          and relevant. 
+
+
+          He/she is an **efficient planner and organizer of events**. He/she is
+          **familiar with Ateneo’s (rigorous) mechanisms** with regards to venue
+          reservations and project proposals. If not, he/she is **ready to
+          learn** them, immerse in them, and give their soul to them.
+
+
+          He/she knows how to deploy project teams, manage expectations and
+          motivations, and pick the right people for the right job.
+
+
+          The Events VP is in charge of working alongside the Finance department
+          to keep track of the budget of all events for the year as well as to
+          keep track of the expenses of each project or event. 
+
+
+          He/ she is also in charge of working with the Externals department to
+          scout and assign relevant speakers for each major event. 
+
+
+          He/ she must also collaborate together with the Branding, Design &
+          Consultancy, Dev, and Content Marketing department to create a lesson
+          plan as well as assign relevant and appropriate speakers for
+          workshops.
+
+
+          Most importantly, the Events VP must advocate for User Experience
+          design. He/ she must encourage his/ her AVPs and members to learn and
+          practice User Experience design outside Events (e.g. web development,
+          design, etc.).
+        title: ' The Event Experience Designer'
+    title: "\U0001F389 VP for Events"
 ---
 
