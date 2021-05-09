@@ -190,46 +190,25 @@ departmentsSection:
     description: '   '
     positions:
       - description: >-
-          The VP for Consultancy is in charge of client projects, whilst
-          advocating for product (and project!) management within UX Society. 
+          The Vice President for Consultancy is **in charge of client
+          projects**, whilst **advocating for product (and project) management**
+          within UX Society. 
 
 
-
-
-          Whilst UX Consultancy, UX Design, and Engineering are the staple
-          income generating departments of UXSoc, clientwork may also involve
+          Whilst UX Consultancy, UX Design, and Engineering are the **staple
+          income generating departments** of UXSoc, clientwork may also involve
           other departments. These client projects will serve as a practice
           ground for UXSoc AVPs and officers to hone their product management,
           research, design, and development skills in real-life projects. 
 
 
-
-
-          For clientwork, the VP for Consultancy must be ready to pitch UXSoc’s
-          various services to clients, quote the right prices, negotiate
+          It is recommended that the VP for Consultancy must be ready to pitch
+          UXSoc’s various services to clients, quote the right prices, negotiate
           reasonably with stakeholders, and to ensure the project team is able
           to deliver a top-notch output within a reasonable timeframe. Ideally,
-          he/she must have had freelance experience to be able to quote
-          properly, but tremendous project management and people management
-          skills are highly required and are non-negotiables! 
-
-
-
-
-          Some responsibilities the VP for Consultancy is expected to undertake
-          for client-work: 
-
-
-          * Lead a team of UX Researchers, Product Designers, and Developers
-
-          * Take ownership of the entire project management cycle and product
-          roadmap 
-
-          * Establish close rapport with both internal stakeholders
-          (researchers, designers, developers, finance, UXSoc Top 3) and
-          external stakeholders (clients, end-users)
-
-          * Ensure project is executed well from deployment to turnover
+          he/she **must have had freelance experience** to be able to quote
+          properly, but **tremendous project management and people management
+          skills** are highly required and are non-negotiables!
         title: The Product Manager
     title: "\U0001F5E3 VP for Consultancy"
   - cards: []
