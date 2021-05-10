@@ -152,10 +152,10 @@ departmentsSection:
           front-end and back-end applications**.
 
 
-          They should have a **coding** **portfolio**, meaning he or she has
-          already worked on other projects before. Moreover, the VP for
-          Engineering should also be **meticulous in the code structure, style
-          and infrastructure**.
+          They should have a **coding** **portfolio**, meaning they have already
+          worked on other projects before. Moreover, the VP for Engineering
+          should also be **meticulous in the code structure, style and
+          infrastructure**.
         title: The Coding Sage
     title: "\U0001F4BB VP for Engineering"
   - description: '  '
