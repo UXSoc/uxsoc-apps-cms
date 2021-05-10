@@ -10,29 +10,29 @@ import {
 } from "./styles"
 import "./style.css"
 
-const events = [
-  {
-    title: `Project Manager (Flagship Project)`,
-  },
-  {
-    title: `Programs Head (Flagship Project)`,
-  },
-  {
-    title: `Logistics (Flagship Project)`,
-  },
-  {
-    title: `Externals Head (Flagship Project)`,
-  },
-  {
-    title: `Project Manager (Minor Project)`,
-  },
-  {
-    title: `Logistics (Minor Project)`,
-  },
-  {
-    title: `Programs Head (Minor Project)`,
-  },
-]
+// const events = [
+//   {
+//     title: `Project Manager (Flagship Project)`,
+//   },
+//   {
+//     title: `Programs Head (Flagship Project)`,
+//   },
+//   {
+//     title: `Logistics (Flagship Project)`,
+//   },
+//   {
+//     title: `Externals Head (Flagship Project)`,
+//   },
+//   {
+//     title: `Project Manager (Minor Project)`,
+//   },
+//   {
+//     title: `Logistics (Minor Project)`,
+//   },
+//   {
+//     title: `Programs Head (Minor Project)`,
+//   },
+// ]
 
 // const marketing = [
 //   {
@@ -63,7 +63,7 @@ const Department = ({
   primaryColor,
 }) => (
   <div className="dept-panel">
-    {console.log(events.length)}
+    {/* {console.log(events.length)} */}
     <Container default={defaultColor}>
       <Header footer={footerColor}>{department.title}</Header>
       <p>{department.description}</p>
@@ -87,7 +87,7 @@ const Department = ({
       {/* <CardTitle primary={primaryColor}>
         {department.cardSectionTitle}
       </CardTitle> */}
-      {department.title.includes("Events") ? (
+      {/* {department.title.includes("Events") ? (
         <div>
           <Card title={events[0].title} footer={footerColor}>
             <p>
@@ -236,7 +236,7 @@ const Department = ({
                 .Creating a Poll for most voted questions)
               </li>
             </ul>
-          </Card>
+          </Card> */}
           {/* <Card title={events[7].title} footer={footerColor}>
             <ul>
               <li>
@@ -253,8 +253,8 @@ const Department = ({
               <li>Create write ups about the speakers</li>
             </ul>
           </Card> */}
-        </div>
-      ) : null}
+        {/* </div>
+      ) : null} */}
       {/* {department.title.includes("Marketing") ? (
         <div>
           <Card title={marketing[0].title} footer={footerColor}>
