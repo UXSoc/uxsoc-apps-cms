@@ -80,24 +80,27 @@ departmentsSection:
     description: '  '
     positions:
       - description: >-
-          The Secretary General is in charge of **establishing an organized file
-          management system** and having **proper and appropriate
-          documentation**. Also, the Secretary General is the **chief
-          coordinator** for all tasks of the executive board member. They ensure
-          that all department heads are finishing their deliverables on time and
-          with quality.
+          The SecGen is in charge of **refining the documentation** of the
+          organizational meetings and processes. Also, the SecGen is the **chief
+          coordinator** for all tasks of the Executive Board member. They ensure
+          that the process and methodology of documentation is deliberate and
+          well-facilitated for a quality output.
 
 
-          Some responsibilities/tasks include setting up important internal
-          meetings while following respective agendas, creating an organized
-          Google Drive (or any other platform) available to the team, and
-          upholding standards of quality for org documents.
+          Some responsibilities and tasks include **setting up important
+          internal meetings** while following respective agendas, **creating an
+          organized Google Drive** (or any other platform) available to the
+          team, **updating the Code of Internal Procedures** and **refining**
+          **the** **organizational** **constitution**. The Secretary General
+          also **oversees the Associate Vice Presidents** in their documentation
+          and other refinements of department-specific needs and documentations
 
 
-          It’s recommended that Secretary General is **detail-oriented**, **a
-          team player**, **a critical listener**, and **passionately champions
-          quality standards**. Past experiences on quick and effective
-          note-taking is also recommended.
+          It’s recommended that SecGen is **detail-oriented**, **a** **team**
+          **player**, **a facilitator**, **a** **critical** **listener**, and
+          **passionately** **champions** **quality** **standards**. Past
+          experiences on quick and effective note-taking and facilitation is
+          also recommended.
         title: ' The Chief Organizer'
     title: "\U0001F5C3 Secretary General"
   - cards: []
