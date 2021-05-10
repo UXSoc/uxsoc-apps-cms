@@ -63,10 +63,10 @@ departmentsSection:
           schedule individual consultations, hold honest conversations, and find
           the root of the matter whenever they do not perform well as well as
           address all internal conflicts within the executive board. They
-          **ensure that UXSoc continues to grow in the quality** of initiatives
-          and prepares the organization for continuous growth across different
-          chapters alongside the president and directly reports to LIONS as part
-          of the legislative committee.
+          **ensure that UX Society continues to grow in the quality** of
+          initiatives and prepares the organization for continuous growth across
+          different chapters alongside the president and directly reports to
+          LIONS as part of the legislative committee.
 
 
           It is recommended that the EVP has **a** **strong sense of empathy for
@@ -76,101 +76,16 @@ departmentsSection:
         title: The Right Hand
     title: "\U0001F4A1 Executive Vice President"
   - cardSectionTitle: ''
-    cards:
-      - description: >-
-          * Oversee all of the members’ tasks and make sure each one is on track
-          with all their responsibilities
-
-          * To set deadlines for each role and ensure that it is followed
-
-          * Will work closely with the AVP and give weekly updates on the
-          members and event progress
-
-          * All around work – help members when they need something, communicate
-          with other departments
-        title: Project Manager (Flagship Project)
-      - description: >-
-          * In charge of ideation and content creation with regards to program
-          planning and flow, and create spiels of the host
-
-          * To create programs and activities that are best suited for an online
-          platform (as of now) 
-
-          * Must be a creative thinker that can implement fresh and new ideas
-          for the programs for each event
-
-          * Must be flexible and can easily revise any program changes
-        title: Programs Head (Flagship Project)
-      - description: >-
-          * In charge of Handling the Online Platform Needed to Hold the
-          Workshop (ex. Zoom)
-
-          * Prepare Other Materials Needed For the Workshop (ex. Videos or
-          powerpoints needed by other Departments for You To Present, Music
-          While waiting for more participants)
-
-          * Must be prepared for potential risks (ex. Zoom link not working or
-          zoom is lagging and you have to switch platforms)
-
-          * In charge of Creating Sign-ups and post evals for these Workshops
-          and keeping track of registrations
-        title: Logistics (Flagship Project)
-      - description: >-
-          * In charge of looking for and creating write-ups about speakers and
-          hosts
-
-          * Create e-mail letters to be sent out to potential clients
-
-          * Is the communication bridge between the client and the organization
-        title: Externals Head (Flagship Project)
-      - description: >-
-          * In charge of facilitating the tasks needed to be accomplished to
-          Programs and Logistics Officers.
-            * Includes Creating A Schedule For Meetings in both Event Planning and Post Event Processing
-            * Includes Setting A Deadline For these Tasks
-            * Include Monitoring and Documenting Project Progress
-          * In charge of communicating and creating meetings with other
-          departments on what they need
-
-          * In charge of Preparing for Potential Risks
-
-          * All around work -- help members when they need something,
-          communicate with other departments
-        title: Project Manager (Minor Project)
-      - description: >-
-          * In charge of Handling the Online Platform Needed to Hold the
-          Workshop (ex. Zoom)
-
-          * Prepare Other Materials Needed For the Workshop (ex. Videos or
-          powerpoints needed by other Departments for You To Present, Music
-          While waiting for more participants)
-
-          * Must be prepared for potential risks (ex. Zoom link not working or
-          zoom is lagging and you have to switch platforms)
-
-          * In charge of Creating Sign-ups and post evals for these Workshops
-          and keeping track of registrations
-        title: Logistics (Minor Project)
-      - description: >-
-          * In charge of handling the program flow of each workshop (creating
-          icebreakers as well)
-
-          * Help in creating the module and suggesting content for these
-          workshops
-
-          * Must be in contact with marketing for spiels
-
-          * In charge of monitoring the chat and handling the Q&A (ex . creating
-          a Poll for most voted questions)
-        title: Programs Head (Minor Project)
+    cards: []
     description: '  '
     positions:
       - description: >-
           The Secretary General is in charge of **establishing an organized file
           management system** and having **proper and appropriate
-          documentation**. Also, the SecGen is the **chief coordinator** for all
-          tasks of the executive board member. They ensure that all department
-          heads are finishing their deliverables on time and with quality.
+          documentation**. Also, the Secretary General is the **chief
+          coordinator** for all tasks of the executive board member. They ensure
+          that all department heads are finishing their deliverables on time and
+          with quality.
 
 
           Some responsibilities/tasks include setting up important internal
@@ -195,16 +110,17 @@ departmentsSection:
 
 
           Whilst UX Consultancy, UX Design, and Engineering are the **staple
-          income generating departments** of UXSoc, clientwork may also involve
-          other departments. These client projects will serve as a practice
-          ground for UXSoc AVPs and officers to hone their product management,
-          research, design, and development skills in real-life projects. 
+          income generating departments** of UX Society, clientwork may also
+          involve other departments. These client projects will serve as a
+          practice ground for UX Society AVPs and officers to hone their product
+          management, research, design, and development skills in real-life
+          projects. 
 
 
           It is recommended that the VP for Consultancy must be ready to **pitch
-          UXSoc’s various services to clients**, **quote the right prices**,
-          **negotiate reasonably** with stakeholders, and to **ensure the
-          project team is able to deliver** a top-notch output within a
+          UX Society’s various services to clients**, **quote the right
+          prices**, **negotiate reasonably** with stakeholders, and to **ensure
+          the project team is able to deliver** a top-notch output within a
           reasonable timeframe. Ideally, they **must have had freelance
           experience** to be able to quote properly, but **tremendous project
           management and people management skills** are highly required and are
@@ -246,8 +162,8 @@ departmentsSection:
     positions:
       - description: >-
           The VP of Events is **in charge of making sure the programs and
-          logistics of UXSoc's events are smooth and well-designed**. They are
-          responsible for keeping the overall event experience (both for
+          logistics of UX Society's events are smooth and well-designed**. They
+          are responsible for keeping the overall event experience (both for
           audience and speaker) meaningful and relevant. 
 
 
@@ -276,7 +192,7 @@ departmentsSection:
           as assign relevant and appropriate speakers for workshops.
 
 
-          Most importantly, the VP must **advocate for User Experience design**.
+          Most importantly, the VP must **advocate for user experience design**.
           They must encourage their AVPs and members to learn and practice User
           Experience design outside Events (e.g. web development, design, etc.).
         title: ' The Event Experience Designer'
@@ -335,8 +251,8 @@ departmentsSection:
 
 
           They are also in charge of working alongside the Events department to
-          make sure that expenses for UXSoc’s projects and events are properly
-          accounted for and recorded.
+          make sure that expenses for UX Society’s projects and events are
+          properly accounted for and recorded.
 
 
           The Finance department doesn’t need to just be all numbers and
@@ -351,7 +267,7 @@ departmentsSection:
     positions:
       - description: >-
           The VP for Human Resources is **in charge of the recruitment,
-          development, and happiness of all members of UXSociety**. Overseeing
+          development, and happiness of all members of UX Society**. Overseeing
           the AVPs of Internal Management and Community Engagement, the VP
           ensures the accomplishing of tasks while expressing empathy for
           others. 
