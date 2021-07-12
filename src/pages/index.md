@@ -8,14 +8,15 @@ backgroundColor: '#15202b'
 footerColor: '#F2F2F2'
 seo:
   siteDescription: >-
-    This is the official application platform of User Experience Society for EB
-    applications. Experience better with UXSociety and join now!
+    This is the official application platform of User Experience Society for
+    Associate Vice President applications. Experience better with UXSociety and
+    join now!
   siteTitle: Home
 headerSection:
   buttonVisible: true
-  title: Executive Board Applications
+  title: Associate Vice President Applications
 heroSection:
-  description: "Hey there, UXer! Want to join the **Executive Board** run for **AY 2021-2022**? Read through the primer and see which position would best fit you. \U0001F440 Interested? Don’t forget to click apply!"
+  description: "Hey there, UXer! Want to join the **Associate Vice President** run for **AY 2021-2022**? Read through the primer and see which position would fit you best. \U0001F440 Interested? Don’t forget to click apply!"
   title: JOIN THE MAFIA
 departmentsSection:
   - cardSectionTitle: ''
