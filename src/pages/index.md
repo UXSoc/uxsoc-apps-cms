@@ -32,11 +32,11 @@ departmentsSection:
           **The Enabler**
 
 
-          _Are you an avid lover of the basics of design? Do you like helping
+          > _Are you an avid lover of the basics of design? Do you like helping
           people with their creative ventures? Then this is the job for you!_
 
 
-          > ✨ The AVP for Design Training is in charge of enabling members to
+          ✨ The AVP for Design Training is in charge of enabling members to
           jumpstart their UX Design journey by facilitating and hosting UXDC
           Events as well as aiding in the curation of design education materials
           for dissemination to the members.
