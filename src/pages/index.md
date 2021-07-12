@@ -35,10 +35,18 @@ departmentsSection:
       that are functional and impactful for our clients. We evangelize user
       experience through workshops and learning modules and train future design
       leaders.
-    positions: []
+    positions:
+      - description: "**The Enabler**\n\n_Are you an avid lover of the basics of design? Do you like helping people with their creative ventures? Then this is the job for you!_\n\n\U0001F3A8 The AVP for Design Training is in charge of **enabling members to jumpstart their UX Design journey** by facilitating and hosting UXDC Events as well as aiding in the curation of design education materials for dissemination to the members.\n\n\n\n**Specific Tasks:**\n\n* Plan events with the VP of UX Design\n  * Help in looking for speakers for workshops\n  * Facilitate and host UXDC Events\n* Aid in curating design challenges & design resources in partnership with the Marketing Department\n* Aid in disseminating UI Resource Kits, other Design Education resources\n* Mentor product designers and content strategists"
+        title: AVP for Design Training
     title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
-    description: ' '
+    description: >-
+      Bringing the designs to life, we, engineers from the Engineering
+      department, focus on developing the website projects of UXSoc and its
+      clients both in Front-End and Back-End Engineering. The department has a
+      professional and tight-knit environment that enables the members of UXSoc
+      to expand their knowledge and appreciate the beauty of impactful web
+      development for well-made designs. 
     positions:
       - description: >-
           The EVP is the **right hand** **of the President**. They fill in the
@@ -62,7 +70,7 @@ departmentsSection:
           **a can-do attitude** that takes the organization far more than it
           could be without them.
         title: The Right Hand
-    title: "\U0001F4A1 Executive Vice President"
+    title: "\U0001F4BB Engineering (UXDev)"
   - cardSectionTitle: ''
     cards: []
     description: '  '
