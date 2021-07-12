@@ -21,35 +21,42 @@ heroSection:
 departmentsSection:
   - cardSectionTitle: ''
     cards: []
-    description: ' '
+    description: >-
+      We are the core of UXSoc that advocates the practice of user experience.
+      We handle all client projects in and outside of Ateneo, creating products
+      that are functional and impactful for our clients. We evangelize user
+      experience through workshops and learning modules and train future design
+      leaders.
     positions:
       - description: >-
-          The President is the **highest** **ranking** **executive** in the
-          organization. They are in charge of **establishing** **the**
-          **vision** **and** **mission** **for** **the** **organization** and
-          making sure it can be translated to a portfolio of projects and events
-          during their term.
+          **The Enabler**
 
 
-          They are responsible for **leading** **the** **growth** of the entire
-          organization and also should be **open** **to** **mentoring** the next
-          set of leaders for the organization. The President is also in charge
-          of **monitoring or handling external affairs of the organization** –
-          such as LIONS, Ateneo admin and offices, as well as external UX
-          Society chapters. They are **mainly focused on the interests and
-          welfare of their own Executive Board**, but shall also be **willing to
-          guide interested students outside of Ateneo de Manila** that may be
-          interested in founding their own UX Society chapter for their
-          respective universities.
+          _Are you an avid lover of the basics of design? Do you like helping
+          people with their creative ventures? Then this is the job for you!_
 
 
-          It’s recommended that the President has the **skills of excellent
-          communication**, **persuasion**, and **conflict management**.
-          Furthermore, they should possess **adaptability**, **clear judgment**,
-          and **past experience/s on leadership and team management** in order
-          to effectively guide the organization and its members towards growth.
-        title: ' The Chief Evangelist'
-    title: "\U0001F451 President"
+          > ✨ The AVP for Design Training is in charge of enabling members to
+          jumpstart their UX Design journey by facilitating and hosting UXDC
+          Events as well as aiding in the curation of design education materials
+          for dissemination to the members.
+
+
+          Specific Tasks:
+
+
+          * Plan events with the VP of UX Design
+            * Help in looking for speakers for workshops
+            * Facilitate and host UXDC Events
+          * Aid in curating design challenges & design resources in partnership
+          with the Marketing Department
+
+          * Aid in disseminating UI Resource Kits, other Design Education
+          resources
+
+          * Mentor product designers and content strategists
+        title: AVP for Design Training
+    title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
     description: ' '
     positions:
