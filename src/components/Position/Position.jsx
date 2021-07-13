@@ -2,10 +2,10 @@ import React from "react"
 import remark from "remark"
 import recommended from "remark-preset-lint-recommended"
 import remarkHtml from "remark-html"
-import { Title, DeptPosition } from "./styles"
+import { Title, DeptPosition, CardContainer } from "./styles"
 
 const Position = ({ title, description, primary, footer }) => (
-  <div>
+  <CardContainer>
     <Title primary={primary}>{title}</Title>
     <DeptPosition
       footer={footer}
@@ -17,7 +17,7 @@ const Position = ({ title, description, primary, footer }) => (
           .toString(),
       }}
     />
-  </div>
+  </CardContainer>
 )
 
 export default Position
