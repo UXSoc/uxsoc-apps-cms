@@ -3,9 +3,9 @@ templateKey: home-page
 slug: /
 defaultColor: '#C2C2C2'
 primaryColor: '#04A0E8 '
-secondaryColor: '#04A0E8'
+secondaryColor: '#04A0E8 '
 backgroundColor: '#15202b'
-footerColor: '#F2F2F2'
+footerColor: '#04A0E8 '
 seo:
   siteDescription: >-
     This is the official application platform of User Experience Society for
