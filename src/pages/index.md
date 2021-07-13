@@ -35,9 +35,7 @@ departmentsSection:
       that are functional and impactful for our clients. We evangelize user
       experience through workshops and learning modules and train future design
       leaders.
-    positions:
-      - description: "**The Enabler**\n\n_Are you an avid lover of the basics of design? Do you like helping people with their creative ventures? Then this is the job for you!_\n\n\U0001F3A8 The AVP for Design Training is in charge of **enabling members to jumpstart their UX Design journey** by facilitating and hosting UXDC Events as well as aiding in the curation of design education materials for dissemination to the members.\n\n\n\n**Specific Tasks:**\n\n* Plan events with the VP of UX Design\n  * Help in looking for speakers for workshops\n  * Facilitate and host UXDC Events\n* Aid in curating design challenges & design resources in partnership with the Marketing Department\n* Aid in disseminating UI Resource Kits, other Design Education resources\n* Mentor product designers and content strategists"
-        title: AVP for Design Training
+    positions: []
     title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
     description: >-
