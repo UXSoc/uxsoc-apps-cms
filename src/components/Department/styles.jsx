@@ -28,7 +28,7 @@ export const SecondaryHeader = styled.header`
   border-bottom: 3px solid ${props => props.secondary};
 `
 export const PositionWrapper = styled.div`
-  display: flex;
+  // display: flex;
   justify-content: space-between;
 
   @media (max-width: 768px) {
