@@ -19,7 +19,7 @@ heroSection:
   description: "Hey there, UXer! Want to join the **Associate Vice President** run for **AY 2021-2022**? Read through the primer and see which position would fit you best. \U0001F440 Interested? Don’t forget to click apply!"
   title: JOIN THE MAFIA
 departmentsSection:
-  - cardSectionTitle: ''
+  - cardSectionTitle: Design & Consultancy
     cards:
       - description: "**The Enabler**\n\n_Are you an avid lover of the basics of design? Do you like helping people with their creative ventures? Then this is the job for you!_\n\n\U0001F3A8 The AVP for Design Training is in charge of **enabling members to jumpstart their UX Design journey** by facilitating and hosting UXDC Events as well as aiding in the curation of design education materials for dissemination to the members.\n\n\n\n**Specific Tasks:**\n\n* Plan events with the VP of UX Design\n  * Help in looking for speakers for workshops\n  * Facilitate and host UXDC Events\n* Aid in curating design challenges & design resources in partnership with the Marketing Department\n* Aid in disseminating UI Resource Kits, other Design Education resources\n* Mentor product designers and content strategists"
         title: AVP for Design Training
