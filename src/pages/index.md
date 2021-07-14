@@ -2,7 +2,7 @@
 templateKey: home-page
 slug: /
 defaultColor: '#15202b'
-primaryColor: '#04A0E8 '
+primaryColor: '#274DF2'
 secondaryColor: '#f27e88'
 backgroundColor: '#fefbfe'
 footerColor: '#04A0E8 '
