@@ -18,7 +18,7 @@ export const DeptPosition = styled.div`
 
 export const CardContainer = styled.div`
   display: inline-block;
-  background: #1D2642;
+  background: #ffffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
   border-radius: 4px;
   box-sizing: border-box;
