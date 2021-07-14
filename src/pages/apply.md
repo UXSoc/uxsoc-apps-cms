@@ -2,7 +2,7 @@
 templateKey: apply-page
 slug: /apply
 primaryColor: '#04A0E8 '
-footerColor: '#4f4f4f'
+footerColor: '#04A0E8 '
 seo:
   siteDescription: >-
     UXSoc's Official Application Platform for Mafia Associate Applications.
