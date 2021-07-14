@@ -5,7 +5,7 @@ defaultColor: '#15202b'
 primaryColor: '#274DF2'
 secondaryColor: '#f27e88'
 backgroundColor: '#fefbfe'
-footerColor: '#04A0E8 '
+footerColor: '#274DF2'
 seo:
   siteDescription: >-
     This is the official application platform of User Experience Society for
