@@ -34,7 +34,9 @@ departmentsSection:
       that are functional and impactful for our clients. We evangelize user
       experience through workshops and learning modules and train future design
       leaders.
-    positions: []
+    positions:
+      - description: "Currently, there are no available positions for UXDC. Be on the lookout for Officer Apps for a chance to apply for this department! \U0001F440"
+        title: 'No Available Positions '
     title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
     description: >-
