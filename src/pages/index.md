@@ -35,7 +35,7 @@ departmentsSection:
       experience through workshops and learning modules and train future design
       leaders.
     positions:
-      - description: "Currently, there are no available positions for UXDC. Be on the lookout for Officer Apps for a chance to apply for this department! \U0001F440"
+      - description: "Currently, there are no available positions for UXDC. Be on the lookout for Officer Apps for a chance to apply to this department! \U0001F440"
         title: 'No Available Positions '
     title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
@@ -98,7 +98,9 @@ departmentsSection:
       We, in the department of Human Resources, are the Support Unit of
       UXSociety: organizing projects and initiatives that create an environment
       where the members can explore, connect, and grow as design leaders.
-    positions: []
+    positions:
+      - description: "Currently, there are no available positions for HR. Be on the lookout for Officer Apps for a chance to apply to this department! \U0001F440"
+        title: No Available Positions
     title: "\U0001F3E0 Human Resources"
   - cards: []
     description: >-
@@ -107,7 +109,9 @@ departmentsSection:
       our campaign strategies for content and promotional materials. We make
       sure that event and initiative collaterals are aesthetically pleasing and
       informative at the same time.
-    positions: []
+    positions:
+      - description: "Currently, there are no available positions for Marketing. Be on the lookout for Officer Apps for a chance to apply to this department! \U0001F440"
+        title: No Available Positions
     title: "\U0001F4DD Marketing"
 ---
 
