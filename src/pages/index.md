@@ -15,7 +15,7 @@ headerSection:
   buttonVisible: true
   title: Mafia Associate Applications
 heroSection:
-  description: "Hey there, UXer! Want to join the **Mafia Associate** run for **AY 2021-2022**? Read through the primer and see which position would fit you best. \U0001F440 Interested? Don’t forget to click apply!"
+  description: "Hey there, UXer! Want to join the **Mafia Associate** run for **AY 2021-2022**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to click apply!"
   title: BE A MAFIA ASSOCIATE
 departmentsSection:
   - cardSectionTitle: ''
