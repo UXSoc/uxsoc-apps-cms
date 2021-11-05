@@ -11,6 +11,8 @@ seo:
 headerSection:
   buttonVisible: true
   title: Mafia Associate Applications
-link: 'https://airtable.com/embed/shrRxKNWhxf8m2lVg?backgroundColor=purple'
+links:
+  - 'https://airtable.com/embed/shrRxKNWhxf8m2lVg?backgroundColor=purple'
+  - 'https://airtable.com/shrTcfj9Z5zztjAPf'
 ---
 
