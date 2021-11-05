@@ -172,6 +172,7 @@ collections:
                 name: buttonVisible
                 widget: boolean
                 default: true
-          - label: "Airtable Embed Link"
-            name: link
-            widget: string
+          - label: "Airtable Embed Links"
+            name: links
+            widget: list
+            field: {label: Airtable Link, name: link , widget: string}
