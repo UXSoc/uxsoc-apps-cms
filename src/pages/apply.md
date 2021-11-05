@@ -13,6 +13,6 @@ headerSection:
   title: Mafia Associate Applications
 links:
   - 'https://airtable.com/embed/shrRxKNWhxf8m2lVg?backgroundColor=purple'
-  - 'https://airtable.com/shrTcfj9Z5zztjAPf'
+  - 'https://airtable.com/embed/shrTcfj9Z5zztjAPf'
 ---
 
