@@ -8,15 +8,15 @@ backgroundColor: '#fefbfe'
 footerColor: '#04A0E8 '
 seo:
   siteDescription: >-
-    This is the official application platform of User Experience Society for
-    Mafia Associate Applications. Experience better with UXSociety and join now!
+    This is the official application platform of User Experience Society for AVP
+    and Pool Applications. Experience better with UXSociety and join now!
   siteTitle: Home
 headerSection:
   buttonVisible: true
-  title: Mafia Associate Applications
+  title: User Experience Society Applications
 heroSection:
-  description: "Hey there, UXer! Want to join the **Mafia Associate** run for **AY 2021-2022**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to click apply!"
-  title: BE A MAFIA ASSOCIATE
+  description: "Hey there, UXer! Want to join the **Mafia Associate** run or apply for a **Pool or Officer Role** for **AY 2021-2022**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to click apply!"
+  title: DELVE DEEPER INTO UX SOCIETY!
 departmentsSection:
   - cardSectionTitle: ''
     cards:
@@ -35,8 +35,23 @@ departmentsSection:
       experience through workshops and learning modules and train future design
       leaders.
     positions:
-      - description: "There are currently no available positions for UXDC. Be on the lookout for Officer Apps for a chance to apply to this department! \U0001F440"
-        title: 'No Available Positions '
+      - description: >-
+          * Get curated and value-adding user research content, every week.
+
+          * Get priority slots for our research mentorship programs.
+
+          * Stay posted on opportunities to up-skill and join our projects for
+          client work.
+        title: Design Pool
+      - description: >-
+          * A per-project basis opportunity for the members to embark on
+          client-work projects
+
+          * An opportunity to learn more about UX Research and Design
+
+          * Work closely with experienced designers and have access to
+          mentorships
+        title: User Research Pool
     title: "\U0001F3A8 Design & Consultancy (UXDC)"
   - cards: []
     description: >-
@@ -49,6 +64,22 @@ departmentsSection:
     positions:
       - description: "**The Coding Mentor**\n\n_Are you into learning different frameworks and technologies? Do you want to expand and solidify your skills through teaching others? Then this is the job for you!_\n\n\U0001F4BB The AVP for Education in Engineering shall be the officer-in-charge for **all engineering-related education matters within UXSoc**.\n\n**Specific Tasks:**\n\n* Assisting the VP for Engineering in creating and finalizing the Dev Manual / Engineering Wiki\n  * Collating essential resources for different languages and frameworks\n  * Creating learning modules for development education (For both front-end and back-end curriculum, as well as both front-end and back-end coding challenges)\n* Assisting the VP for Engineering with handling and organizing mentorships within UXSoc\n* Proposing and spearheading engineering-related education opportunities (In collaboration with the AVP for Projects in Engineering)\n  * Arranging engineering-related education events, meetups, and hackathons\n  * Collating a database of developer professionals (For mentorship and speaker-related purposes)\n* Joining in on dev sessions for engineering projects (Together with the AVP for Projects in Engineering)\n  * Teaching officers how to code and helping them improve their coding skills through projects\n  * Assisting the VP for Engineering with reviewing code\n* Accompanying the VP for Engineering to turnovers as well as QA review sessions (Together with the AVP for Projects in Engineering)\n* Creating and distributing project evaluations (In collaboration with the AVP for Projects in Engineering)\n\n\n\n**Summary:**\n\nThe AVP for Education in Engineering shall guide both front-end and back-end student developers throughout their programming journeys by crafting concrete curricula and planning with the VP for Engineering regarding the different frameworks and technologies, ensuring that technical knowledge will be passed on to mold the next engineering leaders of UXSoc. Moreover, they are also responsible for educating officers on the fundamentals of software development, providing them a seamless transition to become project-ready developers."
         title: AVP for Education in Engineering
+      - description: >-
+          * A per-project basis opportunity for the members of UXDev to embark
+          on client-work projects
+
+          * Each member could select a level in which they would like to partake
+          in: **Apprentice, Guided Coding, and Independent Dev (InDevendent)**
+            * **Apprentice**
+              * **Description:** Zero to beginner knowledge of coding and is relatively new to the field
+              * **Role:** Watchers — joining in coding sessions for any projects, freely asking questions
+            * **Guided Coding**
+              * **Description:** Mastered the programming fundamentals and is familiar with how the web works
+              * **Role:** Developer Member — works on tasks that have been laid out by the developer lead
+            * **Independent Dev (InDevendent)**
+              * **Description:** Has experience working on projects and is confident to become the developer lead
+              * **Role:** Developer Lead — becomes the point-person for the project, overseeing the progress and workflow
+        title: Developer Pool
     title: "\U0001F4BB Engineering (UXDev)"
   - cardSectionTitle: ''
     cards: []
@@ -78,6 +109,15 @@ departmentsSection:
     positions:
       - description: "**The Social Butterflies**\n\n_Like meeting and talking to fellow student leaders? Being the Social Butterfly allows you to connect with various organizations inside and outside the Ateneo!_\n\n\U0001F91D The AVP for Organizational Relations is **in charge of contacting, acquiring, and tracking organizational partners for UXSoc.** They are also in charge of preliminary negotiations as well as crafting letters, proposals, and contracts. The AVP must be able to stir a conversation in their favor and market the organization to potential partners.\n\n**Specific Tasks:**\n\n* Contacting potential organizational partners through email and social media\n* Aiding in creating partnership proposals for UXSoc's various events and initiatives\n* Being the point person in correspondence with various partners\n* Conducting negotiations with potential partners\n* Coordinating with various officers and departments to make sure that UXSoc upholds our end of the MOA\n* Running papers and keeping record of all contracts; making sure that all necessary paperwork is filled out correctly and sent to the necessary individuals\n* Mentoring externals officers"
         title: AVP for Organizational Relations
+      - description: >-
+          * Bridge corporate and organizational partners to our members through
+          opportunities like events, internships, mentorship, and the like
+
+          * **Tasks Include:**
+            * Looking for partners/mentors
+            * Setting up the events/calls for members
+            * Curating opportunities for the newsletter
+        title: Externals Officer
     title: "\U0001F91D Externals"
   - description: >-
       Money makes the world go round. We enable UXSociety activities to happen
@@ -90,6 +130,12 @@ departmentsSection:
         title: 'AVP for Fundraising '
       - description: "**The Informant**\n\n_Do you feel that you're both a people person and a finance person? Then this is the position for you!_\n\n\U0001F4B8 The AVP for External Fund Management is the liaison of the Finance department with the UXDC departments. They are **in charge of accounting and recording all incoming clientwork payments.**\n\n**Specific Tasks:**\n\n* Working closely with (and is the point person for) the UXDC department with all finance-related matters\n* Aiding the VP for Finance will all incoming clientwork payments\n* Aiding the VP for Finance with the handling and accounting of clientwork payments\n* Aiding in the curation of possible innovations for the organization's fund management systems (Together with the AVP for Internal Fund Management)"
         title: 'AVP for External Fund Management '
+      - description: >-
+          * Members can choose between the three departments under UX Finance,
+          or become a free floater where they can experience a little bit of
+          work from each department: **Fundraising, Internal Fund Management,
+          and External Fund Management.**
+        title: Finance Pool
     title: "\U0001F4B8 Finance"
   - cards: []
     description: >-
@@ -99,8 +145,27 @@ departmentsSection:
       UXSociety: organizing projects and initiatives that create an environment
       where the members can explore, connect, and grow as design leaders.
     positions:
-      - description: "There are currently no available positions for HR. Be on the lookout for Officer Apps for a chance to apply to this department! \U0001F440"
-        title: No Available Positions
+      - description: >-
+          * Help plan and execute member-centric initiatives to engage with
+          members
+
+          * Take part as facilitators for events and initiatives
+
+          * Conduct member check-ups to ensure that they have access to
+          opportunities
+            * Communicate resources for learning and org-wide bonding initiatives to members
+            * Conduct year-long individual consultations (ICs) among members of the organization to gauge overall membership experience
+        title: Member Happiness
+      - description: >-
+          * Help plan and create activities for departmental team buildings + HR
+          event initiatives
+
+          * Help with onboarding and post-processing for events
+            * Oversee smooth member deployment to projects and ensure that members are to operate within conducive environments
+            * Conduct individual consultations (ICs) and member research for post-processing
+          * Track performance of deployed members throughout projects
+            * Conduct individual consultations within project timeframes to assess ongoing performance and apply any changes/assistance accordingly
+        title: 'Member Development '
     title: "\U0001F3E0 Human Resources"
   - cards: []
     description: >-
@@ -110,8 +175,55 @@ departmentsSection:
       sure that event and initiative collaterals are aesthetically pleasing and
       informative at the same time.
     positions:
-      - description: "There are currently no available positions for Marketing. Be on the lookout for Officer Apps for a chance to apply to this department! \U0001F440"
-        title: No Available Positions
+      - description: >-
+          * Ideates theme to be followed for the project’s promotions (e.g.
+          macOS for RecWeek 2021)
+
+          * Screens collaterals that will be made by the pools
+        title: Branding Officers
+      - description: |-
+          * Create publicity materials for projects
+            * Motion graphics/videos 
+            * Posters
+        title: Branding Pool
+      - description: >-
+          * Prepares Content Brief with Copywriters for all UXSoc promotions
+
+          * Proofreads spiels and articles written by Copywriters and Content
+          Writers
+        title: Content Creation Officers
+      - description: >-
+          * Writes marketing copies (i.e. spiels) that will reflect UXSoc's
+          brand voice
+        title: Copywriters
+      - description: >-
+          * Writes articles about UX/UI and technology, among others, to be
+          posted on UXSoc's social media platforms
+        title: Content Writers
+      - description: >-
+          * Oversees data processing cycle for the project
+
+          * Sets key metrics for project’s marketing campaigns (e.g. how many
+          engagements should we aim for per post)
+
+          * Crafts marketing campaign strategy together with Branding and
+          Content Creations Heads (e.g. what pubs should we release for the
+          event, when should it be posted)
+        title: Strategic Engagements Officers
+      - description: >-
+          * Tracks the social media engagements of UXSoc's social media
+          platforms using data analytics (such as Excel or Tableau) to ensure
+          that performance metrics are met
+
+          * Collects, cleans, and presents data via creating a dashboard
+          (engagement reports)
+        title: Analytics Managers
+      - description: >-
+          * Manages the blast calendar and works alongside Branding and Content
+          Creation by making sure the materials are ready to be posted
+
+          * Schedules the posts based on data from the engagement reports
+        title: Social Media Managers
     title: "\U0001F4DD Marketing"
 ---
 
