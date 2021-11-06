@@ -36,12 +36,12 @@ departmentsSection:
       leaders.
     positions:
       - description: >-
-          * Get curated and value-adding user research content, every week.
+          * Get curated and value-adding user research content, every week
 
-          * Get priority slots for our research mentorship programs.
+          * Get priority slots for our research mentorship programs
 
           * Stay posted on opportunities to up-skill and join our projects for
-          client work.
+          client work
         title: Design Pool
       - description: >-
           * A per-project basis opportunity for the members to embark on
@@ -100,6 +100,144 @@ departmentsSection:
     positions:
       - description: "**The Workshops Master**\n\n_Are you a great communicator? Do you have the passion and creativity in organizing seminars or workshops? Then this role is for you!_\n\n\U0001F389 The AVP for Special Events is **in charge of managing events and initiatives that involves other departments**. These events include workshops, seminars, and trainings of each department.\n\n**Specific Tasks:**\n\n* Documenting, summarizing and analyzing workshops, seminars, and trainings evaluation\n* Creating a calendar (with appropriate dates and times) of the workshops, seminars, and trainings of each department\n* Planning the logistics of all workshops, seminars, and training sessions\n* Communicating with the other departments regarding the schedules of the minor events\n* Gathering the details of publication materials\n* Scheduling the release of publication materials"
         title: AVP for Special Events
+      - description: >-
+          * Oversee all of the members’ tasks and make sure each one is on track
+          with all their responsibilities
+
+          * Will work closely with the AVP and give weekly updates on the
+          members and event progress
+
+          * Communicate with other departments
+        title: Flagship Officer - Project Manager
+      - description: >-
+          * In-charge of ideation and content creation with regards to program
+          planning and flow
+
+          * To create programs and activities that are best suited for an online
+          platform
+
+          * Must be a creative thinker that can implement fresh and new ideas
+          for the programs for each event
+
+          * Create spiels of the hosts
+
+          * Must be flexible and can easily revise any program changes
+        title: Flagship Officer - Programs Associate
+      - description: >-
+          * In Charge of Handling the Online Platform Needed to Hold the
+          Workshop (ex. Zoom)
+
+          * Prepare Other Materials Needed For the Workshop (ex. Videos or
+          powerpoints)
+
+          * Must be prepared for potential risks regarding online platforms
+
+          * In charge of Creating Sign-ups and post evals for these Workshops
+          and keeping track of registrations
+        title: Flagship Officer - Logistics Associate
+      - description: |-
+          * In-charge of looking for speakers and hosts for the events
+          * Create email templates/letters to be sent out to potential clients
+          * Is the communication bridge between the client and the organization
+          * Create write-ups about the speakers
+        title: Flagship Officer - Externals Manager
+      - description: >-
+          * In charge of facilitating the tasks needed to be accomplished to
+          Programs and Logistics Officers (scheduling meetings for event
+          planning and post-event processing, and monitoring and documenting
+          project progress)
+
+          * In charge of Communicating with other departments on what they need
+
+          * In charge of Preparing for Potential Risks
+        title: Special Events - Project Manager
+      - description: >-
+          * In charge of handling the Program Flow of each Workshop
+
+          * In charge of Creating Icebreakers
+
+          * Help In Creating the Module and Suggesting Content For These
+          Workshops
+
+          * In Charge of Monitoring the chat and handling the Q&A (ex. Creating
+          a Poll for most voted questions)
+        title: Special Events - Programs Associate
+      - description: >-
+          * In Charge of Handling the Online Platform Needed to Hold the
+          Workshop
+
+          * Prepare Other Materials Needed For the Workshop (ex. Videos or
+          powerpoints)
+
+          * Must be prepared for potential risks regarding online platforms
+
+          * In charge of Creating Sign-ups and post evals for these Workshops
+          and keeping track of registrations
+        title: Special Events - Logistics Associate
+      - description: >-
+          * Is the communication bridge between the client and the organization
+
+          * Create email templates/In-charge of looking for speakers and hosts
+          for the events
+
+          * Create make write-ups about the speakers
+
+          * In charge of sending emails for possible speakers (if there are any)
+        title: Special Events - Externals Manager
+      - description: >-
+          **UX Crawl '21** is a one-time virtual tour and seminar with Manila's
+          top design and tech companies.
+
+
+          **Positions:**
+
+
+          **1. Programs Core**
+
+
+          * Ideation and content creation with regards to program planning,
+          flow, and activities that are best suited for an online platform
+
+
+          **2. Logistics Core** 
+
+
+          * Handling the online platform, music, event, sign-ups and evaluations
+
+
+          **3. Externals Core** 
+
+
+          * Create email templates and In-charge of looking for speakers and
+          hosts for the events
+        title: Flagship Events Pool - UX Crawl '21
+      - description: >-
+          **UX & Chill ‘21** is a 3-day event that consists of talks and
+          workshops with the theme of _Stepping up your Design Career_.
+
+
+          **Positions:**
+
+
+          **1. Programs Core**
+
+
+          * Ideation and content creation with regards to program planning,
+          flow, and activities that are best suited for an online platform
+
+
+          **2. Logistics Core** 
+
+
+          * Handling the online platform, music, event, sign-ups and evaluations
+
+
+          **3. Externals Core** 
+
+
+          * Create email templates and In-charge of looking for speakers and
+          hosts for the events
+        title: Flagship Events Pool - UX & Chill ‘21
     title: "\U0001F389 Events"
   - description: >-
       We, in the Externals department, are the faces of UXSoc who interact with
@@ -113,10 +251,15 @@ departmentsSection:
           * Bridge corporate and organizational partners to our members through
           opportunities like events, internships, mentorship, and the like
 
-          * **Tasks Include:**
-            * Looking for partners/mentors
-            * Setting up the events/calls for members
-            * Curating opportunities for the newsletter
+
+          **Tasks Include:**
+
+
+          * Looking for partners/mentors
+
+          * Setting up the events/calls for members
+
+          * Curating opportunities for the newsletter
         title: Externals Officer
     title: "\U0001F91D Externals"
   - description: >-
