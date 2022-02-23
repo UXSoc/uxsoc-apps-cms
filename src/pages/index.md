@@ -98,17 +98,6 @@ departmentsSection:
       UXSociety. Our informative and meaningful events add value to the
       development of members as design leaders and developers.  
     positions:
-      - description: "**The Workshops Master**\n\n_Are you a great communicator? Do you have the passion and creativity in organizing seminars or workshops? Then this role is for you!_\n\n\U0001F389 The AVP for Special Events is **in charge of managing events and initiatives that involves other departments**. These events include workshops, seminars, and trainings of each department.\n\n**Specific Tasks:**\n\n* Documenting, summarizing and analyzing workshops, seminars, and trainings evaluation\n* Creating a calendar (with appropriate dates and times) of the workshops, seminars, and trainings of each department\n* Planning the logistics of all workshops, seminars, and training sessions\n* Communicating with the other departments regarding the schedules of the minor events\n* Gathering the details of publication materials\n* Scheduling the release of publication materials"
-        title: AVP for Special Events
-      - description: >-
-          * Oversee all of the members’ tasks and make sure each one is on track
-          with all their responsibilities
-
-          * Will work closely with the AVP and give weekly updates on the
-          members and event progress
-
-          * Communicate with other departments
-        title: Flagship Officer - Project Manager
       - description: >-
           * In-charge of ideation and content creation with regards to program
           planning and flow
