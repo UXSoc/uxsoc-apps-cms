@@ -278,30 +278,6 @@ departmentsSection:
           * Writes articles about UX/UI and technology, among others, to be
           posted on UXSoc's social media platforms
         title: Content Writers
-      - description: >-
-          * Oversees data processing cycle for the project
-
-          * Sets key metrics for project’s marketing campaigns (e.g. how many
-          engagements should we aim for per post)
-
-          * Crafts marketing campaign strategy together with Branding and
-          Content Creations Heads (e.g. what pubs should we release for the
-          event, when should it be posted)
-        title: Strategic Engagements Officers
-      - description: >-
-          * Tracks the social media engagements of UXSoc's social media
-          platforms using data analytics (such as Excel or Tableau) to ensure
-          that performance metrics are met
-
-          * Collects, cleans, and presents data via creating a dashboard
-          (engagement reports)
-        title: Analytics Managers
-      - description: >-
-          * Manages the blast calendar and works alongside Branding and Content
-          Creation by making sure the materials are ready to be posted
-
-          * Schedules the posts based on data from the engagement reports
-        title: Social Media Managers
     title: "\U0001F4DD Marketing"
 ---
 
