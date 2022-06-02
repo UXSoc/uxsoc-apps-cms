@@ -15,7 +15,7 @@ headerSection:
   buttonVisible: true
   title: User Experience Society Applications
 heroSection:
-  description: "Hey there, UXer! Want to join the **Mafia Associate** run or apply for a **Pool or Officer Role** for **AY 2021-2022**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to click apply!"
+  description: "Hey there, UXer! Want to join the **Executive Board** run for **AY 2021-2022**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to confirm your interest!"
   title: DELVE DEEPER INTO UX SOCIETY!
 departmentsSection:
   - cardSectionTitle: ''
@@ -279,5 +279,38 @@ departmentsSection:
           posted on UXSoc's social media platforms
         title: Content Writers
     title: "\U0001F4DD Marketing"
+  - description: >-
+      The President is the highest ranking executive in the organization. They
+      are in charge of establishing the vision and mission for the organization
+      and making sure it can be translated to a portfolio of projects and events
+      during their term.
+
+
+      They are responsible for leading the growth of the entire organization and
+      also should be open to mentoring the next set of leaders for the
+      organization. The President is also responsible for coordinating with
+      LIONS, Ateneo admin and other offices, as well as external UX Society
+      chapters. They shall be willing to guide interested students outside of
+      Ateneo de Manila that may be interested in founding their own UX Society
+      chapter for their respective universities.
+
+
+      They are responsible for leading the growth of the entire organization and
+      also should be open to mentoring the next set of leaders for the
+      organization. The President is also in charge of monitoring or handling
+      external affairs of the organization – such as LIONS, Ateneo admin and
+      offices, as well as external UX Society chapters. They are mainly focused
+      on the interests and welfare of their own Executive Board, but shall also
+      be willing to guide interested students outside of Ateneo de Manila that
+      may be interested in founding their own UX Society chapter for their
+      respective universities.
+
+
+      It’s recommended that the President has the skills of excellent
+      communication, persuasion, and conflict management. Furthermore, they
+      should possess adaptability, clear judgment, and past experience/s on
+      leadership and team management in order to effectively guide the
+      organization and its members towards growth.
+    title: President
 ---
 
