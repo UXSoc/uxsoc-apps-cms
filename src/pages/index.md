@@ -205,7 +205,7 @@ departmentsSection:
 
       4. Dev Manual
     positions: []
-    title: "\U0001F4BB Engineering (UXDev)"
+    title: "\U0001F4BB VP for Engineering "
   - description: >-
       Being a designer does not happen overnight. We, in the Events department,
       design event experiences that nurture the growth of the members of
