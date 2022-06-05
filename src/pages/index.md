@@ -206,88 +206,63 @@ departmentsSection:
       4. Dev Manual
     positions: []
     title: "\U0001F4BB VP for Engineering "
-  - description: >-
-      Being a designer does not happen overnight. We, in the Events department,
-      design event experiences that nurture the growth of the members of
-      UXSociety. Our informative and meaningful events add value to the
-      development of members as design leaders and developers.  
-    positions:
-      - description: >-
-          * In-charge of ideation and content creation with regards to program
-          planning and flow
+  - cardSectionTitle: The Event Experience Designer
+    description: >-
+      The VP for Events is in charge of making sure the programs and logistics
+      of UXSoc's events are smooth and well-designed. Moreover, he/ she is
+      responsible for keeping the overall event experience (both for audience
+      and speaker) meaningful and relevant. 
 
-          * To create programs and activities that are best suited for an online
-          platform
 
-          * Must be a creative thinker that can implement fresh and new ideas
-          for the programs for each event
+      He/she is an efficient planner and organizer of events. He/she is familiar
+      with Ateneo’s (rigorous) mechanisms with regards to venue reservations and
+      project proposals. If not, he/she is ready to learn them, immerse in them,
+      and give their soul to them.
 
-          * Create spiels of the hosts
 
-          * Must be flexible and can easily revise any program changes
-        title: Flagship Officer - Programs Associate
-      - description: >-
-          * In Charge of Handling the Online Platform Needed to Hold the
-          Workshop (ex. Zoom)
+      He/she knows how to deploy project teams, manage expectations and
+      motivations, and pick the right people for the right job.
 
-          * Prepare Other Materials Needed For the Workshop (ex. Videos or
-          powerpoints)
 
-          * Must be prepared for potential risks regarding online platforms
+      The Events VP is in charge of working alongside the Finance department to
+      keep track of the budget of all events for the year as well as to keep
+      track of the expenses of each project or event. 
 
-          * In charge of Creating Sign-ups and post evals for these Workshops
-          and keeping track of registrations
-        title: Flagship Officer - Logistics Associate
-      - description: |-
-          * In-charge of looking for speakers and hosts for the events
-          * Create email templates/letters to be sent out to potential clients
-          * Is the communication bridge between the client and the organization
-          * Create write-ups about the speakers
-        title: Flagship Officer - Externals Manager
-      - description: >-
-          * In charge of facilitating the tasks needed to be accomplished to
-          Programs and Logistics Officers (scheduling meetings for event
-          planning and post-event processing, and monitoring and documenting
-          project progress)
 
-          * In charge of Communicating with other departments on what they need
+      He/ she is also in charge of working with the Externals department to
+      scout and assign relevant speakers for each major event. 
 
-          * In charge of Preparing for Potential Risks
-        title: Special Events - Project Manager
-      - description: >-
-          * In charge of handling the Program Flow of each Workshop
 
-          * In charge of Creating Icebreakers
+      He/ she must also collaborate together with the Branding, Design &
+      Consultancy, Dev, and Content Marketing department to create a lesson plan
+      as well as assign relevant and appropriate speakers for workshops.
 
-          * Help In Creating the Module and Suggesting Content For These
-          Workshops
 
-          * In Charge of Monitoring the chat and handling the Q&A (ex. Creating
-          a Poll for most voted questions)
-        title: Special Events - Programs Associate
-      - description: >-
-          * In Charge of Handling the Online Platform Needed to Hold the
-          Workshop
+      Most importantly, the Events VP must advocate for User Experience design.
+      He/ she must encourage his/ her AVPs and members to learn and practice
+      User Experience design outside Events (e.g. web development, design,
+      etc.).  
 
-          * Prepare Other Materials Needed For the Workshop (ex. Videos or
-          powerpoints)
 
-          * Must be prepared for potential risks regarding online platforms
+      Major Activities:
 
-          * In charge of Creating Sign-ups and post evals for these Workshops
-          and keeping track of registrations
-        title: Special Events - Logistics Associate
-      - description: >-
-          * Is the communication bridge between the client and the organization
+      1. UX & Chill
 
-          * Create email templates/In-charge of looking for speakers and hosts
-          for the events
+      2. UX Crawl
 
-          * Create make write-ups about the speakers
+      3. UX Workshops
 
-          * In charge of sending emails for possible speakers (if there are any)
-        title: Special Events - Externals Manager
-    title: "\U0001F389 Events"
+      4. Branding
+
+      5. Design and Consultancy
+
+      6. Dev (Coding - Back-end and Front-end)
+
+      7. Content Marketing
+
+      8. UX University (partner with Design and Consultancy Dept.)
+    positions: []
+    title: "\U0001F389 VP for Events"
   - description: >-
       We, in the Externals department, are the faces of UXSoc who interact with
       organizations and companies inside and outside of Ateneo. We create
