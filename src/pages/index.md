@@ -44,6 +44,13 @@ departmentsSection:
           effectively guide the organization and its members towards growth.
         title: About the Role
     title: "\U0001F451 President"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Right Hand
     description: >-
       The EVP is the right hand of the President. He or she fills in the gaps
@@ -67,6 +74,13 @@ departmentsSection:
           organization far more than it could be without you.
         title: About the Role
     title: "\U0001F44B Executive Vice President"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Chief Organizer
     cards: []
     description: >-
@@ -92,6 +106,13 @@ departmentsSection:
           facilitation is also recommended.
         title: About the Role
     title: "\U0001F5C3 Secretary General"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Product Manager
     description: >-
       The VP for Consultancy is in charge of client projects, whilst advocating
@@ -133,6 +154,13 @@ departmentsSection:
           4. Ensure project is executed well from deployment to turnover
         title: Department-specific Key Responsibilities
     title: "\U0001F4BC VP for Consultancy"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Design Educator
     description: >-
       The VP for UX Design is in charge of leading the UX education efforts
@@ -174,6 +202,13 @@ departmentsSection:
           5. In charge of sharing design resources
         title: Department-specific Key Responsibilities
     title: "\U0001F4DD VP for UX Design"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Coding Sage
     cards: []
     description: >-
@@ -212,6 +247,13 @@ departmentsSection:
           4. Dev Manual
         title: Department-specific Key Responsibilities
     title: "\U0001F4BB VP for Engineering "
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Event Experience Designer
     description: >-
       The VP for Events is in charge of making sure the programs and logistics
@@ -268,6 +310,13 @@ departmentsSection:
           8. UX University (partner with Design and Consultancy Dept.)
         title: Department-specific Key Responsibilities
     title: "\U0001F389 VP for Events"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Money Lover
     description: The VP for Finance keeps the organization running with enough cash.
     positions:
@@ -320,6 +369,13 @@ departmentsSection:
           payments, compensation agreements and disbursements.)
         title: Department-specific Key Responsibilities
     title: "\U0001F4B8 VP for Finance"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Support Unit
     cards: []
     description: >-
@@ -369,6 +425,13 @@ departmentsSection:
           5. Team Buildings
         title: Department-specific Key Responsibilities
     title: "\U0001F3E0 VP for Human Resources"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The Trendsetter
     cards: []
     description: >-
@@ -432,6 +495,13 @@ departmentsSection:
           3. Tech News Updates
         title: Department-specific Key Responsibilities
     title: "\U0001F4DD VP for Marketing"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
   - cardSectionTitle: The User Experience Ambassador
     description: >-
       The VP for Externals has the responsibility of being the face of the
@@ -477,5 +547,12 @@ departmentsSection:
           7. Update guides, checklists & databases
         title: Department-specific Key Responsibilities
     title: "\U0001F91D VP for Externals"
+    video: >-
+      <iframe
+      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
+      width="560" height="377" style="border:none;overflow:hidden"
+      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
+      clipboard-write; encrypted-media; picture-in-picture; web-share"
+      allowFullScreen="true"></iframe>
 ---
 
