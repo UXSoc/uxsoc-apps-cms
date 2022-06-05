@@ -10,8 +10,8 @@ export const Container = styled.div`
 
 export const Header = styled.header`
   font-size: 30px;
-  line-height: 50px;
-  letter-spacing: 0.05em;
+  /* line-height: 50px; */
+  /* letter-spacing: 0.05em; */
   color: ${props => props.footer};
   font-weight: bold;
   margin-bottom: 10px;
@@ -51,4 +51,40 @@ export const CardTitle = styled.h4`
   color: ${props => props.primary};
   font-weight: bold;
   margin-top: 20px;
+`
+
+export const HeaderContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+
+  iframe {
+    margin: auto;
+    border-radius: 8px;
+  }
+
+  .dept-info {
+    text-align: left;
+    width: 50%;
+    margin: 0 24px;
+
+    p {
+      font-size: 18px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+
+    .dept-info, iframe {
+      width: 100%;
+    }
+
+    .dept-info {
+      text-align: center;
+      margin: 0;
+      margin-bottom: 24px;
+    }
+  }
 `
