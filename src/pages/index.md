@@ -54,6 +54,51 @@ departmentsSection:
       organization and its members towards growth.
     positions: []
     title: "\U0001F451 President"
+  - cardSectionTitle: The Right Hand
+    description: >-
+      The EVP is the right hand of the President. He or she fills in the gaps
+      the President cannot fill. Together with the President, they are
+      unbreakable in advocating User Experience.
+
+
+      He or she is the leader of all the vice presidents. He or she should be
+      deeply concerned with each of their growth and as much as possible
+      schedule individual consultations, hold honest conversations, and find the
+      root of the matter whenever they do not perform well as well as address
+      all internal conflicts within the executive board. He or she ensures that
+      UXSoc continues to grow in the quality of initiatives and prepares the
+      organization for continuous growth across different chapters alongside the
+      president and directly reports to LIONS as part of the legislative
+      committee.
+       
+      Your strong sense of empathy for the organization’s people, standards of
+      quality and growth, and can-do attitude takes the organization far more
+      than it could be without you. 
+    title: "\U0001F91D Executive Vice President"
+  - cardSectionTitle: The Chief Organizer
+    cards: []
+    description: >-
+      The SecGen is in charge of refining the documentation of the
+      organizational meetings and processes. Also, the SecGen is the chief
+      coordinator for all tasks of the executive board member. He or she ensures
+      that the process and methodology of documentation is deliberate and
+      well-facilitated for a quality output.
+
+
+      Some responsibilities/tasks include setting up important internal meetings
+      while following respective agendas, creating an organized Google Drive (or
+      any other platform) available to the team, updating the Code of Internal
+      Procedures and refining the organizational constitution. The Secretary
+      General also oversees the Associate Vice Presidents in their documentation
+      and other refinements of department-specific needs and documentations
+
+
+      It’s recommended that SecGen is detail-oriented, a team player, a
+      facilitator, a critical listener, and passionately champions quality
+      standards. Past experiences on quick and effective note-taking and
+      facilitation is also recommended.
+    positions: []
+    title: "\U0001F5C3 Secretary General"
   - cards: []
     description: >-
       Bringing the designs to life, we, engineers from the Engineering
@@ -82,17 +127,6 @@ departmentsSection:
               * **Role:** Developer Lead — becomes the point-person for the project, overseeing the progress and workflow
         title: Developer Pool
     title: "\U0001F4BB Engineering (UXDev)"
-  - cardSectionTitle: ''
-    cards: []
-    description: >-
-      The Secretariat is composed of the Secretary General and two Associate
-      Secretaries. The Secretariat team is responsible for the efficient and
-      complete internal documentation of the organization, as well as
-      proofreading and formalizing important documents. 
-    positions:
-      - description: "**The Chroniclers**\n\n_Got an eye for detail and perfection? Do you champion stellar documentation efforts? Then you've come to the right place._\n\n\U0001F5C3 The Associate Secretaries, together with the Secretary-General, are **responsible for the efficient and complete internal documentation of the organization**, as well as for the proofreading and formalizing of important documents.\n\n**Specific Tasks:**\n\n* Proofreading documents that go in and out of the organization, grammar-checking, formalizing as approved or for revision\n* Documenting the internal processes for the Code of Internal Procedures\n* Creating efficient trackers and other management tools to ensure productivity and efficiency of the departments\n* Deployment into projects to review documents and take minutes; turning over department meetings to Top 3 and vice-versa when needed\n  * Assisting the different departments with their internal documentation processes as well as other documentation work they may need assistance with\n* Applying efficiency methods to email-tagging and tracking"
-        title: Associate Secretary (2)
-    title: "\U0001F5C3 Secretariat"
   - description: >-
       Being a designer does not happen overnight. We, in the Events department,
       design event experiences that nurture the growth of the members of
@@ -280,59 +314,5 @@ departmentsSection:
           posted on UXSoc's social media platforms
         title: Content Writers
     title: "\U0001F4DD Marketing"
-  - description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
-
-
-      They are responsible for leading the growth of the entire organization and
-      also should be open to mentoring the next set of leaders for the
-      organization. The President is also responsible for coordinating with
-      LIONS, Ateneo admin and other offices, as well as external UX Society
-      chapters. They shall be willing to guide interested students outside of
-      Ateneo de Manila that may be interested in founding their own UX Society
-      chapter for their respective universities.
-
-
-      They are responsible for leading the growth of the entire organization and
-      also should be open to mentoring the next set of leaders for the
-      organization. The President is also in charge of monitoring or handling
-      external affairs of the organization – such as LIONS, Ateneo admin and
-      offices, as well as external UX Society chapters. They are mainly focused
-      on the interests and welfare of their own Executive Board, but shall also
-      be willing to guide interested students outside of Ateneo de Manila that
-      may be interested in founding their own UX Society chapter for their
-      respective universities.
-
-
-      It’s recommended that the President has the skills of excellent
-      communication, persuasion, and conflict management. Furthermore, they
-      should possess adaptability, clear judgment, and past experience/s on
-      leadership and team management in order to effectively guide the
-      organization and its members towards growth.
-    title: President
-  - cardSectionTitle: The Right Hand
-    description: >-
-      The EVP is the right hand of the President. He or she fills in the gaps
-      the President cannot fill. Together with the President, they are
-      unbreakable in advocating User Experience.
-
-
-      He or she is the leader of all the vice presidents. He or she should be
-      deeply concerned with each of their growth and as much as possible
-      schedule individual consultations, hold honest conversations, and find the
-      root of the matter whenever they do not perform well as well as address
-      all internal conflicts within the executive board. He or she ensures that
-      UXSoc continues to grow in the quality of initiatives and prepares the
-      organization for continuous growth across different chapters alongside the
-      president and directly reports to LIONS as part of the legislative
-      committee.
-       
-      Your strong sense of empathy for the organization’s people, standards of
-      quality and growth, and can-do attitude takes the organization far more
-      than it could be without you. 
-    title: "\U0001F91D Executive Vice President"
 ---
 
