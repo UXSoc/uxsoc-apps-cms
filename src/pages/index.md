@@ -74,7 +74,7 @@ departmentsSection:
       Your strong sense of empathy for the organization’s people, standards of
       quality and growth, and can-do attitude takes the organization far more
       than it could be without you. 
-    title: "\U0001F91D Executive Vice President"
+    title: "\U0001F44B Executive Vice President"
   - cardSectionTitle: The Chief Organizer
     cards: []
     description: >-
@@ -356,62 +356,102 @@ departmentsSection:
       5. Team Buildings
     positions: []
     title: "\U0001F3E0 VP for Human Resources"
-  - description: >-
-      We, in the Externals department, are the faces of UXSoc who interact with
-      organizations and companies inside and outside of Ateneo. We create
-      connections through partnerships and sponsorships, and serve as the
-      bridgeway for students to network with people in the industry.
-    positions:
-      - description: "**The Social Butterflies**\n\n_Like meeting and talking to fellow student leaders? Being the Social Butterfly allows you to connect with various organizations inside and outside the Ateneo!_\n\n\U0001F91D The AVP for Organizational Relations is **in charge of contacting, acquiring, and tracking organizational partners for UXSoc.** They are also in charge of preliminary negotiations as well as crafting letters, proposals, and contracts. The AVP must be able to stir a conversation in their favor and market the organization to potential partners.\n\n**Specific Tasks:**\n\n* Contacting potential organizational partners through email and social media\n* Aiding in creating partnership proposals for UXSoc's various events and initiatives\n* Being the point person in correspondence with various partners\n* Conducting negotiations with potential partners\n* Coordinating with various officers and departments to make sure that UXSoc upholds our end of the MOA\n* Running papers and keeping record of all contracts; making sure that all necessary paperwork is filled out correctly and sent to the necessary individuals\n* Mentoring externals officers"
-        title: AVP for Organizational Relations
-      - description: >-
-          * Bridge corporate and organizational partners to our members through
-          opportunities like events, internships, mentorship, and the like
-
-
-          **Tasks Include:**
-
-
-          * Looking for partners/mentors
-
-          * Setting up the events/calls for members
-
-          * Curating opportunities for the newsletter
-        title: Externals Officer
-    title: "\U0001F91D Externals"
-  - cards: []
+  - cardSectionTitle: The Trendsetter
+    cards: []
     description: >-
-      At the Marketing department, we nurture the identity of the UXSoc and
-      ensure that the organization is well represented on all platforms through
-      our campaign strategies for content and promotional materials. We make
-      sure that event and initiative collaterals are aesthetically pleasing and
-      informative at the same time.
-    positions:
-      - description: >-
-          * Ideates theme to be followed for the project’s promotions (e.g.
-          macOS for RecWeek 2021)
+      The VP for Marketing is responsible for ensuring that the org is well
+      represented on all platforms and that all events, projects, and
+      initiatives are properly promoted .
 
-          * Screens collaterals that will be made by the pools
-        title: Branding Officers
-      - description: |-
-          * Create publicity materials for projects
-            * Motion graphics/videos 
-            * Posters
-        title: Branding Pool
-      - description: >-
-          * Prepares Content Brief with Copywriters for all UXSoc promotions
 
-          * Proofreads spiels and articles written by Copywriters and Content
-          Writers
-        title: Content Creation Officers
-      - description: >-
-          * Writes marketing copies (i.e. spiels) that will reflect UXSoc's
-          brand voice
-        title: Copywriters
-      - description: >-
-          * Writes articles about UX/UI and technology, among others, to be
-          posted on UXSoc's social media platforms
-        title: Content Writers
-    title: "\U0001F4DD Marketing"
+      They must help ensure that the org has a good reputation  through timely
+      and sensible campaign strategies that reflect the values of the
+      organization.
+
+
+      It is recommended that they be able to juggle multiple projects and teams
+      as they will be overseeing and advising the creatives, copywriters, and
+      documentations committees. This involves the tracking and management of
+      all content and output, ensuring their quality and completion.
+
+
+      Responsibilities
+
+      Social Media Planning & Management (Facebook, Instagram, Twitter,
+      LinkedIn) to increase member and audience engagement
+
+      Ideating and executing different marketing strategies for the org’s
+      various events, projects, and initiatives.
+
+      Ensuring that each event, project, and initiative maintains a consistent
+      brand that aligns with the org’s values.
+
+      Managing the creation of output for the org’s various events, projects,
+      and initiatives.
+
+      Setting the annual motto/theme of the org
+
+
+      Major Activities
+
+      1. Maintaining the UXSoc brand
+
+      2. Collaborating with other departments to promote events and initiatives
+
+      3. Tracking Social Media Engagement Analytics
+
+
+      Past Initiatives
+
+      1. LIONS Rebrand
+
+      2. UXSoc Brand Manual
+
+      3. Tech News Updates
+    positions: []
+    title: "\U0001F4DD VP for Marketing"
+  - cardSectionTitle: The User Experience Ambassador
+    description: >-
+      The VP for Externals has the responsibility of being the face of the
+      organization and ensuring a good rapport with our dear partners and
+      sponsors, both long-term and short-term. The VP works closely with
+      departments that have major events and projects. 
+
+
+      This includes preparing sponsorship & media partnership packages, emailing
+      partners, assuring fulfillment of terms in partnerships, and settling MOAs
+      with the organization or corporation partners in person. 
+
+
+      Additionally, the VP for Externals is in charge of creating strategies for
+      bettering relationships with current and former partners as well as
+      expanding the UX Society networks and devising better channels for
+      long-term engagement.
+
+
+      He/she should have prior experience in the creation of MoAs, as well as 
+      sponsorship and partnership packages. The VP should also create a system
+      to efficiently track the partnerships and sponsorships ongoing for the
+      organization, and foster the development and skillsets of the AVPs of
+      Sponsorships and 
+
+
+      Major tasks:
+
+      1. Partnerships
+
+      2. Communication and Meetings with Partners
+
+      3. MoA handling and securing
+
+      4. Partnerships tracking
+
+      5. Partnerships fulfillments
+
+      6. Creating Partnership Packages
+
+      7. Update guides, checklists & databases
+    positions: []
+    title: "\U0001F91D VP for Externals"
 ---
 
