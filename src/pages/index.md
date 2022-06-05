@@ -25,34 +25,24 @@ departmentsSection:
       are in charge of establishing the vision and mission for the organization
       and making sure it can be translated to a portfolio of projects and events
       during their term.
+    positions:
+      - description: >-
+          They are responsible for **leading the growth of the entire
+          organization** and also should be **open to mentoring the next set of
+          leaders for the organization**. The President is also responsible for
+          **coordinating with LIONS, Ateneo admin and other offices, as well as
+          external UX Society chapters**. They shall be willing to guide
+          interested students outside of Ateneo de Manila that may be interested
+          in founding their own UX Society chapter for their respective
+          universities.
 
 
-      They are responsible for leading the growth of the entire organization and
-      also should be open to mentoring the next set of leaders for the
-      organization. The President is also responsible for coordinating with
-      LIONS, Ateneo admin and other offices, as well as external UX Society
-      chapters. They shall be willing to guide interested students outside of
-      Ateneo de Manila that may be interested in founding their own UX Society
-      chapter for their respective universities.
-
-
-      They are responsible for leading the growth of the entire organization and
-      also should be open to mentoring the next set of leaders for the
-      organization. The President is also in charge of monitoring or handling
-      external affairs of the organization – such as LIONS, Ateneo admin and
-      offices, as well as external UX Society chapters. They are mainly focused
-      on the interests and welfare of their own Executive Board, but shall also
-      be willing to guide interested students outside of Ateneo de Manila that
-      may be interested in founding their own UX Society chapter for their
-      respective universities.
-
-
-      It’s recommended that the President has the skills of excellent
-      communication, persuasion, and conflict management. Furthermore, they
-      should possess adaptability, clear judgment, and past experience/s on
-      leadership and team management in order to effectively guide the
-      organization and its members towards growth.
-    positions: []
+          It’s recommended that the President has the skills of **excellent
+          communication, persuasion, and conflict management**. Furthermore,
+          they should possess **adaptability, clear judgment, and past
+          experience/s on leadership and team management** in order to
+          effectively guide the organization and its members towards growth.
+        title: About the Role
     title: "\U0001F451 President"
   - cardSectionTitle: The Right Hand
     description: >-
@@ -61,20 +51,20 @@ departmentsSection:
       unbreakable in advocating User Experience.
     positions:
       - description: >-
-          He or she is the leader of all the vice presidents. He or she should
-          be deeply concerned with each of their growth and as much as possible
-          schedule individual consultations, hold honest conversations, and find
-          the root of the matter whenever they do not perform well as well as
-          address all internal conflicts within the executive board. He or she
-          ensures that UXSoc continues to grow in the quality of initiatives and
-          prepares the organization for continuous growth across different
-          chapters alongside the president and directly reports to LIONS as part
-          of the legislative committee.
+          He or she is the **leader of all the vice presidents**. He or she
+          should be **deeply concerned with each of their growth and as much as
+          possible schedule individual consultations, hold honest conversations,
+          and find the root of the matter** whenever they do not perform well as
+          well as address all internal conflicts within the executive board. He
+          or she ensures that UXSoc continues to **grow in the quality of
+          initiatives and prepares the organization for continuous growth across
+          different chapters** alongside the president and directly reports to
+          LIONS as part of the legislative committee.
 
 
-          Your strong sense of empathy for the organization’s people, standards
-          of quality and growth, and can-do attitude takes the organization far
-          more than it could be without you.
+          Your **strong sense of empathy for the organization’s people,
+          standards of quality and growth, and can-do attitude** takes the
+          organization far more than it could be without you.
         title: About the Role
     title: "\U0001F44B Executive Vice President"
   - cardSectionTitle: The Chief Organizer
