@@ -171,33 +171,40 @@ departmentsSection:
 
       5. In charge of sharing design resources
     title: "\U0001F4DD VP for UX Design"
-  - cards: []
+  - cardSectionTitle: The Coding Sage
+    cards: []
     description: >-
-      Bringing the designs to life, we, engineers from the Engineering
-      department, focus on developing the website projects of UXSoc and its
-      clients both in Front-End and Back-End Engineering. The department has a
-      professional and tight-knit environment that enables the members of UXSoc
-      to expand their knowledge and appreciate the beauty of impactful web
-      development for well-made designs. 
-    positions:
-      - description: "**The Coding Mentor**\n\n_Are you into learning different frameworks and technologies? Do you want to expand and solidify your skills through teaching others? Then this is the job for you!_\n\n\U0001F4BB The AVP for Education in Engineering shall be the officer-in-charge for **all engineering-related education matters within UXSoc**.\n\n**Specific Tasks:**\n\n* Assisting the VP for Engineering in creating and finalizing the Dev Manual / Engineering Wiki\n  * Collating essential resources for different languages and frameworks\n  * Creating learning modules for development education (For both front-end and back-end curriculum, as well as both front-end and back-end coding challenges)\n* Assisting the VP for Engineering with handling and organizing mentorships within UXSoc\n* Proposing and spearheading engineering-related education opportunities (In collaboration with the AVP for Projects in Engineering)\n  * Arranging engineering-related education events, meetups, and hackathons\n  * Collating a database of developer professionals (For mentorship and speaker-related purposes)\n* Joining in on dev sessions for engineering projects (Together with the AVP for Projects in Engineering)\n  * Teaching officers how to code and helping them improve their coding skills through projects\n  * Assisting the VP for Engineering with reviewing code\n* Accompanying the VP for Engineering to turnovers as well as QA review sessions (Together with the AVP for Projects in Engineering)\n* Creating and distributing project evaluations (In collaboration with the AVP for Projects in Engineering)\n\n\n\n**Summary:**\n\nThe AVP for Education in Engineering shall guide both front-end and back-end student developers throughout their programming journeys by crafting concrete curricula and planning with the VP for Engineering regarding the different frameworks and technologies, ensuring that technical knowledge will be passed on to mold the next engineering leaders of UXSoc. Moreover, they are also responsible for educating officers on the fundamentals of software development, providing them a seamless transition to become project-ready developers."
-        title: AVP for Education in Engineering
-      - description: >-
-          * A per-project basis opportunity for the members of UXDev to embark
-          on client-work projects
+      The VP for Engineering is in charge of transforming designs into digital
+      masterpieces that are usable, useful, and delightful.
+       
+      This VP is the chief technological officer that manages all the software
+      engineering projects. He or she works hand in hand with the designers and
+      ensures that the projects are moving forward as planned. This VP is also
+      in charge of developing and honing the programming skills of his/her
+      developers.
 
-          * Each member could select a level in which they would like to partake
-          in: **Apprentice, Guided Coding, and Independent Dev (InDevendent)**
-            * **Apprentice**
-              * **Description:** Zero to beginner knowledge of coding and is relatively new to the field
-              * **Role:** Watchers — joining in coding sessions for any projects, freely asking questions
-            * **Guided Coding**
-              * **Description:** Mastered the programming fundamentals and is familiar with how the web works
-              * **Role:** Developer Member — works on tasks that have been laid out by the developer lead
-            * **Independent Dev (InDevendent)**
-              * **Description:** Has experience working on projects and is confident to become the developer lead
-              * **Role:** Developer Lead — becomes the point-person for the project, overseeing the progress and workflow
-        title: Developer Pool
+
+      It’s recommended that the VP for Engineering should have an in-depth
+      knowledge and experience in using the git flow and programming front-end
+      and back-end applications.
+
+
+      He or she should have a coding portfolio, meaning he or she has already
+      worked on other projects before. Moreover, the VP for Engineering should
+      also be meticulous in the code structure, style and infrastructure.
+
+
+      Major Roles:
+
+      1. Leading, guiding, and teaching your officers (and pool if you decide to
+      have), as well as interested UXS members!
+
+      2. Client Projects
+
+      3. Dev Workshops
+
+      4. Dev Manual
+    positions: []
     title: "\U0001F4BB Engineering (UXDev)"
   - description: >-
       Being a designer does not happen overnight. We, in the Events department,
