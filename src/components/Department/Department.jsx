@@ -10,6 +10,7 @@ import {
   HeaderContainer,
 } from "./styles"
 import "./style.css"
+import ReactHtmlParser from 'react-html-parser'; 
 
 // const events = [
 //   {
@@ -72,7 +73,7 @@ const Department = ({
           <p>{department.description}</p>
         </div>
         {/* <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F447179010407211%2F&show_text=false&width=560&t=0" width="560" height="314" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" onload="this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';"></iframe> */}
-        {department.video}
+        {ReactHtmlParser(department.video)}
       </HeaderContainer>
       {/* <div className="department-secondary-container">
         <SecondaryHeader footer={footerColor} secondary={secondaryColor}>{department.type}</SecondaryHeader>
