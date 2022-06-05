@@ -85,15 +85,9 @@ collections:
               - label: Description
                 name: description
                 widget: text
-              # - label: "Type"
-              #   name: type
-              #   widget: "select"
-              #   options:
-              #     [
-              #       "Executive Board Positions",
-              #       "Associate Vice President Positions",
-              #       "Officer Positions",
-              #     ]
+              - label: "Embed Video Code"
+                name: video
+                widget: text
               - label: "Positions"
                 name: positions
                 widget: list

@@ -23,7 +23,7 @@ export const CardContainer = styled.div`
   border-radius: 4px;
   box-sizing: border-box;
   padding: 20px 45px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.05em;
 

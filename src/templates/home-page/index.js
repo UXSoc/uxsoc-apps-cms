@@ -97,6 +97,7 @@ export const HomePageQuery = graphql`
         departmentsSection {
           title
           description
+          video
           positions {
             title
             description
