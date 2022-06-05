@@ -29,30 +29,39 @@ departmentsSection:
       - description: "**The Junior Product Manager**\n\n_If you've always been curious about what it's like to be behind the scenes in a project, then this is perfect for you!_\n\n\U0001F3A8 The AVP for Product Management is **in charge of ensuring a smooth-sailing process from project deployment to project turnover.** You'll be handling the logistics of numerous UXDC-UXDev meetings while working alongside the team on various projects. You'll also get the chance to collaborate on content for design education!\n\n**Specific Tasks:**\n\n* In charge of scheduling and organizing meetings\n* Create a When2Meet to assess which day everyone is available\n* Organize the day, time and place for meetings\n* Handle logistics for events such as:\n  * Project Onboarding\n  * Design Sprints\n  * UXDC x UXDev Meetings\n  * QA Discussions\n* Work alongside UXSoc and its clients in User Research and Design Sessions\n  * Spearhead the documentation process of projects from start to finish\n* Curate content for design education\n  * In collaboration with the AVP for Design Mentorship"
         title: AVP for Product Management
     description: >-
-      We are the core of UXSoc that advocates the practice of user experience.
-      We handle all client projects in and outside of Ateneo, creating products
-      that are functional and impactful for our clients. We evangelize user
-      experience through workshops and learning modules and train future design
-      leaders.
-    positions:
-      - description: >-
-          * Get curated and value-adding user research content, every week
+      The President is the highest ranking executive in the organization. They
+      are in charge of establishing the vision and mission for the organization
+      and making sure it can be translated to a portfolio of projects and events
+      during their term.
 
-          * Get priority slots for our research mentorship programs
 
-          * Stay posted on opportunities to up-skill and join our projects for
-          client work
-        title: Design Pool
-      - description: >-
-          * A per-project basis opportunity for the members to embark on
-          client-work projects
+      They are responsible for leading the growth of the entire organization and
+      also should be open to mentoring the next set of leaders for the
+      organization. The President is also responsible for coordinating with
+      LIONS, Ateneo admin and other offices, as well as external UX Society
+      chapters. They shall be willing to guide interested students outside of
+      Ateneo de Manila that may be interested in founding their own UX Society
+      chapter for their respective universities.
 
-          * An opportunity to learn more about UX Research and Design
 
-          * Work closely with experienced designers and have access to
-          mentorships
-        title: User Research Pool
-    title: "\U0001F3A8 Design & Consultancy (UXDC)"
+      They are responsible for leading the growth of the entire organization and
+      also should be open to mentoring the next set of leaders for the
+      organization. The President is also in charge of monitoring or handling
+      external affairs of the organization – such as LIONS, Ateneo admin and
+      offices, as well as external UX Society chapters. They are mainly focused
+      on the interests and welfare of their own Executive Board, but shall also
+      be willing to guide interested students outside of Ateneo de Manila that
+      may be interested in founding their own UX Society chapter for their
+      respective universities.
+
+
+      It’s recommended that the President has the skills of excellent
+      communication, persuasion, and conflict management. Furthermore, they
+      should possess adaptability, clear judgment, and past experience/s on
+      leadership and team management in order to effectively guide the
+      organization and its members towards growth.
+    positions: []
+    title: "\U0001F3A8 President"
   - cards: []
     description: >-
       Bringing the designs to life, we, engineers from the Engineering
