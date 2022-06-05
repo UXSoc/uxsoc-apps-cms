@@ -75,93 +75,104 @@ departmentsSection:
       coordinator for all tasks of the executive board member. He or she ensures
       that the process and methodology of documentation is deliberate and
       well-facilitated for a quality output.
+    positions:
+      - description: >-
+          Some responsibilities/tasks include **setting up important internal
+          meetings while following respective agendas**, **creating an organized
+          Google Drive** (or any other platform) available to the team,
+          **updating the Code of Internal Procedures**, and **refining the
+          organizational constitution**. The Secretary General also oversees the
+          Associate Vice Presidents in their documentation and other refinements
+          of department-specific needs and documentations
 
 
-      Some responsibilities/tasks include setting up important internal meetings
-      while following respective agendas, creating an organized Google Drive (or
-      any other platform) available to the team, updating the Code of Internal
-      Procedures and refining the organizational constitution. The Secretary
-      General also oversees the Associate Vice Presidents in their documentation
-      and other refinements of department-specific needs and documentations
-
-
-      It’s recommended that SecGen is detail-oriented, a team player, a
-      facilitator, a critical listener, and passionately champions quality
-      standards. Past experiences on quick and effective note-taking and
-      facilitation is also recommended.
-    positions: []
+          It’s recommended that SecGen is detail-oriented, a team player, a
+          facilitator, a critical listener, and passionately champions quality
+          standards. Past experiences on quick and effective note-taking and
+          facilitation is also recommended.
+        title: About the Role
     title: "\U0001F5C3 Secretary General"
   - cardSectionTitle: The Product Manager
     description: >-
       The VP for Consultancy is in charge of client projects, whilst advocating
       for product (and project!) management within UX Society. 
+    positions:
+      - description: >-
+          Whilst UX Consultancy, UX Design, and Engineering are the **staple
+          income generating departments** of UXSoc, clientwork may also involve
+          other departments. These client projects will serve as a practice
+          ground for UXSoc AVPs and officers to hone their product management,
+          research, design, and development skills in real-life projects. 
 
 
-      Whilst UX Consultancy, UX Design, and Engineering are the staple income
-      generating departments of UXSoc, clientwork may also involve other
-      departments. These client projects will serve as a practice ground for
-      UXSoc AVPs and officers to hone their product management, research,
-      design, and development skills in real-life projects. 
+          For clientwork, the VP for Consultancy must be ready to **pitch
+          UXSoc’s various services to clients**, **quote the right prices**,
+          **negotiate reasonably with stakeholders**, and to **ensure the
+          project team is able to deliver a top-notch output within a reasonable
+          timeframe**. Ideally, he/she must have had freelance experience to be
+          able to quote properly, but tremendous project management and people
+          management skills are highly required and are non-negotiables!
+        title: About the Role
+      - description: >-
+          Some responsibilities the VP for Consultancy is expected to undertake
+          for client-work: 
 
 
-      For clientwork, the VP for Consultancy must be ready to pitch UXSoc’s
-      various services to clients, quote the right prices, negotiate reasonably
-      with stakeholders, and to ensure the project team is able to deliver a
-      top-notch output within a reasonable timeframe. Ideally, he/she must have
-      had freelance experience to be able to quote properly, but tremendous
-      project management and people management skills are highly required and
-      are non-negotiables! 
+          1. Lead a team of UX Researchers, Product Designers, and Developers
 
 
-      Some responsibilities the VP for Consultancy is expected to undertake for
-      client-work: 
+          2. Take ownership of the entire project management cycle and product
+          roadmap 
 
-      1. Lead a team of UX Researchers, Product Designers, and Developers
 
-      2. Take ownership of the entire project management cycle and product
-      roadmap 
+          3. Establish close rapport with both internal stakeholders
+          (researchers, designers, developers, finance, UXSoc Top 3) and
+          external stakeholders (clients, end-users)
 
-      3. Establish close rapport with both internal stakeholders (researchers,
-      designers, developers, finance, UXSoc Top 3) and external stakeholders
-      (clients, end-users)
 
-      4. Ensure project is executed well from deployment to turnover 
+          4. Ensure project is executed well from deployment to turnover
+        title: Key Responsibilities
     title: "\U0001F4BC VP for Consultancy"
   - cardSectionTitle: The Design Educator
     description: >-
       The VP for UX Design is in charge of leading the UX education efforts
       through client projects and events.
+    positions:
+      - description: >-
+          He or she ensures that **product design** (with a focus on UX) **is
+          effectively taught throughout the organization** by collaborating with
+          different departments in **executing design-related events**, while
+          also **making sure that quality is executed in all digital products
+          created for clients**.
 
 
-      He or she ensures that product design (with a focus on UX) is effectively
-      taught throughout the organization by collaborating with different
-      departments in executing design-related events, while also making sure
-      that quality is executed in all digital products created for clients.
+          It is recommended that the VP for UX Design has **past experience not
+          only in product design, but also profound knowledge in user research,
+          visual design, and usability**. The VP for UX Design must also have
+          **experience in mentorship and collaboration**, and if possible,
+          **product management**.
 
 
-      It is recommended that the VP for UX Design has past experience not only
-      in product design, but also profound knowledge in user research, visual
-      design, and usability. The VP for UX Design must also have experience in
-      mentorship and collaboration, and if possible, product management.
+          The VP for UX Design works hand in hand with the VP for Consultancy in
+          managing the UXDC team.
+        title: About the Role
+      - description: >-
+          1. In charge of leading functional and impactful digital products for
+          clients
 
 
-      The VP for UX Design works hand in hand with the VP for Consultancy in
-      managing the UXDC team.
+          2. In charge of managing AVPs under UX Design
 
 
-      Tasks
+          3. In charge of leading and guiding officers under UXDC with regards
+          to producing effective outputs for client work
 
-      1. In charge of leading functional and impactful digital products for
-      clients
 
-      2. In charge of managing AVPs under UX Design
+          4. In charge of facilitating design workshops
 
-      3. In charge of leading and guiding officers under UXDC with regards to
-      producing effective outputs for client work
 
-      4. In charge of facilitating design workshops
-
-      5. In charge of sharing design resources
+          5. In charge of sharing design resources
+        title: Key Responsibilities
     title: "\U0001F4DD VP for UX Design"
   - cardSectionTitle: The Coding Sage
     cards: []
