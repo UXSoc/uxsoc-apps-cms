@@ -16,7 +16,7 @@ headerSection:
   title: User Experience Society Applications
 heroSection:
   description: "Hey there, UXer! Want to join the **Executive Board** run for **AY 2022-2023**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to confirm your interest!"
-  title: DELVE DEEPER INTO UX SOCIETY!
+  title: EXPERIENCE LEADERSHIP WITH UX SOCIETY
 departmentsSection:
   - cardSectionTitle: The Chief Evangelist
     cards: []
@@ -99,6 +99,78 @@ departmentsSection:
       facilitation is also recommended.
     positions: []
     title: "\U0001F5C3 Secretary General"
+  - cardSectionTitle: The Product Manager
+    description: >-
+      The VP for Consultancy is in charge of client projects, whilst advocating
+      for product (and project!) management within UX Society. 
+
+
+      Whilst UX Consultancy, UX Design, and Engineering are the staple income
+      generating departments of UXSoc, clientwork may also involve other
+      departments. These client projects will serve as a practice ground for
+      UXSoc AVPs and officers to hone their product management, research,
+      design, and development skills in real-life projects. 
+
+
+      For clientwork, the VP for Consultancy must be ready to pitch UXSoc’s
+      various services to clients, quote the right prices, negotiate reasonably
+      with stakeholders, and to ensure the project team is able to deliver a
+      top-notch output within a reasonable timeframe. Ideally, he/she must have
+      had freelance experience to be able to quote properly, but tremendous
+      project management and people management skills are highly required and
+      are non-negotiables! 
+
+
+      Some responsibilities the VP for Consultancy is expected to undertake for
+      client-work: 
+
+      1. Lead a team of UX Researchers, Product Designers, and Developers
+
+      2. Take ownership of the entire project management cycle and product
+      roadmap 
+
+      3. Establish close rapport with both internal stakeholders (researchers,
+      designers, developers, finance, UXSoc Top 3) and external stakeholders
+      (clients, end-users)
+
+      4. Ensure project is executed well from deployment to turnover 
+    title: "\U0001F4BC VP for Consultancy"
+  - cardSectionTitle: The Design Educator
+    description: >-
+      The VP for UX Design is in charge of leading the UX education efforts
+      through client projects and events.
+
+
+      He or she ensures that product design (with a focus on UX) is effectively
+      taught throughout the organization by collaborating with different
+      departments in executing design-related events, while also making sure
+      that quality is executed in all digital products created for clients.
+
+
+      It is recommended that the VP for UX Design has past experience not only
+      in product design, but also profound knowledge in user research, visual
+      design, and usability. The VP for UX Design must also have experience in
+      mentorship and collaboration, and if possible, product management.
+
+
+      The VP for UX Design works hand in hand with the VP for Consultancy in
+      managing the UXDC team.
+
+
+      Tasks
+
+      1. In charge of leading functional and impactful digital products for
+      clients
+
+      2. In charge of managing AVPs under UX Design
+
+      3. In charge of leading and guiding officers under UXDC with regards to
+      producing effective outputs for client work
+
+      4. In charge of facilitating design workshops
+
+      5. In charge of sharing design resources
+    title: "\U0001F4DD VP for UX Design"
   - cards: []
     description: >-
       Bringing the designs to life, we, engineers from the Engineering
