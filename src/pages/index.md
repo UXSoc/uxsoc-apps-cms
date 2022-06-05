@@ -131,7 +131,7 @@ departmentsSection:
 
 
           4. Ensure project is executed well from deployment to turnover
-        title: Key Responsibilities
+        title: Department-specific Key Responsibilities
     title: "\U0001F4BC VP for Consultancy"
   - cardSectionTitle: The Design Educator
     description: >-
@@ -172,42 +172,45 @@ departmentsSection:
 
 
           5. In charge of sharing design resources
-        title: Key Responsibilities
+        title: Department-specific Key Responsibilities
     title: "\U0001F4DD VP for UX Design"
   - cardSectionTitle: The Coding Sage
     cards: []
     description: >-
       The VP for Engineering is in charge of transforming designs into digital
       masterpieces that are usable, useful, and delightful.
-       
-      This VP is the chief technological officer that manages all the software
-      engineering projects. He or she works hand in hand with the designers and
-      ensures that the projects are moving forward as planned. This VP is also
-      in charge of developing and honing the programming skills of his/her
-      developers.
+    positions:
+      - description: >-
+          This VP is the chief technological officer that **manages all the
+          software engineering projects**. He or she **works hand in hand with
+          the designers** and **ensures that the projects are moving forward as
+          planned**. This VP is also in charge of **developing and honing the
+          programming skills of his/her developers**.
 
 
-      It’s recommended that the VP for Engineering should have an in-depth
-      knowledge and experience in using the git flow and programming front-end
-      and back-end applications.
+          It’s recommended that the VP for Engineering should have an **in-depth
+          knowledge** and **experience in using the git flow** and **programming
+          front-end and back-end applications**.
 
 
-      He or she should have a coding portfolio, meaning he or she has already
-      worked on other projects before. Moreover, the VP for Engineering should
-      also be meticulous in the code structure, style and infrastructure.
+          He or she should have a **coding portfolio**, meaning he or she has
+          **already worked on other projects before**. Moreover, the VP for
+          Engineering should also be **meticulous in the code structure, style
+          and infrastructure**.
+        title: About the Role
+      - description: >-
+          1. Leading, guiding, and teaching your officers (and pool if you
+          decide to have), as well as interested UXS members!
 
 
-      Major Roles:
+          2. Client Projects
 
-      1. Leading, guiding, and teaching your officers (and pool if you decide to
-      have), as well as interested UXS members!
 
-      2. Client Projects
+          3. Dev Workshops
 
-      3. Dev Workshops
 
-      4. Dev Manual
-    positions: []
+          4. Dev Manual
+        title: Department-specific Key Responsibilities
     title: "\U0001F4BB VP for Engineering "
   - cardSectionTitle: The Event Experience Designer
     description: >-
@@ -215,246 +218,264 @@ departmentsSection:
       of UXSoc's events are smooth and well-designed. Moreover, he/ she is
       responsible for keeping the overall event experience (both for audience
       and speaker) meaningful and relevant. 
+    positions:
+      - description: >-
+          He/she is an **efficient planner and organizer of events**. He/she is
+          **familiar with Ateneo’s (rigorous) mechanisms with regards to venue
+          reservations and project proposals**. If not, he/she is **ready to
+          learn them, immerse in them, and give their soul to them**.
 
 
-      He/she is an efficient planner and organizer of events. He/she is familiar
-      with Ateneo’s (rigorous) mechanisms with regards to venue reservations and
-      project proposals. If not, he/she is ready to learn them, immerse in them,
-      and give their soul to them.
+          He/she knows how to **deploy project teams**, **manage expectations
+          and motivations**, and **pick the right people for the right job**.
 
 
-      He/she knows how to deploy project teams, manage expectations and
-      motivations, and pick the right people for the right job.
+          The Events VP is in charge of **working alongside the Finance
+          department to keep track of the budget of all events** for the year as
+          well as to keep track of the expenses of each project or event. 
 
 
-      The Events VP is in charge of working alongside the Finance department to
-      keep track of the budget of all events for the year as well as to keep
-      track of the expenses of each project or event. 
+          He/ she is also in charge of **working with the Externals department
+          to scout and assign relevant speakers for each major event**. 
 
 
-      He/ she is also in charge of working with the Externals department to
-      scout and assign relevant speakers for each major event. 
+          He/ she must also **collaborate together with the Branding, Design &
+          Consultancy, Dev, and Content Marketing department** to create a
+          lesson plan as well as **assign relevant and appropriate speakers for
+          workshops**.
 
 
-      He/ she must also collaborate together with the Branding, Design &
-      Consultancy, Dev, and Content Marketing department to create a lesson plan
-      as well as assign relevant and appropriate speakers for workshops.
+          Most importantly, the Events VP must **advocate for User Experience
+          design**. He/ she must **encourage his/ her AVPs and members to learn
+          and practice User Experience design outside Events** (e.g. web
+          development, design, etc.).
+        title: About the Role
+      - description: |-
+          1. UX & Chill
 
+          2. UX Crawl
 
-      Most importantly, the Events VP must advocate for User Experience design.
-      He/ she must encourage his/ her AVPs and members to learn and practice
-      User Experience design outside Events (e.g. web development, design,
-      etc.).  
+          3. UX Workshops
 
+          4. Branding
 
-      Major Activities:
+          5. Design and Consultancy
 
-      1. UX & Chill
+          6. Dev (Coding - Back-end and Front-end)
 
-      2. UX Crawl
+          7. Content Marketing
 
-      3. UX Workshops
-
-      4. Branding
-
-      5. Design and Consultancy
-
-      6. Dev (Coding - Back-end and Front-end)
-
-      7. Content Marketing
-
-      8. UX University (partner with Design and Consultancy Dept.)
-    positions: []
+          8. UX University (partner with Design and Consultancy Dept.)
+        title: Department-specific Key Responsibilities
     title: "\U0001F389 VP for Events"
   - cardSectionTitle: The Money Lover
-    description: >-
-      The VP for Finance keeps the organization running with enough cash.
+    description: The VP for Finance keeps the organization running with enough cash.
+    positions:
+      - description: >-
+          He/she **keeps the organization’s financials in check**, and **creates
+          systems and processes to ensure that projects and expenses are
+          properly accounted for** and there’s enough to go around!
 
 
-      He/she keeps the organization’s financials in check, and creates systems
-      and processes to ensure that projects and expenses are properly accounted
-      for and there’s enough to go around!
+          He/she **sets systems to track where our finances go**. This VP is
+          **obsessed with getting receipts**, **tallying expenses**, and
+          **analyzing our financial health** so that we know how to maximize our
+          funds for the org’s growth!
 
 
-      He/she sets systems to track where our finances go. This VP is obsessed
-      with getting receipts, tallying expenses, and analyzing our financial
-      health so that we know how to maximize our funds for the org’s growth!
+          This VP is often **collaborating with the Consultancy and Design
+          department** in order to **secure payments from clients**. It is not
+          unnatural for him/her to be **handling MoA’s and other similar
+          documents**. He/she is also able to **keep track of expenses such as
+          hosting and domain management fees, SSL certificates, and more**.
 
 
-      This VP is often collaborating with the Consultancy and Design department
-      in order to secure payments from clients. It is not unnatural for him/her
-      to be handling MoA’s and other similar documents. He/she is also able to
-      keep track of expenses such as hosting and domain management fees, SSL
-      certificates, and more.
+          The Finance VP is also in charge of **working alongside the Events
+          department** to make sure that **expenses for UXSoc’s projects and
+          events are properly accounted for and recorded**!
 
 
-      The Finance VP is also in charge of working alongside the Events
-      department to make sure that expenses for UXSoc’s projects and events are
-      properly accounted for and recorded!
+          The Finance department doesn’t need to just be all numbers and
+          systems! He/she can also be seen **dabbling with the Branding
+          department to come up with the latest UX Merch** that both speaks of
+          the org’s identity and generates cash for more projects and events for
+          the org!
+        title: About the Role
+      - description: >-
+          1. Managing and creating systems for the procurement, allocation, and
+          disbursement of funds
 
 
-      The Finance department doesn’t need to just be all numbers and systems!
-      He/she can also be seen dabbling with the Branding department to come up
-      with the latest UX Merch that both speaks of the org’s identity and
-      generates cash for more projects and events for the org!
+          2. Involvement in managing and problem solving financial aspects of
+          projects and events
 
 
-      Major Roles:
+          3. Budget acquisition from LIONS 
 
-      1. Managing and creating systems for the procurement, allocation, and
-      disbursement of funds
 
-      2. Involvement in managing and problem solving financial aspects of
-      projects and events
+          4. UX Merchandise 
 
-      3. Budget acquisition from LIONS 
 
-      4. UX Merchandise 
-
-      5. Working alongside UXDC for client projects. (Tracking and receiving
-      payments, compensation agreements and disbursements.)
-    positions: []
+          5. Working alongside UXDC for client projects. (Tracking and receiving
+          payments, compensation agreements and disbursements.)
+        title: Department-specific Key Responsibilities
     title: "\U0001F4B8 VP for Finance"
   - cardSectionTitle: The Support Unit
     cards: []
     description: >-
       The VP for HR is in charge of the recruitment, development, and happiness
-      of all members of UXSociety! Overseeing the AVPs of Internal Management
-      and Community Engagement, the VP ensures the accomplishing of tasks while
-      expressing empathy for others. 
-       
-      Responsibilities and tasks include activities and initiatives concerning
-      member bonding and research. This includes events like RecWeek,
-      Onboarding, PlanSem/PlevSem, to initiatives like internal posts, team
-      buildings, and internal research for community policies! 
+      of all members of UXSociety!
+    positions:
+      - description: >-
+          **Overseeing the AVPs of Internal Management and Community
+          Engagement**, the VP ensures the **accomplishing of tasks while
+          expressing empathy for others**. 
 
 
-      It’s recommended that the VP for HR have great writing skills and planning
-      skills, and be an organized and systematic person. It’s also recommended
-      that he/she have a passion for helping and supporting others, whether
-      through sharing resources or for organizing fun activities.
+          Responsibilities and tasks include **activities and initiatives
+          concerning member bonding and research**. This includes events like
+          **RecWeek**, **Onboarding**, **PlanSem/PlevSem**, **to initiatives
+          like internal posts**, **team buildings**, ****and **internal research
+          for community policies**! 
 
 
-      Major Activities
+          It’s recommended that the VP for HR have **great writing skills and
+          planning skills**, and be an **organized and systematic person**. It’s
+          also recommended that he/she have a **passion for helping and
+          supporting others**, whether through **sharing resources or for
+          organizing fun activities**.
+        title: About the Role
+      - description: |-
+          Facilitating major activities like:
 
-      1. RecWeek
+          1. RecWeek
 
-      2. Onboarding
+          2. Onboarding
 
-      3. AVP & Officer Applications
+          3. AVP & Officer Applications
 
-      4. PlanSem & PlevSem
+          4. PlanSem & PlevSem
 
+          and working on particular initiatives like:
 
-      Initiatives
+          1. Internal Communication
 
-      1. Internal Communication
+          2. Policy Creation & Management
 
-      2. Policy Creation & Management
+          3. Member Research
 
-      3. Member Research
+          4. Happy Hours/Game Days
 
-      4. Happy Hours/Game Days
-
-      5. Team Buildings
-    positions: []
+          5. Team Buildings
+        title: Department-specific Key Responsibilities
     title: "\U0001F3E0 VP for Human Resources"
   - cardSectionTitle: The Trendsetter
     cards: []
     description: >-
       The VP for Marketing is responsible for ensuring that the org is well
       represented on all platforms and that all events, projects, and
-      initiatives are properly promoted .
+      initiatives are properly promoted.
+    positions:
+      - description: >-
+          They must help **ensure that the org has a good reputation through
+          timely and sensible campaign strategies that reflect the values of the
+          organization**.
 
 
-      They must help ensure that the org has a good reputation  through timely
-      and sensible campaign strategies that reflect the values of the
-      organization.
+          It is recommended that they be able to **juggle multiple projects and
+          teams** as they will be **overseeing and advising the creatives,
+          copywriters, and documentations committees**. This involves the
+          **tracking and management of all content and output, ensuring their
+          quality and completion**.
 
 
-      It is recommended that they be able to juggle multiple projects and teams
-      as they will be overseeing and advising the creatives, copywriters, and
-      documentations committees. This involves the tracking and management of
-      all content and output, ensuring their quality and completion.
+          Responsibilities include:
 
 
-      Responsibilities
+          * Social Media Planning & Management (Facebook, Instagram, Twitter,
+          LinkedIn) to increase member and audience engagement
 
-      Social Media Planning & Management (Facebook, Instagram, Twitter,
-      LinkedIn) to increase member and audience engagement
+          * Ideating and executing different marketing strategies for the org’s
+          various events, projects, and initiatives.
 
-      Ideating and executing different marketing strategies for the org’s
-      various events, projects, and initiatives.
+          * Ensuring that each event, project, and initiative maintains a
+          consistent brand that aligns with the org’s values.
 
-      Ensuring that each event, project, and initiative maintains a consistent
-      brand that aligns with the org’s values.
+          * Managing the creation of output for the org’s various events,
+          projects, and initiatives.
 
-      Managing the creation of output for the org’s various events, projects,
-      and initiatives.
-
-      Setting the annual motto/theme of the org
-
-
-      Major Activities
-
-      1. Maintaining the UXSoc brand
-
-      2. Collaborating with other departments to promote events and initiatives
-
-      3. Tracking Social Media Engagement Analytics
+          * Setting the annual motto/theme of the org
+        title: About the Role
+      - description: >-
+          Includes major activities like:
 
 
-      Past Initiatives
+          1. Maintaining the UXSoc brand
 
-      1. LIONS Rebrand
 
-      2. UXSoc Brand Manual
+          2. Collaborating with other departments to promote events and
+          initiatives
 
-      3. Tech News Updates
-    positions: []
+
+          3. Tracking Social Media Engagement Analytics
+
+
+          Involved with past initiatives like:
+
+
+          1. LIONS Rebrand
+
+
+          2. UXSoc Brand Manual
+
+
+          3. Tech News Updates
+        title: Department-specific Key Responsibilities
     title: "\U0001F4DD VP for Marketing"
   - cardSectionTitle: The User Experience Ambassador
     description: >-
       The VP for Externals has the responsibility of being the face of the
       organization and ensuring a good rapport with our dear partners and
-      sponsors, both long-term and short-term. The VP works closely with
-      departments that have major events and projects. 
+      sponsors, both long-term and short-term.
+    positions:
+      - description: >-
+          The VP **works closely with departments that have major events and
+          projects**. This includes **preparing sponsorship & media partnership
+          packages**, **emailing partners**, **assuring fulfillment of terms in
+          partnerships**, and **settling MOAs with the organization or
+          corporation partners in person**. 
 
 
-      This includes preparing sponsorship & media partnership packages, emailing
-      partners, assuring fulfillment of terms in partnerships, and settling MOAs
-      with the organization or corporation partners in person. 
+          Additionally, the VP for Externals is in charge of **creating
+          strategies for bettering relationships with current and former
+          partners** as well as **expanding the UX Society networks and devising
+          better channels for long-term engagement**.
 
 
-      Additionally, the VP for Externals is in charge of creating strategies for
-      bettering relationships with current and former partners as well as
-      expanding the UX Society networks and devising better channels for
-      long-term engagement.
+          He/she should have prior experience in the **creation of MoAs**, as
+          well as **sponsorship and partnership packages**. The VP should also
+          create a **system to efficiently track the partnerships and
+          sponsorships ongoing for the organization**, and f**oster the
+          development and skillsets of the AVPs of Sponsorships and
+          Partnerships**.
+        title: About the Role
+      - description: |-
+          Major tasks include:
 
+          1. Partnerships
 
-      He/she should have prior experience in the creation of MoAs, as well as 
-      sponsorship and partnership packages. The VP should also create a system
-      to efficiently track the partnerships and sponsorships ongoing for the
-      organization, and foster the development and skillsets of the AVPs of
-      Sponsorships and 
+          2. Communication and Meetings with Partners
 
+          3. MoA handling and securing
 
-      Major tasks:
+          4. Partnerships tracking
 
-      1. Partnerships
+          5. Partnerships fulfillments
 
-      2. Communication and Meetings with Partners
+          6. Creating Partnership Packages
 
-      3. MoA handling and securing
-
-      4. Partnerships tracking
-
-      5. Partnerships fulfillments
-
-      6. Creating Partnership Packages
-
-      7. Update guides, checklists & databases
-    positions: []
+          7. Update guides, checklists & databases
+        title: Department-specific Key Responsibilities
     title: "\U0001F91D VP for Externals"
 ---
 
