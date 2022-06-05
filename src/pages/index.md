@@ -263,6 +263,99 @@ departmentsSection:
       8. UX University (partner with Design and Consultancy Dept.)
     positions: []
     title: "\U0001F389 VP for Events"
+  - cardSectionTitle: The Money Lover
+    description: >-
+      The VP for Finance keeps the organization running with enough cash.
+
+
+      He/she keeps the organization’s financials in check, and creates systems
+      and processes to ensure that projects and expenses are properly accounted
+      for and there’s enough to go around!
+
+
+      He/she sets systems to track where our finances go. This VP is obsessed
+      with getting receipts, tallying expenses, and analyzing our financial
+      health so that we know how to maximize our funds for the org’s growth!
+
+
+      This VP is often collaborating with the Consultancy and Design department
+      in order to secure payments from clients. It is not unnatural for him/her
+      to be handling MoA’s and other similar documents. He/she is also able to
+      keep track of expenses such as hosting and domain management fees, SSL
+      certificates, and more.
+
+
+      The Finance VP is also in charge of working alongside the Events
+      department to make sure that expenses for UXSoc’s projects and events are
+      properly accounted for and recorded!
+
+
+      The Finance department doesn’t need to just be all numbers and systems!
+      He/she can also be seen dabbling with the Branding department to come up
+      with the latest UX Merch that both speaks of the org’s identity and
+      generates cash for more projects and events for the org!
+
+
+      Major Roles:
+
+      1. Managing and creating systems for the procurement, allocation, and
+      disbursement of funds
+
+      2. Involvement in managing and problem solving financial aspects of
+      projects and events
+
+      3. Budget acquisition from LIONS 
+
+      4. UX Merchandise 
+
+      5. Working alongside UXDC for client projects. (Tracking and receiving
+      payments, compensation agreements and disbursements.)
+    positions: []
+    title: "\U0001F4B8 VP for Finance"
+  - cardSectionTitle: The Support Unit
+    cards: []
+    description: >-
+      The VP for HR is in charge of the recruitment, development, and happiness
+      of all members of UXSociety! Overseeing the AVPs of Internal Management
+      and Community Engagement, the VP ensures the accomplishing of tasks while
+      expressing empathy for others. 
+       
+      Responsibilities and tasks include activities and initiatives concerning
+      member bonding and research. This includes events like RecWeek,
+      Onboarding, PlanSem/PlevSem, to initiatives like internal posts, team
+      buildings, and internal research for community policies! 
+
+
+      It’s recommended that the VP for HR have great writing skills and planning
+      skills, and be an organized and systematic person. It’s also recommended
+      that he/she have a passion for helping and supporting others, whether
+      through sharing resources or for organizing fun activities.
+
+
+      Major Activities
+
+      1. RecWeek
+
+      2. Onboarding
+
+      3. AVP & Officer Applications
+
+      4. PlanSem & PlevSem
+
+
+      Initiatives
+
+      1. Internal Communication
+
+      2. Policy Creation & Management
+
+      3. Member Research
+
+      4. Happy Hours/Game Days
+
+      5. Team Buildings
+    positions: []
+    title: "\U0001F3E0 VP for Human Resources"
   - description: >-
       We, in the Externals department, are the faces of UXSoc who interact with
       organizations and companies inside and outside of Ateneo. We create
@@ -286,54 +379,6 @@ departmentsSection:
           * Curating opportunities for the newsletter
         title: Externals Officer
     title: "\U0001F91D Externals"
-  - description: >-
-      Money makes the world go round. We enable UXSociety activities to happen
-      as we allocate and maximize the organization’s funds to continue
-      UXSociety’s mission of evangelizing user experience. Being advocates of
-      financial literacy, we experience the real-life financial processes of a
-      design firm as we are compensated for our client work.
-    positions:
-      - description: "**The Money Man**\n\n_Do you have new and exciting ideas on how to make cash? If so, then this position is for you!_\n\n\U0001F4B8 The AVP for Fundraising is **in charge of working on fundraisers in an effort to raise the revenue for UXSoc**. They are also in charge of all fundraising matters inside the organization.\n\n**Specific Tasks:**\n\n* Aiding the VP for Finance with brainstorming fundraising ideas\n* Aiding the VP for Finance with the implementation of fundraisers\n* Communicating with suppliers\n* Constantly improving and innovating UXSoc merchandise, broadening the product line\n* Merchandise production; ensuring that the merchandise produced is of top quality and appeals to UXSoc's identity and members"
-        title: 'AVP for Fundraising '
-      - description: "**The Informant**\n\n_Do you feel that you're both a people person and a finance person? Then this is the position for you!_\n\n\U0001F4B8 The AVP for External Fund Management is the liaison of the Finance department with the UXDC departments. They are **in charge of accounting and recording all incoming clientwork payments.**\n\n**Specific Tasks:**\n\n* Working closely with (and is the point person for) the UXDC department with all finance-related matters\n* Aiding the VP for Finance will all incoming clientwork payments\n* Aiding the VP for Finance with the handling and accounting of clientwork payments\n* Aiding in the curation of possible innovations for the organization's fund management systems (Together with the AVP for Internal Fund Management)"
-        title: 'AVP for External Fund Management '
-      - description: >-
-          * Members can choose between the three departments under UX Finance,
-          or become a free floater where they can experience a little bit of
-          work from each department: **Fundraising, Internal Fund Management,
-          and External Fund Management.**
-        title: Finance Pool
-    title: "\U0001F4B8 Finance"
-  - cards: []
-    description: >-
-      Behind the success of every organization is a solid foundation of trust
-      and sense of community. UXSociety cares for its own members’ experience.
-      We, in the department of Human Resources, are the Support Unit of
-      UXSociety: organizing projects and initiatives that create an environment
-      where the members can explore, connect, and grow as design leaders.
-    positions:
-      - description: >-
-          * Help plan and execute member-centric initiatives to engage with
-          members
-
-          * Take part as facilitators for events and initiatives
-
-          * Conduct member check-ups to ensure that they have access to
-          opportunities
-            * Communicate resources for learning and org-wide bonding initiatives to members
-            * Conduct year-long individual consultations (ICs) among members of the organization to gauge overall membership experience
-        title: Member Happiness
-      - description: >-
-          * Help plan and create activities for departmental team buildings + HR
-          event initiatives
-
-          * Help with onboarding and post-processing for events
-            * Oversee smooth member deployment to projects and ensure that members are to operate within conducive environments
-            * Conduct individual consultations (ICs) and member research for post-processing
-          * Track performance of deployed members throughout projects
-            * Conduct individual consultations within project timeframes to assess ongoing performance and apply any changes/assistance accordingly
-        title: 'Member Development '
-    title: "\U0001F3E0 Human Resources"
   - cards: []
     description: >-
       At the Marketing department, we nurture the identity of the UXSoc and
