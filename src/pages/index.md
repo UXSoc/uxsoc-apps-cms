@@ -5,7 +5,7 @@ defaultColor: '#15202b'
 primaryColor: '#3FB4FF '
 secondaryColor: '#F9ADAE'
 backgroundColor: '#FAFAFA'
-footerColor: '#04A0E8 '
+footerColor: '#FBDD8F '
 seo:
   siteDescription: >-
     This is the official application platform of User Experience Society for AVP
