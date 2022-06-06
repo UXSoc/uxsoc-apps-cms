@@ -4,7 +4,7 @@ slug: /
 defaultColor: '#15202b'
 primaryColor: '#3FB4FF '
 secondaryColor: '#F9ADAE'
-backgroundColor: '#F9F6D6'
+backgroundColor: '#FFFEF5'
 footerColor: '#F9ADAE'
 seo:
   siteDescription: >-
