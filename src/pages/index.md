@@ -8,8 +8,8 @@ backgroundColor: '#FAFAFA'
 footerColor: '#FBDD8F '
 seo:
   siteDescription: >-
-    This is the official application platform of User Experience Society for AVP
-    and Pool Applications. Experience better with UXSociety and join now!
+    This is the official interest check platform of User Experience Society for
+    EB Pool. Experience leadership with UXSociety and join now!
   siteTitle: Home
 headerSection:
   buttonVisible: true
