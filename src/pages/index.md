@@ -370,12 +370,10 @@ departmentsSection:
         title: Department-specific Key Responsibilities
     title: "\U0001F4B8 VP for Finance"
     video: >-
-      <iframe
-      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
-      width="560" height="377" style="border:none;overflow:hidden"
-      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-      clipboard-write; encrypted-media; picture-in-picture; web-share"
-      allowFullScreen="true"></iframe>
+      <iframe src="https://youtu.be/Md8OU7LLhYc" width="560" height="377"
+      style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+      allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
+      picture-in-picture; web-share" allowFullScreen="true"></iframe>
   - cardSectionTitle: The Support Unit
     cards: []
     description: >-
