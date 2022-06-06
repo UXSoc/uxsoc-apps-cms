@@ -103,12 +103,10 @@ departmentsSection:
         title: About the Role
     title: "\U0001F5C3 Secretary General"
     video: >-
-      <iframe
-      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
-      width="560" height="377" style="border:none;overflow:hidden"
-      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-      clipboard-write; encrypted-media; picture-in-picture; web-share"
-      allowFullScreen="true"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ju6vJg2N3iM" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - cardSectionTitle: The Product Manager
     description: >-
       The VP for Consultancy is in charge of client projects, whilst advocating
@@ -151,12 +149,10 @@ departmentsSection:
         title: Department-specific Key Responsibilities
     title: "\U0001F4BC VP for Consultancy"
     video: >-
-      <iframe
-      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
-      width="560" height="377" style="border:none;overflow:hidden"
-      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-      clipboard-write; encrypted-media; picture-in-picture; web-share"
-      allowFullScreen="true"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/LT_rq0uT_ug" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - cardSectionTitle: The Design Educator
     description: >-
       The VP for UX Design is in charge of leading the UX education efforts
@@ -199,12 +195,10 @@ departmentsSection:
         title: Department-specific Key Responsibilities
     title: "\U0001F4DD VP for UX Design"
     video: >-
-      <iframe
-      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
-      width="560" height="377" style="border:none;overflow:hidden"
-      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-      clipboard-write; encrypted-media; picture-in-picture; web-share"
-      allowFullScreen="true"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/nPyWhZx8KLQ" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - cardSectionTitle: The Coding Sage
     cards: []
     description: >-
@@ -307,12 +301,10 @@ departmentsSection:
         title: Department-specific Key Responsibilities
     title: "\U0001F389 VP for Events"
     video: >-
-      <iframe
-      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
-      width="560" height="377" style="border:none;overflow:hidden"
-      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-      clipboard-write; encrypted-media; picture-in-picture; web-share"
-      allowFullScreen="true"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/vWsqVTZacuA" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - cardSectionTitle: The Money Lover
     description: The VP for Finance keeps the organization running with enough cash.
     positions:
@@ -538,11 +530,9 @@ departmentsSection:
         title: Department-specific Key Responsibilities
     title: "\U0001F91D VP for Externals"
     video: >-
-      <iframe
-      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
-      width="560" height="377" style="border:none;overflow:hidden"
-      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-      clipboard-write; encrypted-media; picture-in-picture; web-share"
-      allowFullScreen="true"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ju6vJg2N3iM" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
