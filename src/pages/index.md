@@ -238,12 +238,10 @@ departmentsSection:
         title: Department-specific Key Responsibilities
     title: "\U0001F4BB VP for Engineering"
     video: >-
-      <iframe
-      src="https://www.facebook.com/plugins/video.php?height=377&href=https%3A%2F%2Fwww.facebook.com%2FUXSoc%2Fvideos%2F586824829243370%2F&show_text=false&width=560&t=0"
-      width="560" height="377" style="border:none;overflow:hidden"
-      scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
-      clipboard-write; encrypted-media; picture-in-picture; web-share"
-      allowFullScreen="true"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/ck138lh2Cao" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - cardSectionTitle: The Event Experience Designer
     description: >-
       The VP for Events is in charge of making sure the programs and logistics
@@ -480,10 +478,10 @@ departmentsSection:
         title: Department-specific Key Responsibilities
     title: "\U0001F4DD VP for Marketing"
     video: >-
-      <iframe src="https://youtu.be/eLgMikueTiM" width="560" height="377"
-      style="border:none;overflow:hidden" scrolling="no" frameborder="0"
-      allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
-      picture-in-picture; web-share" allowFullScreen="true"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/eLgMikueTiM" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - cardSectionTitle: The User Experience Ambassador
     description: >-
       The VP for Externals has the responsibility of being the face of the
