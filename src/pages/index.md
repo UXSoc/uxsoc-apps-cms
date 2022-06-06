@@ -4,8 +4,8 @@ slug: /
 defaultColor: '#15202b'
 primaryColor: '#3FB4FF '
 secondaryColor: '#F9ADAE'
-backgroundColor: '#FAFAFA'
-footerColor: '#FBDD8F '
+backgroundColor: '#F9F6D6'
+footerColor: '#F9ADAE'
 seo:
   siteDescription: >-
     This is the official interest check platform of User Experience Society for
