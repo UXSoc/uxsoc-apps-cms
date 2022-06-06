@@ -10,7 +10,7 @@ seo:
   siteTitle: Show Interest
 headerSection:
   buttonVisible: true
-  title: UX Society EB Applications
+  title: UX Society EB Interest Check
 links:
   - 'https://airtable.com/shrWXB4JAEOTgpkbj'
 ---
