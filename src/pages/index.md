@@ -366,10 +366,10 @@ departmentsSection:
         title: Department-specific Key Responsibilities
     title: "\U0001F4B8 VP for Finance"
     video: >-
-      <iframe src="https://youtu.be/Md8OU7LLhYc" width="560" height="377"
-      style="border:none;overflow:hidden" scrolling="no" frameborder="0"
-      allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media;
-      picture-in-picture; web-share" allowFullScreen="true"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/Md8OU7LLhYc" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - cardSectionTitle: The Support Unit
     cards: []
     description: >-
