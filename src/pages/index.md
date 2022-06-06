@@ -13,7 +13,7 @@ seo:
   siteTitle: Home
 headerSection:
   buttonVisible: true
-  title: User Experience Society Applications
+  title: UX Society EB Interest Check
 heroSection:
   description: "Hey there, UXer! Want to join the **Executive Board** run for **AY 2022-2023**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to confirm your interest!"
   title: EXPERIENCE LEADERSHIP WITH UX SOCIETY
