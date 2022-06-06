@@ -5,7 +5,7 @@ defaultColor: '#15202b'
 primaryColor: '#3FB4FF '
 secondaryColor: '#F9ADAE'
 backgroundColor: '#FFFEF5'
-footerColor: '#F9ADAE'
+footerColor: '#EE8788'
 seo:
   siteDescription: >-
     This is the official interest check platform of User Experience Society for
