@@ -5,14 +5,13 @@ primaryColor: '#04A0E8 '
 footerColor: '#04A0E8 '
 seo:
   siteDescription: >-
-    This is the official application platform of User Experience Society for AVP
-    and Pool Applications. Experience better with UXSociety and join now!
-  siteTitle: Apply
+    This is the official interest check platform of User Experience Society for
+    EB Pool. Experience leadership with UXSociety and join now!
+  siteTitle: Show Interest
 headerSection:
   buttonVisible: true
-  title: User Experience Society Applications
+  title: UX Society EB Applications
 links:
-  - 'https://airtable.com/embed/shrRxKNWhxf8m2lVg'
-  - 'https://airtable.com/embed/shrthJHKnNveK3cUX'
+  - 'https://airtable.com/shrWXB4JAEOTgpkbj'
 ---
 
