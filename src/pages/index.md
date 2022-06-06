@@ -2,8 +2,8 @@
 templateKey: home-page
 slug: /
 defaultColor: '#15202b'
-primaryColor: '#04A0E8 '
-secondaryColor: '#f27e88'
+primaryColor: '#3FB4FF '
+secondaryColor: '#F9ADAE'
 backgroundColor: '#FAFAFA'
 footerColor: '#04A0E8 '
 seo:
