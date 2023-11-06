@@ -43,7 +43,7 @@ departmentsSection:
           experience/s on leadership and team management** in order to
           effectively guide the organization and its members towards growth.
         title: About the Role
-    title: "\U0001F451 President"
+    title: "\U0001F4B0 AVP for Events Treasury"
     video: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
