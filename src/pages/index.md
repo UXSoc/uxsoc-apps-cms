@@ -13,7 +13,7 @@ seo:
   siteTitle: Home
 headerSection:
   buttonVisible: true
-  title: UX Society EB Interest Check
+  title: UX Society EB Interes Check
 heroSection:
   description: "Hey there, UXer! Ready to jumpstart your UX leadership career for **AY 2023-2024**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to apply!"
   title: EXPERIENCE LEADERSHIP WITH UX SOCIETY
