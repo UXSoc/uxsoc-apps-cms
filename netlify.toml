@@ -1,9 +1,9 @@
 # example netlify.toml
 [build]
-  command = "pnpm build"
+  command = "yarn build"
   functions = "lambda"
   publish = "public"
 
 [build.environment]
-  PNPM_VERSION = "6.0.0"
-  PNPM_FLAGS = "--no-optional"
+  YARN_VERSION = "1.2.2"
+  YARN_FLAGS = "--no-ignore-optional"
