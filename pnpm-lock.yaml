@@ -107,6 +107,9 @@ dependencies:
   mitt:
     specifier: ^3.0.1
     version: 3.0.1
+  nan:
+    specifier: ^2.20.0
+    version: 2.20.0
   netlify-cms-app:
     specifier: ^2.15.72
     version: 2.15.72(@types/react@18.3.3)(graphql@16.9.0)(react-dom@18.3.1)(react@18.3.1)
