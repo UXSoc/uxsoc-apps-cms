@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `UXSociety Apps`,
-    author: `UXSoc`,
-    description: `UXSoc's Offical Application Platform for Executive Board, Associate Vice President and Officer positions. Apply now for a position at UX Society!`,
+    title: `UX Society Apps`,
+    author: `UX Society`,
+    description: `UX Society's offical application platform for Executive Board, Associate Vice President and Officer positions. Apply now for a position at UX Society!`,
     siteUrl: `https://apps.uxsociety.org/`,
   },
   plugins: [
