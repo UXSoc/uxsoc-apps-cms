@@ -20,29 +20,56 @@ heroSection:
 departmentsSection:
   - cardSectionTitle: Events
     cards: []
-    description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
+    description: |
+      The AVP for Project Management can opt to focus on a specific category of events as listed below:
+
+      1. **Flagship** - yearly events that enhance UXS' exposure to the community.
+         *Eg. GA, UX University*
+
+      2. **Special** - events that don't happen every year and could be open to all or limited to org members. It is a project that contains a series of workshops, talks, seminars, etc., which focuses on sharing information and ensuring a positive learning environment.
+         *Eg. The Design in Data Visualization: a Series of Workshops, TALAB 2024*
+
+      3. **Mentorship** - Refining programs and learning spaces for mentors and mentees under the UX Design Department
+
     positions:
       - description: >-
-          They are responsible for **leading the growth of the entire
-          organization** and also should be **open to mentoring the next set of
-          leaders for the organization**. The President is also responsible for
-          **coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
+          ### **Team**
 
+          - Project Manager, Programs, Logistics, Mentorship Project Manager
 
-          It’s recommended that the President has the skills of **excellent
-          communication, persuasion, and conflict management**. Furthermore,
-          they should possess **adaptability, clear judgment, and past
-          experience/s on leadership and team management** in order to
-          effectively guide the organization and its members towards growth.
-        title: About the Role
+          ### **Management**
+
+          - Core Team
+              - Evaluate and form a team of project managers, programs, logistics, and the rest of the core team with VP and other departments
+              - Manage and guide Project Managers and ProgLog, along with the rest of the core team
+          - Project Timeline
+              - Oversee Calendar of Events to ensure reasonable planning of dates across different events
+              - Coordinate with Marketing with schedules of publication materials
+              - Enhance Mentor-Mentee relationships (align schedules and create meetings and events)
+
+          ### **Learning and Training**
+
+          - Strategic Planning
+              - Strategically plan for event mission and vision, goals, and expected programs along with Vice President and Project Managers
+              - Outline relevant topics for talks, workshops, seminars, etc.
+              - Ensure participant engagement and content relevance and applicability
+              - Stay updated on the latest design and tech trends
+          - Directories
+              - Host Directory
+                  - Lists of officers or members that are willing to be a host
+                  - Includes: name, personality, schedules, preferred co-host
+                  - In collaboration with HR
+              - Speaker Directory
+                  - Lists of speakers that could be invited for workshops and talks
+                  - Can be used in future events
+                  - Create write-ups about the speakers
+                  - In collaboration with Externals (Admin)
+
+          ### **Project Evaluation**
+
+          - Design and update a centralized platform for project evaluations, while spearheading project and core team evaluation meetings and consultations.
+
+        title: Responsibilities
     title: "\U0001F389 AVP for Project Management"
     video: >-
       <iframe width="560" height="315"
@@ -59,23 +86,20 @@ departmentsSection:
       during their term.
     positions:
       - description: >-
-          They are responsible for **leading the growth of the entire
-          organization** and also should be **open to mentoring the next set of
-          leaders for the organization**. The President is also responsible for
-          **coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
+          - Oversee all of the members’ tasks and make sure each one is on track with all their responsibilities
 
+          - To set deadlines for each role and ensure that it is followed
 
-          It’s recommended that the President has the skills of **excellent
-          communication, persuasion, and conflict management**. Furthermore,
-          they should possess **adaptability, clear judgment, and past
-          experience/s on leadership and team management** in order to
-          effectively guide the organization and its members towards growth.
-        title: About the Role
-    title: "\U0001F389 Events Project Manager"
+          - Will work closely with the AVPs from Events, Marketing, HR, and Finance and give weekly updates on the members and event progress
+
+          - In charge of preparing for potential risks
+
+          - In charge of communicating with other departments on what they need
+              - Includes creating meetings for these departments
+          - All around work—help members when they need something, communicate with other departments
+
+        title: Responsibilities
+    title: "\U0001F389 Project Manager"
     video: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
@@ -91,22 +115,16 @@ departmentsSection:
       during their term.
     positions:
       - description: >-
-          They are responsible for **leading the growth of the entire
-          organization** and also should be **open to mentoring the next set of
-          leaders for the organization**. The President is also responsible for
-          **coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
+          ### Team
 
+          - Programs Head, Logistics Head
 
-          It’s recommended that the President has the skills of **excellent
-          communication, persuasion, and conflict management**. Furthermore,
-          they should possess **adaptability, clear judgment, and past
-          experience/s on leadership and team management** in order to
-          effectively guide the organization and its members towards growth.
-        title: About the Role
+          ### Responsibilities
+
+          - Help Mentors-Mentees reserve venue for bonding
+          - Help Mentors align Program Flow
+
+        title: Responsibilities
     title: "\U0001F389 Mentorship Project Manager"
     video: >-
       <iframe width="560" height="315"
@@ -123,23 +141,22 @@ departmentsSection:
       during their term.
     positions:
       - description: >-
-          They are responsible for **leading the growth of the entire
-          organization** and also should be **open to mentoring the next set of
-          leaders for the organization**. The President is also responsible for
-          **coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
+          - In-charge of ideation and content creation with regards to program planning and flow
 
+          - To create programs and activities that are best suited for the venue and event
 
-          It’s recommended that the President has the skills of **excellent
-          communication, persuasion, and conflict management**. Furthermore,
-          they should possess **adaptability, clear judgment, and past
-          experience/s on leadership and team management** in order to
-          effectively guide the organization and its members towards growth.
-        title: About the Role
-    title: "\U0001F389 Programs Associate"
+          - Must be a creative thinker that can implement fresh and new ideas for the programs for each event
+
+          - In charge of handling the Program Flow of each Workshop
+
+          - In charge of Creating Icebreakers
+
+          - Help In Creating the Module and Suggesting Content For These Workshops
+
+          - In Charge of Monitoring the chat and handling the Q&A (ex .Creating a Poll for most voted questions)
+
+        title: Responsibilities
+    title: "\U0001F389 Programs Head"
     video: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
@@ -155,23 +172,16 @@ departmentsSection:
       during their term.
     positions:
       - description: >-
-          They are responsible for **leading the growth of the entire
-          organization** and also should be **open to mentoring the next set of
-          leaders for the organization**. The President is also responsible for
-          **coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
+        - In Charge of Handling the Online Platform Needed to Hold the Workshop (ex. Zoom)
 
+        - Prepare Other Materials Needed For the Workshop (ex. Videos or powerpoints needed by other Departments for You To Present, Music While waiting for more participants)
 
-          It’s recommended that the President has the skills of **excellent
-          communication, persuasion, and conflict management**. Furthermore,
-          they should possess **adaptability, clear judgment, and past
-          experience/s on leadership and team management** in order to
-          effectively guide the organization and its members towards growth.
-        title: About the Role
-    title: "\U0001F389 Logistics Associate"
+        - Must be prepared for potential risks (ex. Zoom link not working or zoom is lagging and you have to switch platforms)
+        
+        - In charge of Creating Sign-ups and post evals for these Workshops and keeping track of registrations
+
+        title: Responsiblities
+    title: "\U0001F389 Logistics Head"
     video: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
@@ -181,90 +191,47 @@ departmentsSection:
   - cardSectionTitle: Marketing
     cards: []
     description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
+      The AVP for Branding focuses on strengthening the brand and perception of the organization as well as its events and clients.
     positions:
       - description: >-
-          They are responsible for **leading the growth of the entire
-          organization** and also should be **open to mentoring the next set of
-          leaders for the organization**. The President is also responsible for
-          **coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
-
-
-          It’s recommended that the President has the skills of **excellent
-          communication, persuasion, and conflict management**. Furthermore,
-          they should possess **adaptability, clear judgment, and past
-          experience/s on leadership and team management** in order to
-          effectively guide the organization and its members towards growth.
-        title: About the Role
+        - Creates and designs appealing posters and visual collaterals to grab the attention of audiences.
+        - Oversees marketing campaigns and multimedia to be posted across print and online platforms to ensure that the organization is well represented and marketed.
+        - Manages the organization’s online presence on social media such as Instagram where the portfolio is showcased.
+        title: Responsibilities
     title: "\U0001f3a8 AVP for Branding"
     video: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   - cardSectionTitle: Marketing
     cards: []
     description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
+      The AVP for Strategic Engagement tracks the social media engagement of UXS social media platforms and creates engaging content to effectively advertise UXS initiatives.
     positions:
       - description: >-
-          They are responsible for **leading the growth of the entire
-          organization** and also should be **open to mentoring the next set of
-          leaders for the organization**. The President is also responsible for
-          **coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
-
-
-          It’s recommended that the President has the skills of **excellent
-          communication, persuasion, and conflict management**. Furthermore,
-          they should possess **adaptability, clear judgment, and past
-          experience/s on leadership and team management** in order to
-          effectively guide the organization and its members towards growth.
-        title: About the Role
+        - Oversees the management of the overall blast calendar across different platforms, for promotional materials across different events and initiatives.
+        - Leverages on social media insights to make data-driven decisions for marketing strategies.
+        - Ensures that the content and copies of promotional materials and captions are in line with the voice and brand guidelines of the organization.
+        title: Resonsibilities
     title: "\U0001f3a8 AVP for Strategic Engagement"
     video: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   - cardSectionTitle: Marketing
     cards: []
     description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
+      The AVP of Documentations handles taking photos and videos of events made, they also keep all media well-organized and stored safely, and leads the team that manages this documentation.
     positions:
       - description: >-
-          They are responsible for **leading the growth of the entire
-          organization** and also should be **open to mentoring the next set of
-          leaders for the organization**. The President is also responsible for
-          **coordinating with LIONS, Ateneo admin and other offices, as well as
-          external UX Society chapters**. They shall be willing to guide
-          interested students outside of Ateneo de Manila that may be interested
-          in founding their own UX Society chapter for their respective
-          universities.
-
-
-          It’s recommended that the President has the skills of **excellent
-          communication, persuasion, and conflict management**. Furthermore,
-          they should possess **adaptability, clear judgment, and past
-          experience/s on leadership and team management** in order to
-          effectively guide the organization and its members towards growth.
-        title: About the Role
+        - Document organizational events and activities through photos and videos, ensuring high quality and relevance.
+        - Create and maintain a comprehensive archive of all media content, ensuring proper labeling and long-term storage.
+        - Oversee and manage the documentation team, providing guidance and support to ensure effective and efficient media capturing and handling.
+        title: Responsibilities
     title: "\U0001f3a8 AVP for Documentations"
     video: >-
       <iframe width="560" height="315"
