@@ -2,7 +2,7 @@
 templateKey: home-page
 slug: /
 defaultColor: '#15202b'
-primaryColor: '#3FB4FF '
+primaryColor: '#3FB4FF'
 secondaryColor: '#F9ADAE'
 backgroundColor: '#FFFEF5'
 footerColor: '#EE8788'
@@ -15,7 +15,7 @@ headerSection:
   buttonVisible: true
   title: UX Society Applications
 heroSection:
-  description: "Hey there, UX-er! Ready to jumpstart your UX leadership career for **A.Y. 2024-2025**? Read through the primer and see which available position would fit you best. \U0001F440 Interested? Don’t forget to apply!"
+  description: "Hey there, UX-er! Ready to jumpstart your UX leadership career for **A.Y. 2024-2025**? Read through the primer and see which available position would fit you best. 👀 Interested? Don’t forget to apply!"
   title: EXPERIENCE LEADERSHIP WITH UX SOCIETY
 departmentsSection:
   - cardSectionTitle: Events
@@ -30,9 +30,8 @@ departmentsSection:
          *Eg. The Design in Data Visualization: a Series of Workshops, TALAB 2024*
 
       3. **Mentorship** - Refining programs and learning spaces for mentors and mentees under the UX Design Department
-
     positions:
-      - description: >-
+      - description: >
           ### **Team**
 
           - Project Manager, Programs, Logistics, Mentorship Project Manager
@@ -70,10 +69,10 @@ departmentsSection:
           - Design and update a centralized platform for project evaluations, while spearheading project and core team evaluation meetings and consultations.
 
         title: Responsibilities
-    title: "\U0001F389 AVP for Project Management"
+    title: "🎉 AVP for Project Management"
     video: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
+      src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -87,22 +86,18 @@ departmentsSection:
     positions:
       - description: >-
           - Oversee all of the members’ tasks and make sure each one is on track with all their responsibilities
-
           - To set deadlines for each role and ensure that it is followed
-
           - Will work closely with the AVPs from Events, Marketing, HR, and Finance and give weekly updates on the members and event progress
-
           - In charge of preparing for potential risks
-
           - In charge of communicating with other departments on what they need
               - Includes creating meetings for these departments
           - All around work—help members when they need something, communicate with other departments
 
         title: Responsibilities
-    title: "\U0001F389 Project Manager"
+    title: "🎉 Project Manager"
     video: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
+      src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -125,41 +120,31 @@ departmentsSection:
           - Help Mentors align Program Flow
 
         title: Responsibilities
-    title: "\U0001F389 Mentorship Project Manager"
+    title: "🎉 Mentorship Project Manager"
     video: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
+      src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
+
   - cardSectionTitle: Events
     cards: []
     description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
     positions:
       - description: >-
           - In-charge of ideation and content creation with regards to program planning and flow
-
           - To create programs and activities that are best suited for the venue and event
-
           - Must be a creative thinker that can implement fresh and new ideas for the programs for each event
-
           - In charge of handling the Program Flow of each Workshop
-
           - In charge of Creating Icebreakers
-
           - Help In Creating the Module and Suggesting Content For These Workshops
-
-          - In Charge of Monitoring the chat and handling the Q&A (ex .Creating a Poll for most voted questions)
+          - In Charge of Monitoring the chat and handling the Q&A (ex. Creating a Poll for most voted questions)
 
         title: Responsibilities
-    title: "\U0001F389 Programs Head"
+    title: "🎉 Programs Head"
     video: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
+      src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -172,19 +157,16 @@ departmentsSection:
       during their term.
     positions:
       - description: >-
-        - In Charge of Handling the Online Platform Needed to Hold the Workshop (ex. Zoom)
+          - In Charge of Handling the Online Platform Needed to Hold the Workshop (ex. Zoom)
+          - Prepare Other Materials Needed For the Workshop (ex. Videos or powerpoints needed by other Departments for You To Present, Music While waiting for more participants)
+          - Must be prepared for potential risks (ex. Zoom link not working or zoom is lagging and you have to switch platforms)
+          - In charge of Creating Sign-ups and post evals for these Workshops and keeping track of registrations
 
-        - Prepare Other Materials Needed For the Workshop (ex. Videos or powerpoints needed by other Departments for You To Present, Music While waiting for more participants)
-
-        - Must be prepared for potential risks (ex. Zoom link not working or zoom is lagging and you have to switch platforms)
-        
-        - In charge of Creating Sign-ups and post evals for these Workshops and keeping track of registrations
-
-        title: Responsiblities
-    title: "\U0001F389 Logistics Head"
+        title: Responsibilities
+    title: "🎉 Logistics Head"
     video: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
+      src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -194,14 +176,17 @@ departmentsSection:
       The AVP for Branding focuses on strengthening the brand and perception of the organization as well as its events and clients.
     positions:
       - description: >-
-        - Creates and designs appealing posters and visual collaterals to grab the attention of audiences.
-        - Oversees marketing campaigns and multimedia to be posted across print and online platforms to ensure that the organization is well represented and marketed.
-        - Manages the organization’s online presence on social media such as Instagram where the portfolio is showcased.
+          - Creates and designs appealing posters and visual collaterals to grab the attention of audiences.
+          
+          - Oversees marketing campaigns and multimedia to be posted across print and online platforms to ensure that the organization is well represented and marketed.
+          
+          - Manages the organization’s online presence on social media such as Instagram where the portfolio is showcased.
+
         title: Responsibilities
-    title: "\U0001f3a8 AVP for Branding"
+    title: "🎨 AVP for Branding"
     video: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
+      src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -211,14 +196,17 @@ departmentsSection:
       The AVP for Strategic Engagement tracks the social media engagement of UXS social media platforms and creates engaging content to effectively advertise UXS initiatives.
     positions:
       - description: >-
-        - Oversees the management of the overall blast calendar across different platforms, for promotional materials across different events and initiatives.
-        - Leverages on social media insights to make data-driven decisions for marketing strategies.
-        - Ensures that the content and copies of promotional materials and captions are in line with the voice and brand guidelines of the organization.
-        title: Resonsibilities
-    title: "\U0001f3a8 AVP for Strategic Engagement"
+          - Oversees the management of the overall blast calendar across different platforms, for promotional materials across different events and initiatives.
+          
+          - Leverages on social media insights to make data-driven decisions for marketing strategies.
+          
+          - Ensures that the content and copies of promotional materials and captions are in line with the voice and brand guidelines of the organization.
+
+        title: Responsibilities
+    title: "🎨 AVP for Strategic Engagement"
     video: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
+      src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -228,15 +216,17 @@ departmentsSection:
       The AVP of Documentations handles taking photos and videos of events made, they also keep all media well-organized and stored safely, and leads the team that manages this documentation.
     positions:
       - description: >-
-        - Document organizational events and activities through photos and videos, ensuring high quality and relevance.
-        - Create and maintain a comprehensive archive of all media content, ensuring proper labeling and long-term storage.
-        - Oversee and manage the documentation team, providing guidance and support to ensure effective and efficient media capturing and handling.
+          - Document organizational events and activities through photos and videos, ensuring high quality and relevance.
+          
+          - Create and maintain a comprehensive archive of all media content, ensuring proper labeling and long-term storage.
+
+          - Oversee and manage the documentation team, providing guidance and support to ensure effective and efficient media capturing and handling.
+
         title: Responsibilities
-    title: "\U0001f3a8 AVP for Documentations"
+    title: "🎨 AVP for Documentations"
     video: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/GWigEHMxlGY" title="YouTube video
+      src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
-

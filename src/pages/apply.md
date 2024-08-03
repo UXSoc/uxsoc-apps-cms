@@ -1,7 +1,7 @@
 ---
 templateKey: apply-page
 slug: /apply
-primaryColor: '#04A0E8 '
+primaryColor: '#3FB4FF '
 footerColor: '#FBDD8F '
 seo:
   siteDescription: >-
@@ -10,7 +10,7 @@ seo:
   siteTitle: Show Interest
 headerSection:
   buttonVisible: true
-  title: UX Society EB Interest Check
+  title: UX Society Applications
 links:
   - 'https://airtable.com/shrWXB4JAEOTgpkbj'
 ---
