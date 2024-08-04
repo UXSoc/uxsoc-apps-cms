@@ -17,19 +17,121 @@ headerSection:
 heroSection:
   description: "Hey there, UX-er! Ready to jumpstart your UX leadership career for **A.Y. 2024-2025**? Read through the primer and see which available position would fit you best. 👀 Interested? Don’t forget to apply!"
   title: EXPERIENCE LEADERSHIP WITH UX SOCIETY
+  
+
 departmentsSection:
+# ====================================================================================================
+  - cardSectionTitle: The Chief Organizer
+    cards: []
+    description: |
+      The SecGen is in charge of refining the documentation of the organizational meetings and processes. Also, the SecGen is the chief coordinator for all tasks of the executive board member. He or she ensures that the process and methodology of documentation is deliberate and well-facilitated for a quality output.
+    
+    positions:
+      - description: >
+          Some responsibilities/tasks include 
+            <strong> setting up important internal meetings while following respective agendas</strong>, 
+            <strong> creating an organized Google Drive</strong>
+          (or any other platform) available to the team, 
+            <strong> updating the Code of Internal Procedures</strong>, 
+          and 
+            <strong> refining the organizational constitution</strong>. 
+          The Secretary General also oversees the Associate Vice Presidents in their documentation and other refinements of department-specific needs and documentations
+          
+          <br><br>
+          It’s recommended that SecGen is detail-oriented, a team player, a facilitator, a critical listener, and passionately champions quality standards. Past experiences on quick and effective note-taking and facilitation is also recommended.
+
+        title: Responsibilities
+    title: "🗃 Secretary General"
+    video: >-
+      <iframe width="560" height="315"
+      src="" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# ====================================================================================================
+  - cardSectionTitle:  The Design Educator
+    cards: []
+    description: |
+      The VP for UX Design is in charge of leading the UX education efforts through client projects and events.
+    
+    positions:
+      - description: >
+          <p>He or she ensures that <strong>product design</strong> (with a focus on UX) <strong>is effectively taught throughout the organization</strong> by collaborating with different departments in <strong>executing design-related events</strong>, while also <strong>making sure that quality is executed in all digital products created for clients</strong>.It is recommended that the VP for UX Design has <strong>past experience not only in product design, but also profound knowledge in user research, visual design, and usability</strong>. The VP for UX Design must also have <strong>experience in mentorship and collaboration</strong>, and if possible, <strong>product management</strong>.The VP for UX Design works hand in hand with the VP for Consultancy in managing the UXDC team.</p>
+
+        title: Responsibilities
+    title: "📝 VP for UX Design"
+    video: >-
+      <iframe width="560" height="315"
+      src="" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# ====================================================================================================
+  - cardSectionTitle:  The Design Educator
+    cards: []
+    description: |
+      The VP for Externals has the responsibility of being the face of the organization and ensuring a good rapport with our dear partners and sponsors, both long-term and short-term.
+    
+    positions:
+      - description: >
+
+      
+          <p>The VP <strong>works closely with departments that have major events and projects</strong>. This includes <strong>preparing sponsorship &amp; media partnership packages</strong>, <strong>emailing partners</strong>, <strong>assuring fulfillment of terms in partnerships</strong>, and <strong>settling MOAs with the organization or corporation partners in person</strong>. </p>
+
+          <p>Additionally, the VP for Externals is in charge of <strong>creating strategies for bettering relationships with current and former partners</strong> as well as <strong>expanding the UX Society networks and devising better channels for long-term engagement</strong>.</p>
+
+          <p>He/she should have prior experience in the <strong>creation of MoAs</strong>, as well as <strong>sponsorship and partnership packages</strong>. The VP should also create a <strong>system to efficiently track the partnerships and sponsorships ongoing for the organization</strong>, and f<strong>oster the development and skillsets of the AVPs of Sponsorships and Partnerships</strong>.</p>
+
+        title: About the Role
+      - description: >
+          Major tasks include:
+            - Partnerships
+            - Communication and Meetings with Partners
+
+            -  MoA handling and securing
+
+            - Partnerships tracking
+
+            - Partnerships fulfillments
+
+            - Creating Partnership Packages
+            
+            - Update guides, checklists &amp; databases
+
+        title: Department-specific Key Responsibilities
+    title: "🤝 VP for Externals"
+    video: >-
+      <iframe width="560" height="315"
+      src="" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# ====================================================================================================
+# █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+# █░░░░░░░░░░░░░░█░░░░░░██░░░░░░█░░░░░░░░░░░░░░████░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░██████████░░░░░░█░░░░░░░░░░░░░░█
+# █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░████░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░░░░░░░░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
+# █░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░████░░▄▀░░░░░░▄▀░░█░░▄▀░░░░░░▄▀░░█░░▄▀░░░░░░░░░░█░░░░░░▄▀░░░░░░█░░░░▄▀░░░░█░░▄▀░░░░░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░█
+# █░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░████░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░█████████████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░██░░▄▀░░█░░▄▀░░█████████
+# █░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░████░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░█████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░█
+# █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░████░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
+# █░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░████░░▄▀░░░░░░░░░░█░░▄▀░░██░░▄▀░░█░░░░░░░░░░▄▀░░█████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░░░░░░░░░▄▀░░█
+# █░░▄▀░░██░░▄▀░░█░░▄▀▄▀░░▄▀▄▀░░█░░▄▀░░████████████░░▄▀░░█████████░░▄▀░░██░░▄▀░░█████████░░▄▀░░█████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░░░░░▄▀░░█████████░░▄▀░░█
+# █░░▄▀░░██░░▄▀░░█░░░░▄▀▄▀▄▀░░░░█░░▄▀░░████████████░░▄▀░░█████████░░▄▀░░░░░░▄▀░░█░░░░░░░░░░▄▀░░█████░░▄▀░░█████░░░░▄▀░░░░█░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀▄▀▄▀▄▀▄▀░░█░░░░░░░░░░▄▀░░█
+# █░░▄▀░░██░░▄▀░░███░░░░▄▀░░░░███░░▄▀░░████████████░░▄▀░░█████████░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█████░░▄▀░░█████░░▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░░░░░░░░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
+# █░░░░░░██░░░░░░█████░░░░░░█████░░░░░░████████████░░░░░░█████████░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█████░░░░░░█████░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░██████████░░░░░░█░░░░░░░░░░░░░░█
+# █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+# ====================================================================================================
+
+
+# ====================================================================================================
+# █████████████████████████
+# █▄─▄▄─█▄─█─▄█─▄─▄─█─▄▄▄▄█
+# ██─▄█▀██▄▀▄████─███▄▄▄▄─█
+# ▀▄▄▄▄▄▀▀▀▄▀▀▀▀▄▄▄▀▀▄▄▄▄▄▀
+# ====================================================================================================
   - cardSectionTitle: Events
     cards: []
     description: |
-      The AVP for Project Management can opt to focus on a specific category of events as listed below:
-
-      1. **Flagship** - yearly events that enhance UXS' exposure to the community.
-         *Eg. GA, UX University*
-
-      2. **Special** - events that don't happen every year and could be open to all or limited to org members. It is a project that contains a series of workshops, talks, seminars, etc., which focuses on sharing information and ensuring a positive learning environment.
-         *Eg. The Design in Data Visualization: a Series of Workshops, TALAB 2024*
-
-      3. **Mentorship** - Refining programs and learning spaces for mentors and mentees under the UX Design Department
+      The AVP for Project Management is responsible for overseeing events and initiatives, such as the Flagship, Special, and Mentorship categories. This role involves managing workshops, seminars, and training sessions across all departments, as well as for their respective members.
+    
     positions:
       - description: >
           ### **Team**
@@ -75,22 +177,24 @@ departmentsSection:
       src="" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+# ====================================================================================================
   - cardSectionTitle: Events
     cards: []
     description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
+      The Project Manager is responsible for overseeing and coordinating team tasks and event progress.
     positions:
       - description: >-
           - Oversee all of the members’ tasks and make sure each one is on track with all their responsibilities
+
           - To set deadlines for each role and ensure that it is followed
+
           - Will work closely with the AVPs from Events, Marketing, HR, and Finance and give weekly updates on the members and event progress
+
           - In charge of preparing for potential risks
+
           - In charge of communicating with other departments on what they need
               - Includes creating meetings for these departments
+
           - All around work—help members when they need something, communicate with other departments
 
         title: Responsibilities
@@ -101,44 +205,55 @@ departmentsSection:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# ====================================================================================================
+  # - cardSectionTitle: Events
+  #   cards: []
+  #   description: >-
+  #     The President is the highest ranking executive in the organization. They
+  #     are in charge of establishing the vision and mission for the organization
+  #     and making sure it can be translated to a portfolio of projects and events
+  #     during their term.
+  #   positions:
+  #     - description: >-
+  #         ### Team
+
+  #         - Programs Head, Logistics Head
+
+  #         ### Responsibilities
+
+  #         - Help Mentors-Mentees reserve venue for bonding
+  #         - Help Mentors align Program Flow
+
+  #       title: Responsibilities
+  #   title: "🎉 Mentorship Project Manager"
+  #   video: >-
+  #     <iframe width="560" height="315"
+  #     src="" title="YouTube video
+  #     player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  #     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# ====================================================================================================
+
   - cardSectionTitle: Events
     cards: []
     description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
+      The Programs Head is responsible for ideation and content creation related to program planning and execution.
+
     positions:
       - description: >-
-          ### Team
+           - In-charge of ideation and content creation with regards to program planning and flow
 
-          - Programs Head, Logistics Head
+           - To create programs and activities that are best suited for the venue and event
 
-          ### Responsibilities
+           - Must be a creative thinker that can implement fresh and new ideas for the programs for each event
 
-          - Help Mentors-Mentees reserve venue for bonding
-          - Help Mentors align Program Flow
+           - In charge of handling the Program Flow of each Workshop
 
-        title: Responsibilities
-    title: "🎉 Mentorship Project Manager"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           - In charge of Creating Icebreakers
+           
+           - Help In Creating the Module and Suggesting Content For These Workshops
 
-  - cardSectionTitle: Events
-    cards: []
-    description: >-
-    positions:
-      - description: >-
-          - In-charge of ideation and content creation with regards to program planning and flow
-          - To create programs and activities that are best suited for the venue and event
-          - Must be a creative thinker that can implement fresh and new ideas for the programs for each event
-          - In charge of handling the Program Flow of each Workshop
-          - In charge of Creating Icebreakers
-          - Help In Creating the Module and Suggesting Content For These Workshops
-          - In Charge of Monitoring the chat and handling the Q&A (ex. Creating a Poll for most voted questions)
+           - In Charge of Monitoring the chat and handling the Q&A (ex. Creating a Poll for most voted questions)
 
         title: Responsibilities
     title: "🎉 Programs Head"
@@ -148,18 +263,26 @@ departmentsSection:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# ====================================================================================================
+# █████████████████████
+# █▄─▀█▀─▄█▄─█─▄█─▄─▄─█
+# ██─█▄█─███─▄▀████─███
+# ▀▄▄▄▀▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀
+# ====================================================================================================
+
   - cardSectionTitle: Events
     cards: []
     description: >-
-      The President is the highest ranking executive in the organization. They
-      are in charge of establishing the vision and mission for the organization
-      and making sure it can be translated to a portfolio of projects and events
-      during their term.
+      The Logistics is responsible for handling the technical and material needs for workshops.
+
     positions:
       - description: >-
           - In Charge of Handling the Online Platform Needed to Hold the Workshop (ex. Zoom)
+
           - Prepare Other Materials Needed For the Workshop (ex. Videos or powerpoints needed by other Departments for You To Present, Music While waiting for more participants)
+
           - Must be prepared for potential risks (ex. Zoom link not working or zoom is lagging and you have to switch platforms)
+
           - In charge of Creating Sign-ups and post evals for these Workshops and keeping track of registrations
 
         title: Responsibilities
@@ -170,11 +293,12 @@ departmentsSection:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# ====================================================================================================
   - cardSectionTitle: Marketing
     cards: []
     description: >-
       The AVP for Branding focuses on strengthening the brand and perception of the organization as well as its events and clients.
-    positions:
+    positions: 
       - description: >-
           - Creates and designs appealing posters and visual collaterals to grab the attention of audiences.
           
@@ -190,6 +314,7 @@ departmentsSection:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# ====================================================================================================
   - cardSectionTitle: Marketing
     cards: []
     description: >-
@@ -210,6 +335,7 @@ departmentsSection:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# ====================================================================================================
   - cardSectionTitle: Marketing
     cards: []
     description: >-
