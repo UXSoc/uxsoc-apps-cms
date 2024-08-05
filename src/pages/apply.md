@@ -12,6 +12,6 @@ headerSection:
   buttonVisible: true
   title: UX Society Applications
 links:
-  - 'https://airtable.com/shrWXB4JAEOTgpkbj'
+  - 'https://airtable.com/appORFJlLnpHRvrpJ/shrk0VwNxcn0FbZIn'
 ---
 

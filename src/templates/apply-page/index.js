@@ -40,23 +40,20 @@ export const ApplyPageTemplate = ({ links }) => {
   }, [tab])
 
   console.log(tab, currentLink)
-  
+
   return (
     <Fragment>
       <FormsContainer>
         <ul className="styled-tabs">
           <li className={tab === 0 ? "tab active-tab" : "tab"} onClick={() => setTab(0)} active={tab === 0}>
-            Applying for AVP
-          </li>
-          <li className={tab === 1 ? "tab active-tab" : "tab"} onClick={() => setTab(1)} active={tab === 1}>
-            Applying for Pool
+            Application Form
           </li>
         </ul>
         <div>
           <iframe
             className="airtable-embed"
             title="airtable"
-            src={currentLink}
+            src="https://airtable.com/embed/appORFJlLnpHRvrpJ/shrk0VwNxcn0FbZIn"
             frameborder="0"
             onmousewheel=""
             width="100%"
@@ -90,7 +87,6 @@ const ApplyPage = ({ data }) => {
     <Layout
       slug={slug}
       seo={seo}
-      header={headerSection}
       header={headerSection}
       primary={primaryColor}
       footerColor={footerColor}
