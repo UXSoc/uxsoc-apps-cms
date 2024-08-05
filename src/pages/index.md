@@ -21,6 +21,23 @@ heroSection:
 
 departmentsSection:
 # ====================================================================================================
+  - cardSectionTitle:  The Design Educator
+    cards: []
+    description: |
+      The VP for UX Design is in charge of leading the UX education efforts through client projects and events.
+    
+    positions:
+      - description: >
+          <p>He or she ensures that <strong>product design</strong> (with a focus on UX) <strong>is effectively taught throughout the organization</strong> by collaborating with different departments in <strong>executing design-related events</strong>, while also <strong>making sure that quality is executed in all digital products created for clients</strong>.It is recommended that the VP for UX Design has <strong>past experience not only in product design, but also profound knowledge in user research, visual design, and usability</strong>. The VP for UX Design must also have <strong>experience in mentorship and collaboration</strong>, and if possible, <strong>product management</strong>.The VP for UX Design works hand in hand with the VP for Consultancy in managing the UXDC team.</p>
+
+        title: Responsibilities
+    title: "💻 VP for UX Design"
+    video: >-
+      <iframe width="560" height="315"
+      src="" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# ====================================================================================================
   - cardSectionTitle: The Chief Organizer
     cards: []
     description: |
@@ -42,63 +59,6 @@ departmentsSection:
 
         title: Responsibilities
     title: "🗃 Secretary General"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# ====================================================================================================
-  - cardSectionTitle:  The Design Educator
-    cards: []
-    description: |
-      The VP for UX Design is in charge of leading the UX education efforts through client projects and events.
-    
-    positions:
-      - description: >
-          <p>He or she ensures that <strong>product design</strong> (with a focus on UX) <strong>is effectively taught throughout the organization</strong> by collaborating with different departments in <strong>executing design-related events</strong>, while also <strong>making sure that quality is executed in all digital products created for clients</strong>.It is recommended that the VP for UX Design has <strong>past experience not only in product design, but also profound knowledge in user research, visual design, and usability</strong>. The VP for UX Design must also have <strong>experience in mentorship and collaboration</strong>, and if possible, <strong>product management</strong>.The VP for UX Design works hand in hand with the VP for Consultancy in managing the UXDC team.</p>
-
-        title: Responsibilities
-    title: "📝 VP for UX Design"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-# ====================================================================================================
-  - cardSectionTitle:  The Design Educator
-    cards: []
-    description: |
-      The VP for Externals has the responsibility of being the face of the organization and ensuring a good rapport with our dear partners and sponsors, both long-term and short-term.
-    
-    positions:
-      - description: >
-
-      
-          <p>The VP <strong>works closely with departments that have major events and projects</strong>. This includes <strong>preparing sponsorship &amp; media partnership packages</strong>, <strong>emailing partners</strong>, <strong>assuring fulfillment of terms in partnerships</strong>, and <strong>settling MOAs with the organization or corporation partners in person</strong>. </p>
-
-          <p>Additionally, the VP for Externals is in charge of <strong>creating strategies for bettering relationships with current and former partners</strong> as well as <strong>expanding the UX Society networks and devising better channels for long-term engagement</strong>.</p>
-
-          <p>He/she should have prior experience in the <strong>creation of MoAs</strong>, as well as <strong>sponsorship and partnership packages</strong>. The VP should also create a <strong>system to efficiently track the partnerships and sponsorships ongoing for the organization</strong>, and f<strong>oster the development and skillsets of the AVPs of Sponsorships and Partnerships</strong>.</p>
-
-        title: About the Role
-      - description: >
-          Major tasks include:
-            - Partnerships
-            - Communication and Meetings with Partners
-
-            -  MoA handling and securing
-
-            - Partnerships tracking
-
-            - Partnerships fulfillments
-
-            - Creating Partnership Packages
-            
-            - Update guides, checklists &amp; databases
-
-        title: Department-specific Key Responsibilities
-    title: "🤝 VP for Externals"
     video: >-
       <iframe width="560" height="315"
       src="" title="YouTube video
@@ -273,7 +233,7 @@ departmentsSection:
   - cardSectionTitle: Events
     cards: []
     description: >-
-      The Logistics is responsible for handling the technical and material needs for workshops.
+      The Logistics Head is responsible for handling the technical and material needs for workshops.
 
     positions:
       - description: >-
