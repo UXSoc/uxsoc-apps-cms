@@ -82,6 +82,13 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/positions`,
+        name: 'positions',
+      }
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
