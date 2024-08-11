@@ -99,7 +99,7 @@ export const HomePageQuery = graphql`
           description
           positions {
             title
-            description
+            link
           }
         }
       }
