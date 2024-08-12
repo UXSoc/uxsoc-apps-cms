@@ -8,3 +8,4 @@
 
 import 'normalize.css'
 import './src/assets/css/main.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
