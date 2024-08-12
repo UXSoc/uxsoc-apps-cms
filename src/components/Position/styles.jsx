@@ -26,7 +26,7 @@ export const CardContainer = styled.div`
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.05em;
-
+  font-family: Proxima Nova;
   width: 100%;
   margin: 16px 0;
 `

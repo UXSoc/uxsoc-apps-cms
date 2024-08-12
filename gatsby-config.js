@@ -20,7 +20,7 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-netlify-cms',
+      resolve: 'gatsby-plugin-decap-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
         publicPath: `admin`,
@@ -80,6 +80,13 @@ module.exports = {
         path: `${__dirname}/src/pages`,
         name: 'pages',
       },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/positions`,
+        name: 'positions',
+      }
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
