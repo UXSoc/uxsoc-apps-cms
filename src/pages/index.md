@@ -24,7 +24,7 @@ departmentsSection:
   - title: Events
     cards: []
     description: |
-      
+      Event department description
     positions:
       - title: AVP for Project Management
         link: /events/avp-project-management
@@ -32,7 +32,7 @@ departmentsSection:
   - title: Marketing
     cards: []
     description: |
-      
+      Marketing department description
     positions:
       - title: AVP for Branding
         link: /marketing/avp-branding

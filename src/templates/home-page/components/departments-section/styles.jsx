@@ -1,23 +1,5 @@
 import styled from 'styled-components'
 
-export const TabContainer = styled.div`
-    margin-top: 20px;
-    margin-bottom: 20px;
-`
-
-export const DeptTabs = styled.div`
-    overflow: hidden;
-    width: 80vw;
-    margin: auto;
-    text-align: center;
-
-    &.active {
-        cursor: pointer;
-        background-color: ${props => props.primary};
-        color: white;
-        font-weight: bold;
-    }
-`
 
 export const Button = styled.button`
     font-family: Proxima Nova;
