@@ -2,12 +2,14 @@ import React, { Fragment } from "react"
 import Layout from "../../components/layout"
 import Position from "../../components/Position"
 import { graphql } from "gatsby"
+import { Container } from "react-bootstrap"
 
 export default function PositionPageTemplate({data}) {
     const { frontmatter } = data.markdownRemark
     const {
         slug,
         seo,
+        backgroundColor,
         primaryColor,
         footerColor,
         title,
@@ -27,12 +29,16 @@ export default function PositionPageTemplate({data}) {
             footerColor={footerColor}
             >
             <Fragment>
-                <Position
-                    title={title}
-                    description={description}
-                    primary={primaryColor}
-                    footer={footerColor}
-                />
+                <main style={{ background: `${backgroundColor}` }}>
+                    <Container>
+                        <Position
+                            title={title}
+                            description={description}
+                            primary={primaryColor}
+                            footer={footerColor}
+                        />
+                    </Container>
+                </main>
             </Fragment>
             
         </Layout>
@@ -44,6 +50,7 @@ export const PositionPageQuery = graphql`
         markdownRemark(id: { eq: $id }) {
             frontmatter {
                 slug
+                backgroundColor
                 primaryColor
                 footerColor
                 seo {

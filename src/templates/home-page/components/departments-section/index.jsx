@@ -1,6 +1,8 @@
 import React, { useState, useCallback } from "react"
 import Department from "../../../../components/Department"
-import { TabContainer, DeptTabs, Button } from "./styles"
+import { Button } from "./styles"
+import { Header } from "../../../../components/styles"
+import { Container, Row, Col } from "react-bootstrap"
 
 const DepartmentsSection = ({
   departmentsSection,
@@ -36,9 +38,10 @@ const DepartmentsSection = ({
   }
 
   return (
-    <div>
-      <TabContainer>
-        <DeptTabs primary={primaryColor}>
+    <Container>
+      <Row>
+        <Col sm={12} md={6}>
+          <Header id="open-positions" footer={footerColor}>Open positions</Header>
           {departmentsSection.map((department, index) => (
             <Button
               primary={primaryColor}
@@ -52,10 +55,12 @@ const DepartmentsSection = ({
               {department.title}
             </Button>
           ))}
-        </DeptTabs>
-      </TabContainer>
-      {renderDepartment()}
-    </div>
+        </Col>
+        <Col sm={12} md={6}>
+          {renderDepartment()}
+        </Col>
+      </Row>
+    </Container>
   )
 }
 
