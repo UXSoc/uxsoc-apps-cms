@@ -1,5 +1,6 @@
 ---
 templateKey: position-page
+backgroundColor: '#FFFEF5'
 primaryColor: '#3FB4FF '
 footerColor: '#FBDD8F '
 seo:

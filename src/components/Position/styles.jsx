@@ -31,11 +31,11 @@ export const CardContainer = styled.div`
   margin: 16px 0;
 `
 
-export const Title = styled.h4`
-  font-size: 20px;
+export const Title = styled.h2`
   line-height: 30px;
   letter-spacing: 0.05em;
   color: ${props => props.primary};
   font-weight: bold;
   margin-top: 20px;
+  margin-bottom: 20px;
 `
