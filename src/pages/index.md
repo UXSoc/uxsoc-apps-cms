@@ -17,7 +17,41 @@ headerSection:
 heroSection:
   description: "User Experience Society is a student-run organization that advocates and practices human-centered design. We combine this with a growth mindset, to create a strong mentorship culture that raises design leaders who are capable of creating positive change in the community."
   title: Join UX Society
-  
+
+cardSection:
+  card1:
+    title: Our culture ...
+    description: >- 
+        item1 (two spaces needed to render a newline)
+        
+
+        item2
+
+
+        item3
+
+
+
+  card2:
+    title: title2
+    description: >- 
+        abc
+        
+
+        def
+
+
+        ghi
+  card3:
+    title: title3
+    description: >- 
+        i
+        
+
+        love
+
+
+        philo
 
 departmentsSection:
 # ====================================================================================================
