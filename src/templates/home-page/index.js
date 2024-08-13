@@ -15,7 +15,7 @@ export const HomePageTemplate = ({
   footerColor,
 }) => (
   <Fragment>
-    <main style={{ background: `${backgroundColor}` }}>
+    <main style={{ background: `${backgroundColor}`, padding:'0' }}>
       <HeroSection
         heroSection={heroSection}
         defaultColor={defaultColor}
