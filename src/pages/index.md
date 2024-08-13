@@ -15,8 +15,8 @@ headerSection:
   buttonVisible: true
   title: UX Society Applications
 heroSection:
-  description: "Hey there, UX-er! Ready to jumpstart your UX leadership career for **A.Y. 2024-2025**? Read through the primer and see which available position would fit you best. 👀 Interested? Don’t forget to apply!"
-  title: EXPERIENCE LEADERSHIP WITH UX SOCIETY
+  description: "User Experience Society is a student-run organization that advocates and practices human-centered design. We combine this with a growth mindset, to create a strong mentorship culture that raises design leaders who are capable of creating positive change in the community."
+  title: Join UX Society
   
 
 departmentsSection:
