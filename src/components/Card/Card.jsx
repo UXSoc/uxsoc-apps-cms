@@ -10,12 +10,11 @@ const Card = ({ title, description, footer, children }) => (
     <Description
       footer={footer}
       // dangerouslySetInnerHTML={{
-      //   __html: description,
-      //   // remark()
-      //   //   .use(recommended)
-      //   //   .use(remarkHtml)
-      //   //   .processSync(description)
-      //   //   .toString(),
+      //   __html:remark()
+      //     .use(recommended)
+      //     .use(remarkHtml)
+      //     .processSync(description)
+      //     .toString(),
       // }}
     >
       {children}

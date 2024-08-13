@@ -3,10 +3,12 @@ import Layout from "../../components/layout"
 import { graphql } from "gatsby"
 
 import HeroSection from "./components/hero-section"
+import CardSection from "./components/cards-section"
 import DepartmentsSection from "./components/departments-section"
 
 export const HomePageTemplate = ({
   heroSection,
+  cardSection,
   departmentsSection,
   backgroundColor,
   primaryColor,
@@ -20,6 +22,13 @@ export const HomePageTemplate = ({
         heroSection={heroSection}
         defaultColor={defaultColor}
         primaryColor={primaryColor}
+      />
+      <CardSection
+        cardSection={cardSection}
+        defaultColor={defaultColor}
+        primaryColor={primaryColor}
+        secondaryColor={secondaryColor}
+        footerColor={footerColor}
       />
       <DepartmentsSection
         departmentsSection={departmentsSection}
@@ -45,6 +54,7 @@ const HomePage = ({ data }) => {
     footerColor,
     headerSection,
     heroSection,
+    cardSection,
     departmentsSection,
   } = frontmatter
   return (
@@ -58,6 +68,7 @@ const HomePage = ({ data }) => {
       <HomePageTemplate
         {...{
           heroSection,
+          cardSection,
           departmentsSection,
           backgroundColor,
           primaryColor,
@@ -93,6 +104,20 @@ export const HomePageQuery = graphql`
         heroSection {
           title
           description
+        }
+        cardSection {
+          card1 {
+            title
+            description
+          }
+          card2 {
+            title
+            description
+          }
+          card3 {
+            title
+            description
+          }
         }
         departmentsSection {
           title
