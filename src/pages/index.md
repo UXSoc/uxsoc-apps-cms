@@ -54,7 +54,7 @@ departmentsSection:
   - title: Admin
     cards: []
     description: |
-      Admin department description
+      We're here to help you grow - whether you're into design, development, finance, or events and people management, you'll find a place in UXSoc!
     positions:
       - title: Secretary General
         link: /admin/secretary-general
@@ -62,7 +62,7 @@ departmentsSection:
   - title: UX Design
     cards: []
     description: |
-      UX Design department description
+      The UX Design Department is the core of UXSoc that advocates the practice and education of user experience. The department handles the product design side of client projects from in and outside of Ateneo, as well as provide mentorship on the field of UX Design.
     positions:
       - title: VP for UX Design
         link: /ux/vp-ux-design
@@ -72,14 +72,12 @@ departmentsSection:
   - title: Events
     cards: []
     description: |
-      Event department description
+      Being a designer does not happen overnight. The Events Department designs event experiences that nurture the growth of the members of UXSoc.
     positions:
       - title: AVP for Project Management
         link: /events/avp-project-management
       - title: Project Manager
         link: /events/project-manager
-      - title: Mentorship Project Manager
-        link: /events/mentorship-project-manager
       - title: Programs Head
         link: /events/programs-head
       - title: Logistics Head
@@ -88,7 +86,7 @@ departmentsSection:
   - title: Marketing
     cards: []
     description: |
-      Marketing department description
+      The Marketing Department nurtures the identity of UXSoc and ensures that the organization is well represented on all platforms through campaign strategies for content and promotional materials.
     positions:
       - title: AVP for Documentation
         link: /marketing/avp-documentation
@@ -98,7 +96,7 @@ departmentsSection:
   - title: Human Resources
     cards: []
     description: |
-      Human resources department description
+      Behind the success of every organization is a solid foundation of trust and sense of community. The Human Resources Department organizes projects and initiatives that create an environment where the members can explore, connect, and grow.
     positions:
       - title: AVP for Community Engagement
         link: /hr/avp-community-engagement
@@ -106,7 +104,7 @@ departmentsSection:
   - title: Finance
     cards: []
     description: |
-      Finance department description
+      Money makes the world go round. The Finance Department enables UXSoc's activities to happen by allocating and maximizing the organization’s funds to continue its mission of evangelizing user experience.
     positions:
       - title: AVP for Financial Management
         link: /finance/avp-financial-management
