@@ -68,6 +68,8 @@ departmentsSection:
         link: /ux/vp-ux-design
       - title: AVP for Design Training
         link: /ux/avp-design-training
+      - title: AVP for Design Mentorship
+        link: /ux/avp-design-mentorship
 # ====================================================================================================
   - title: Events
     cards: []
@@ -92,6 +94,8 @@ departmentsSection:
         link: /marketing/avp-documentation
       - title: AVP for Strategic Engagement
         link: /marketing/avp-strategic-engagement
+      - title: AVP for Branding
+        link: /marketing/avp-branding
 # ====================================================================================================
   - title: Human Resources
     cards: []
@@ -100,6 +104,10 @@ departmentsSection:
     positions:
       - title: AVP for Community Engagement
         link: /hr/avp-community-engagement
+      - title: AVP for Internal Management
+        link: /hr/avp-internal-management
+      - title: AVP for External Management
+        link: /hr/avp-external-management
 # ====================================================================================================
   - title: Finance
     cards: []
@@ -108,4 +116,25 @@ departmentsSection:
     positions:
       - title: AVP for Financial Management
         link: /finance/avp-financial-management
+# ====================================================================================================
+  - title: Consultancy
+    cards: []
+    description: |
+      The Consultancy Department handles all client-work for UXSoc. They are responsible for leading cross-functional teams of Product Designers, Developers, and UX Researchers while ensuring the success of a product that supports the business goals of an organization.
+    positions:
+      - title: AVP for Product Management
+        link: /consultancy/avp-product-management
+      - title: AVP for Client Relations
+        link: /consultancy/avp-client-relations
+  - title: Engineering
+    cards: []
+    description: |
+      The Engineering Department, led by the Vice President for Engineering, focuses on developing the website projects of UXS and its clients both in Front-End and Back-End Engineering. It is composed of the AVP for Front-End Engineering, AVP for Back-End Engineering, AVP for No-code Development, and their pool members.
+    positions:
+      - title: AVP for Frontend Engineering
+        link: /engineering/avp-frontend-engineering
+      - title: AVP for Backend Engineering
+        link: /engineering/avp-backend-engineeirng
+      - title: AVP for No-Code Development
+        link: /engineering/avp-nocode-development
 ---
