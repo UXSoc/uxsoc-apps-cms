@@ -9,16 +9,13 @@ seo:
     EB Pool. Experience leadership with UX Society and join now!
   siteTitle: Show Interest
 
-slug: /marketing/avp-branding
-title: "AVP for Branding"
+slug: /finance/avp-financial-management
+title: "AVP for Financial Management"
 description: >-
-    ### Description
+    #### Roles and Responsibilities
 
-
-    ### Responsibilities
-
-
-    ### Skills
+    
+    
 
 ---
 

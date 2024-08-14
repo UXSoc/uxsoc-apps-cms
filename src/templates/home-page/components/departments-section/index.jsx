@@ -17,13 +17,10 @@ const DepartmentsSection = ({
   const [state, setState] = useState(false)
 
   const renderDepartment = () => {
-    return departmentsSection.map((department, index) => {
-      if (state) {
-        forceUpdate()
-        setState(false)
-      }
-      if (tab === index) {
-        return (
+    var allDepartmentsSection = [] 
+    departmentsSection.map((department, index) => {
+      if (department.title != "All") {
+        allDepartmentsSection.push(
           <Department
             department={department}
             key={index}
@@ -34,11 +31,34 @@ const DepartmentsSection = ({
           />
         )
       }
+    });
+
+    return departmentsSection.map((department, index) => {
+      if (state) {
+        forceUpdate()
+        setState(false)
+      }
+      if (tab === index) {
+        if (department.title == "All")
+          return allDepartmentsSection;
+        else {
+          return (
+          <Department
+            department={department}
+            key={index}
+            defaultColor={defaultColor}
+            secondaryColor={secondaryColor}
+            footerColor={footerColor}
+            primaryColor={primaryColor}
+          />
+        )
+        }
+      }
     })
   }
 
   return (
-    <Container>
+    <Container className="mb-5">
       <Row>
         <Col sm={12} md={6}>
           <Header id="open-positions" footer={footerColor}>Open positions</Header>
