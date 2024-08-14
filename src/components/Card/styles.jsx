@@ -19,10 +19,10 @@ export const Title = styled.header`
   font-family: Proxima Nova, sans-serif;
   font-style: normal;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 36px;
   line-height: 30px;
   letter-spacing: 0.05em;
-  margin: 0;
+  margin: 5px;
   color: #4f4f4f;
 `
 

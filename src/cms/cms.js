@@ -1,5 +1,5 @@
 import React from 'react'
-import CMS, { init } from 'netlify-cms-app'
+import CMS, { init } from 'decap-cms-app'
 import CSSInjector from '../components/CSSInjector'
 import HomePagePreview from './preview-templates/HomePagePreview'
 import ApplyPagePreview from './preview-templates/ApplyPagePreview'
