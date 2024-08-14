@@ -12,7 +12,7 @@ const Navbar = ({ slug, header, primary }) => (
       <h1 className="header__item">{header.title}</h1>
     </div>
     {
-      header.buttonVisible ? <Link to={slug === "/" ? "/apply" : "/"}><div className="header__apply-link">{slug === "/" ? "Apply" : "Primer"}</div></Link> : null
+      header.buttonVisible ? <Link className="header__apply-link" to={slug === "/apply" ? "/" : "/apply"}>{slug === "/apply" ? "Primer" : "Apply"}</Link> : null
     }
   </div>
 )

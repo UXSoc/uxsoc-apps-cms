@@ -25,7 +25,7 @@ const CardSection = ({
             <CardTitleCustom color={primaryColor}>
               {cardSection.card1.title}
             </CardTitleCustom>
-            <CardBody color={primaryColor} dangerouslySetInnerHTML={{
+            <CardBody dangerouslySetInnerHTML={{
                 __html: remark()
                   .use(recommended)
                   .use(remarkHtml)
@@ -41,7 +41,7 @@ const CardSection = ({
             <CardTitleCustom color={primaryColor}>
               {cardSection.card2.title}
             </CardTitleCustom>
-            <CardBody color={primaryColor} dangerouslySetInnerHTML={{
+            <CardBody dangerouslySetInnerHTML={{
                 __html: remark()
                   .use(recommended)
                   .use(remarkHtml)
@@ -57,7 +57,7 @@ const CardSection = ({
             <CardTitleCustom color={primaryColor}>
               {cardSection.card3.title}
             </CardTitleCustom>
-            <CardBody color={primaryColor} dangerouslySetInnerHTML={{
+            <CardBody dangerouslySetInnerHTML={{
                 __html: remark()
                   .use(recommended)
                   .use(remarkHtml)
