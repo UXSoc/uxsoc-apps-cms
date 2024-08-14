@@ -51,10 +51,9 @@ cardSection:
 departmentsSection:
   - title: All
 # ====================================================================================================
-  - title: Admin
+  - title: Secretariat
     cards: []
     description: |
-      We're here to help you grow - whether you're into design, development, finance, or events and people management, you'll find a place in UXSoc!
     positions:
       - title: Secretary General
         link: /admin/secretary-general
