@@ -133,7 +133,7 @@ departmentsSection:
       - title: AVP for Frontend Engineering
         link: /engineering/avp-frontend-engineering
       - title: AVP for Backend Engineering
-        link: /engineering/avp-backend-engineeirng
+        link: /engineering/avp-backend-engineering
       - title: AVP for No-Code Development
         link: /engineering/avp-nocode-development
 ---
