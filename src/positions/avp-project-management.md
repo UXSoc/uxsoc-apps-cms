@@ -12,13 +12,23 @@ seo:
 slug: /events/avp-project-management
 title: "AVP for Project Management"
 description: >-
-    ### Description
+    #### Roles and Responsibilities
+
+    The AVP for Project Management is responsible for overseeing events and initiatives, including Flagship, Special, and Mentorship categories. This role involves managing workshops, seminars, and training sessions across all departments, as well as for their respective members. They should execute the following tasks:
 
 
-    ### Responsibilities
+    - Oversees and assigns Project Managers, Programs Head, Logistics, and Mentorship Project Managers
 
+    - Create and manage the Calendar of Events, ensuring proper scheduling and coordination with the Marketing Department
 
-    ### Skills
+    - Develop event goals, outline topics, and ensure content relevance and engagement.
+
+    - Update and manage directories of hosts and speakers in collaboration with HR and Externals (Admin).
+
+    - Design and update the project evaluation platform, and lead evaluation meetings.
+    
+    - Schedules the release of publication materials.
+
 
 ---
 

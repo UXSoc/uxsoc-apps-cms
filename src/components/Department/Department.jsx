@@ -21,7 +21,7 @@ const Department = ({
   footerColor,
   primaryColor,
 }) => (
-    <div>
+    <Container className="mb-5">
       <Header footer={footerColor}>{department.title}</Header>
       <p>{department.description}</p>
       {department.positions === null || department.positions === undefined ? null
@@ -39,7 +39,7 @@ const Department = ({
             </Container>
           </Card>
         ))}
-    </div>
+    </Container>
   )
 
 export default Department

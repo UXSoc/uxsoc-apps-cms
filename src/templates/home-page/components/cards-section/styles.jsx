@@ -1,9 +1,10 @@
 import styled from 'styled-components'
 
 export const CardBody = styled.div`
-	font-size: 20px;
+	font-size: 15px;
 	color: ${props => props.color};
 	margin-bottom: 10px;
+	line-height: 20px;
 	// margin-left: 15px;
 	// text-align: center;
 `
