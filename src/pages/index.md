@@ -15,304 +15,125 @@ headerSection:
   buttonVisible: true
   title: UX Society Applications
 heroSection:
-  description: "Hey there, UX-er! Ready to jumpstart your UX leadership career for **A.Y. 2024-2025**? Read through the primer and see which available position would fit you best. 👀 Interested? Don’t forget to apply!"
-  title: EXPERIENCE LEADERSHIP WITH UX SOCIETY
-  
+  description: "User Experience Society is a student-run organization that advocates and practices human-centered design. We combine this with a growth mindset, to create a strong mentorship culture that raises design leaders who are capable of creating positive change in the community."
+  title: Join UX Society
+
+cardSection:
+  card1:
+    title: Vision
+    description: >- 
+        UXS aims to be a community that nurtures the growth of its members, forges them to be responsible design leaders, and solves problems of society through user experience design.
+
+
+
+  card2:
+    title: Mission
+    description: >- 
+        - To advocate for design evangelization of user experience, especially for university students, and foster a global community of design leaders via chapter creations
+        
+
+        - To hone accessibility to responsible design education through facilitating projects and workshops, providing mentorship programs, and creating learning resources
+
+
+        - To provide real-world career experiences through client work that comes from the organization’s various services
+
+  card3:
+    title: Core Values
+    description: >- 
+        - Put People First is defined as giving others the platform to be part of the design process and creating meaningful experiences that go beyond the screen
+        
+
+        - Geared for Growth is defined as helping build foundations in UX techniques and theories through activities in community-building and product development
+
+
+        - Passionately Made is defined as seeing the world from the different views of all people to understand realities and solve problems
 
 departmentsSection:
+  - title: All
 # ====================================================================================================
-  - cardSectionTitle:  The Design Educator
+  - title: Secretariat
     cards: []
     description: |
-      The VP for UX Design is in charge of leading the UX education efforts through client projects and events.
-    
     positions:
-      - description: >
-          <p>He or she ensures that <strong>product design</strong> (with a focus on UX) <strong>is effectively taught throughout the organization</strong> by collaborating with different departments in <strong>executing design-related events</strong>, while also <strong>making sure that quality is executed in all digital products created for clients</strong>.It is recommended that the VP for UX Design has <strong>past experience not only in product design, but also profound knowledge in user research, visual design, and usability</strong>. The VP for UX Design must also have <strong>experience in mentorship and collaboration</strong>, and if possible, <strong>product management</strong>.The VP for UX Design works hand in hand with the VP for Consultancy in managing the UXDC team.</p>
-
-        title: Responsibilities
-    title: "💻 VP for UX Design"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      - title: Secretary General
+        link: /admin/secretary-general
 # ====================================================================================================
-  - cardSectionTitle: The Chief Organizer
+  - title: UX Design
     cards: []
     description: |
-      The SecGen is in charge of refining the documentation of the organizational meetings and processes. Also, the SecGen is the chief coordinator for all tasks of the executive board member. He or she ensures that the process and methodology of documentation is deliberate and well-facilitated for a quality output.
-    
+      The UX Design Department is the core of UXSoc that advocates the practice and education of user experience. The department handles the product design side of client projects from in and outside of Ateneo, as well as provide mentorship on the field of UX Design.
     positions:
-      - description: >
-          Some responsibilities/tasks include 
-            <strong> setting up important internal meetings while following respective agendas</strong>, 
-            <strong> creating an organized Google Drive</strong>
-          (or any other platform) available to the team, 
-            <strong> updating the Code of Internal Procedures</strong>, 
-          and 
-            <strong> refining the organizational constitution</strong>. 
-          The Secretary General also oversees the Associate Vice Presidents in their documentation and other refinements of department-specific needs and documentations
-          
-          <br><br>
-          It’s recommended that SecGen is detail-oriented, a team player, a facilitator, a critical listener, and passionately champions quality standards. Past experiences on quick and effective note-taking and facilitation is also recommended.
-
-        title: Responsibilities
-    title: "🗃 Secretary General"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      - title: VP for UX Design
+        link: /ux/vp-ux-design
+      - title: AVP for Design Training
+        link: /ux/avp-design-training
+      - title: AVP for Design Mentorship
+        link: /ux/avp-design-mentorship
 # ====================================================================================================
-# █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-# █░░░░░░░░░░░░░░█░░░░░░██░░░░░░█░░░░░░░░░░░░░░████░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░██████████░░░░░░█░░░░░░░░░░░░░░█
-# █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░████░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░░░░░░░░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
-# █░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░████░░▄▀░░░░░░▄▀░░█░░▄▀░░░░░░▄▀░░█░░▄▀░░░░░░░░░░█░░░░░░▄▀░░░░░░█░░░░▄▀░░░░█░░▄▀░░░░░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░█
-# █░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░████░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░█████████████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░██░░▄▀░░█░░▄▀░░█████████
-# █░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░████░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░█████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░█
-# █░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░████░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
-# █░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀░░█░░▄▀░░░░░░░░░░████░░▄▀░░░░░░░░░░█░░▄▀░░██░░▄▀░░█░░░░░░░░░░▄▀░░█████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░██░░▄▀░░█░░░░░░░░░░▄▀░░█
-# █░░▄▀░░██░░▄▀░░█░░▄▀▄▀░░▄▀▄▀░░█░░▄▀░░████████████░░▄▀░░█████████░░▄▀░░██░░▄▀░░█████████░░▄▀░░█████░░▄▀░░███████░░▄▀░░███░░▄▀░░██░░▄▀░░█░░▄▀░░██░░▄▀░░░░░░▄▀░░█████████░░▄▀░░█
-# █░░▄▀░░██░░▄▀░░█░░░░▄▀▄▀▄▀░░░░█░░▄▀░░████████████░░▄▀░░█████████░░▄▀░░░░░░▄▀░░█░░░░░░░░░░▄▀░░█████░░▄▀░░█████░░░░▄▀░░░░█░░▄▀░░░░░░▄▀░░█░░▄▀░░██░░▄▀▄▀▄▀▄▀▄▀░░█░░░░░░░░░░▄▀░░█
-# █░░▄▀░░██░░▄▀░░███░░░░▄▀░░░░███░░▄▀░░████████████░░▄▀░░█████████░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█████░░▄▀░░█████░░▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀░░██░░░░░░░░░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█
-# █░░░░░░██░░░░░░█████░░░░░░█████░░░░░░████████████░░░░░░█████████░░░░░░░░░░░░░░█░░░░░░░░░░░░░░█████░░░░░░█████░░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░██████████░░░░░░█░░░░░░░░░░░░░░█
-# █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-# ====================================================================================================
-
-
-# ====================================================================================================
-# █████████████████████████
-# █▄─▄▄─█▄─█─▄█─▄─▄─█─▄▄▄▄█
-# ██─▄█▀██▄▀▄████─███▄▄▄▄─█
-# ▀▄▄▄▄▄▀▀▀▄▀▀▀▀▄▄▄▀▀▄▄▄▄▄▀
-# ====================================================================================================
-  - cardSectionTitle: Events
+  - title: Events
     cards: []
     description: |
-      The AVP for Project Management is responsible for overseeing events and initiatives, such as the Flagship, Special, and Mentorship categories. This role involves managing workshops, seminars, and training sessions across all departments, as well as for their respective members.
-    
+      Being a designer does not happen overnight. The Events Department designs event experiences that nurture the growth of the members of UXSoc.
     positions:
-      - description: >
-          ### **Team**
-
-          - Project Manager, Programs, Logistics, Mentorship Project Manager
-
-          ### **Management**
-
-          - Core Team
-              - Evaluate and form a team of project managers, programs, logistics, and the rest of the core team with VP and other departments
-              - Manage and guide Project Managers and ProgLog, along with the rest of the core team
-          - Project Timeline
-              - Oversee Calendar of Events to ensure reasonable planning of dates across different events
-              - Coordinate with Marketing with schedules of publication materials
-              - Enhance Mentor-Mentee relationships (align schedules and create meetings and events)
-
-          ### **Learning and Training**
-
-          - Strategic Planning
-              - Strategically plan for event mission and vision, goals, and expected programs along with Vice President and Project Managers
-              - Outline relevant topics for talks, workshops, seminars, etc.
-              - Ensure participant engagement and content relevance and applicability
-              - Stay updated on the latest design and tech trends
-          - Directories
-              - Host Directory
-                  - Lists of officers or members that are willing to be a host
-                  - Includes: name, personality, schedules, preferred co-host
-                  - In collaboration with HR
-              - Speaker Directory
-                  - Lists of speakers that could be invited for workshops and talks
-                  - Can be used in future events
-                  - Create write-ups about the speakers
-                  - In collaboration with Externals (Admin)
-
-          ### **Project Evaluation**
-
-          - Design and update a centralized platform for project evaluations, while spearheading project and core team evaluation meetings and consultations.
-
-        title: Responsibilities
-    title: "🎉 AVP for Project Management"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      - title: AVP for Project Management
+        link: /events/avp-project-management
+      - title: Project Manager
+        link: /events/project-manager
+      - title: Programs Head
+        link: /events/programs-head
+      - title: Logistics Head
+        link: /events/logistics-head
 # ====================================================================================================
-  - cardSectionTitle: Events
+  - title: Marketing
     cards: []
-    description: >-
-      The Project Manager is responsible for overseeing and coordinating team tasks and event progress.
+    description: |
+      The Marketing Department nurtures the identity of UXSoc and ensures that the organization is well represented on all platforms through campaign strategies for content and promotional materials.
     positions:
-      - description: >-
-          - Oversee all of the members’ tasks and make sure each one is on track with all their responsibilities
-
-          - To set deadlines for each role and ensure that it is followed
-
-          - Will work closely with the AVPs from Events, Marketing, HR, and Finance and give weekly updates on the members and event progress
-
-          - In charge of preparing for potential risks
-
-          - In charge of communicating with other departments on what they need
-              - Includes creating meetings for these departments
-
-          - All around work—help members when they need something, communicate with other departments
-
-        title: Responsibilities
-    title: "🎉 Project Manager"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+      - title: AVP for Documentation
+        link: /marketing/avp-documentation
+      - title: AVP for Strategic Engagement
+        link: /marketing/avp-strategic-engagement
+      - title: AVP for Branding
+        link: /marketing/avp-branding
 # ====================================================================================================
-  # - cardSectionTitle: Events
-  #   cards: []
-  #   description: >-
-  #     The President is the highest ranking executive in the organization. They
-  #     are in charge of establishing the vision and mission for the organization
-  #     and making sure it can be translated to a portfolio of projects and events
-  #     during their term.
-  #   positions:
-  #     - description: >-
-  #         ### Team
-
-  #         - Programs Head, Logistics Head
-
-  #         ### Responsibilities
-
-  #         - Help Mentors-Mentees reserve venue for bonding
-  #         - Help Mentors align Program Flow
-
-  #       title: Responsibilities
-  #   title: "🎉 Mentorship Project Manager"
-  #   video: >-
-  #     <iframe width="560" height="315"
-  #     src="" title="YouTube video
-  #     player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  #     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# ====================================================================================================
-
-  - cardSectionTitle: Events
+  - title: Human Resources
     cards: []
-    description: >-
-      The Programs Head is responsible for ideation and content creation related to program planning and execution.
-
+    description: |
+      Behind the success of every organization is a solid foundation of trust and sense of community. The Human Resources Department organizes projects and initiatives that create an environment where the members can explore, connect, and grow.
     positions:
-      - description: >-
-           - In-charge of ideation and content creation with regards to program planning and flow
-
-           - To create programs and activities that are best suited for the venue and event
-
-           - Must be a creative thinker that can implement fresh and new ideas for the programs for each event
-
-           - In charge of handling the Program Flow of each Workshop
-
-           - In charge of Creating Icebreakers
-           
-           - Help In Creating the Module and Suggesting Content For These Workshops
-
-           - In Charge of Monitoring the chat and handling the Q&A (ex. Creating a Poll for most voted questions)
-
-        title: Responsibilities
-    title: "🎉 Programs Head"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+      - title: AVP for Community Engagement
+        link: /hr/avp-community-engagement
+      - title: AVP for Internal Management
+        link: /hr/avp-internal-management
+      - title: AVP for External Management
+        link: /hr/avp-external-management
 # ====================================================================================================
-# █████████████████████
-# █▄─▀█▀─▄█▄─█─▄█─▄─▄─█
-# ██─█▄█─███─▄▀████─███
-# ▀▄▄▄▀▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀
-# ====================================================================================================
-
-  - cardSectionTitle: Events
+  - title: Finance
     cards: []
-    description: >-
-      The Logistics Head is responsible for handling the technical and material needs for workshops.
-
+    description: |
+      Money makes the world go round. The Finance Department enables UXSoc's activities to happen by allocating and maximizing the organization’s funds to continue its mission of evangelizing user experience.
     positions:
-      - description: >-
-          - In Charge of Handling the Online Platform Needed to Hold the Workshop (ex. Zoom)
-
-          - Prepare Other Materials Needed For the Workshop (ex. Videos or powerpoints needed by other Departments for You To Present, Music While waiting for more participants)
-
-          - Must be prepared for potential risks (ex. Zoom link not working or zoom is lagging and you have to switch platforms)
-
-          - In charge of Creating Sign-ups and post evals for these Workshops and keeping track of registrations
-
-        title: Responsibilities
-    title: "🎉 Logistics Head"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+      - title: AVP for Financial Management
+        link: /finance/avp-financial-management
 # ====================================================================================================
-  - cardSectionTitle: Marketing
+  - title: Consultancy
     cards: []
-    description: >-
-      The AVP for Branding focuses on strengthening the brand and perception of the organization as well as its events and clients.
-    positions: 
-      - description: >-
-          - Creates and designs appealing posters and visual collaterals to grab the attention of audiences.
-          
-          - Oversees marketing campaigns and multimedia to be posted across print and online platforms to ensure that the organization is well represented and marketed.
-          
-          - Manages the organization’s online presence on social media such as Instagram where the portfolio is showcased.
-
-        title: Responsibilities
-    title: "🎨 AVP for Branding"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# ====================================================================================================
-  - cardSectionTitle: Marketing
-    cards: []
-    description: >-
-      The AVP for Strategic Engagement tracks the social media engagement of UXS social media platforms and creates engaging content to effectively advertise UXS initiatives.
+    description: |
+      The Consultancy Department handles all client-work for UXSoc. They are responsible for leading cross-functional teams of Product Designers, Developers, and UX Researchers while ensuring the success of a product that supports the business goals of an organization.
     positions:
-      - description: >-
-          - Oversees the management of the overall blast calendar across different platforms, for promotional materials across different events and initiatives.
-          
-          - Leverages on social media insights to make data-driven decisions for marketing strategies.
-          
-          - Ensures that the content and copies of promotional materials and captions are in line with the voice and brand guidelines of the organization.
-
-        title: Responsibilities
-    title: "🎨 AVP for Strategic Engagement"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# ====================================================================================================
-  - cardSectionTitle: Marketing
+      - title: AVP for Product Management
+        link: /consultancy/avp-product-management
+      - title: AVP for Client Relations
+        link: /consultancy/avp-client-relations
+  - title: Engineering
     cards: []
-    description: >-
-      The AVP of Documentations handles taking photos and videos of events made, they also keep all media well-organized and stored safely, and leads the team that manages this documentation.
+    description: |
+      The Engineering Department, led by the Vice President for Engineering, focuses on developing the website projects of UXS and its clients both in Front-End and Back-End Engineering. It is composed of the AVP for Front-End Engineering, AVP for Back-End Engineering, AVP for No-code Development, and their pool members.
     positions:
-      - description: >-
-          - Document organizational events and activities through photos and videos, ensuring high quality and relevance.
-          
-          - Create and maintain a comprehensive archive of all media content, ensuring proper labeling and long-term storage.
-
-          - Oversee and manage the documentation team, providing guidance and support to ensure effective and efficient media capturing and handling.
-
-        title: Responsibilities
-    title: "🎨 AVP for Documentations"
-    video: >-
-      <iframe width="560" height="315"
-      src="" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      - title: AVP for Frontend Engineering
+        link: /engineering/avp-frontend-engineering
+      - title: AVP for Backend Engineering
+        link: /engineering/avp-backend-engineeirng
+      - title: AVP for No-Code Development
+        link: /engineering/avp-nocode-development
 ---

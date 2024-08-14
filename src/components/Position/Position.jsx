@@ -4,7 +4,7 @@ import recommended from "remark-preset-lint-recommended"
 import remarkHtml from "remark-html"
 import { Title, DeptPosition, CardContainer } from "./styles"
 
-const Position = ({ title, description, primary, footer }) => (
+const Position = ({ title, description, primary, footer, children }) => (
   <CardContainer>
     <Title primary={primary}>{title}</Title>
     <DeptPosition
@@ -17,6 +17,7 @@ const Position = ({ title, description, primary, footer }) => (
           .toString(),
       }}
     />
+    { children }
   </CardContainer>
 )
 
