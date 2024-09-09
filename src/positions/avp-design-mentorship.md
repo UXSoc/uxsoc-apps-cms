@@ -11,6 +11,7 @@ seo:
 
 slug: /ux/avp-design-mentorship
 title: "AVP for Design Mentorship"
+department: ux
 description: >-
     #### Roles and Responsibilities
 

@@ -11,6 +11,7 @@ seo:
 
 slug: /marketing/avp-strategic-engagement
 title: "AVP for Strategic Engagement"
+department: marketing
 description: >-
     #### Roles and Responsibilities
 

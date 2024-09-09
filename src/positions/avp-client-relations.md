@@ -11,6 +11,7 @@ seo:
 
 slug: /consultancy/avp-client-relations
 title: "AVP for Client Relations"
+department: consultancy
 description: >-
     #### Roles and Responsibilities
 

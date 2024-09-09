@@ -11,6 +11,7 @@ seo:
 
 slug: /engineering/avp-backend-engineering
 title: "AVP for Backend Engineering"
+department: engineering
 description: >-
     #### Roles and Responsibilities
 

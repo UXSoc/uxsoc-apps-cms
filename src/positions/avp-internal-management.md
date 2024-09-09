@@ -11,6 +11,7 @@ seo:
 
 slug: /hr/avp-internal-management
 title: "AVP for Internal Management"
+department: hr
 description: >-
     #### Roles and Responsibilities
 
