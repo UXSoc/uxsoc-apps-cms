@@ -2,7 +2,7 @@
 templateKey: position-page
 backgroundColor: '#FFFEF5'
 primaryColor: '#3FB4FF '
-footerColor: '#FBDD8F '
+footerColor: '#B07E00 '
 seo:
   siteDescription: >-
     This is the official interest check platform of User Experience Society for
