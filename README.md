@@ -1,43 +1,38 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
- <img alt="UXSocAppsLogo" src="https://github.com/UXSoc/uxsoc-apps-cms/blob/master/src/assets/images/logo.png?raw=true" width="60" />
+ <img alt="Gatsby" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwc_3h_sLndVRwvl-PrDlNgyzytuhGtfTEM2Dq-_sRZ28ICywI" width="60" />
 </p>
 <h1 align="center">
-  UX Society Applications
+  Bell and Pedre E-Commerce Project
 </h1>
 
-User Experience Society is a student-run organization that advocates and practices human-centered design. We combine this with a growth mindset, to create a strong mentorship culture that raises design leaders who are capable of creating positive change in the community.
-
-This page helps educate potential applicants on the vision, mission, and core values of UX Society as well as give details about the roles and responsibilities of different deparments and member positions of the organization. 
+Bell and Pedre is a Filipino skincare startup owned by the enterprising duo, Marlon Pedregosa and Dr. Robert Bell, Ph.D., that offers products that contain biocompatible ingredients that are deemed safe and effective by the Food and Drug Administration and are always “freshly made” and thus more potent.
 
 ## 🚀 Quick start
 
-1. **Install 'yarn' & 'gatsby'**
+1.  **Install Project Dependencies**
 
-    Before you start, make sure you have npm installed. Using the commands below, install yarn and gatsby
-
-    ```sh
-    npm install --global yarn
-    npm install -g gatsby-cli
-    ```
-    
-2.  **Install Project Dependencies**
-
-    Don't forget to install the following dependencies using yarn with the following commands below.
+    Don't forget to install the following dependencies using the following commands below. (Preferrably use yarn)
 
     ```sh
+    # npm
+    npm install
+    # yarn
     yarn install
     ```
 
-3.  **Start developing.**
+2.  **Start developing.**
 
     Start the dev environment of the project by using this command
 
     ```sh
+    # npm
+    npm start:app
+    # yarn
     yarn start:app
     ```
 
-4.  **Open the source code and start editing!**
+3.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
