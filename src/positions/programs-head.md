@@ -11,6 +11,7 @@ seo:
 
 slug: /events/programs-head
 title: "Programs Head"
+department: events
 description: >-
     #### Roles and Responsibilities
 

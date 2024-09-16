@@ -11,6 +11,7 @@ seo:
 
 slug: /events/project-manager
 title: "Project Manager"
+department: events
 description: >-
     #### Roles and Responsibilities
 

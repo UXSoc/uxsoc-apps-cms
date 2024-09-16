@@ -11,6 +11,7 @@ seo:
 
 slug: /consultancy/avp-product-management
 title: "AVP for Product Management"
+department: consultancy
 description: >-
     #### Roles and Responsibilities
 

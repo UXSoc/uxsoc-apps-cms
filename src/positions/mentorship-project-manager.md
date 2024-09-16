@@ -11,6 +11,7 @@ seo:
 
 slug: /events/mentorship-project-manager
 title: "Mentorship Project Manager"
+department: events
 description: >-
     #### Roles and Responsibilities
 

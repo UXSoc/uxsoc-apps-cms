@@ -11,6 +11,7 @@ seo:
 
 slug: /hr/avp-community-engagement
 title: "AVP for Community Engagement"
+department: hr
 description: >-
     #### Roles and Responsibilities
 
