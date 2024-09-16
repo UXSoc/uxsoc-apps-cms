@@ -12,6 +12,7 @@ export default function PositionPageTemplate({data}) {
         backgroundColor,
         primaryColor,
         footerColor,
+        headingColor,
         title,
         description
     } = frontmatter
@@ -35,6 +36,7 @@ export default function PositionPageTemplate({data}) {
                             title={title}
                             description={description}
                             primary={primaryColor}
+                            headingColor={headingColor}
                             footer={footerColor}
                         />
                     </Container>
@@ -52,6 +54,7 @@ export const PositionPageQuery = graphql`
                 slug
                 backgroundColor
                 primaryColor
+                headingColor
                 footerColor
                 seo {
                     siteDescription

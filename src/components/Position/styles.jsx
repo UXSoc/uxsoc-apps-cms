@@ -1,9 +1,11 @@
 import styled from "styled-components"
 
 export const DeptPosition = styled.div`
-  & strong,
-  b {
+  & b {
     color: ${props => props.footer};
+  }
+  & strong {
+    color: ${props => props.headingColor};
   }
 
   & img {
@@ -34,7 +36,7 @@ export const CardContainer = styled.div`
 export const Title = styled.h2`
   line-height: 30px;
   letter-spacing: 0.05em;
-  color: ${props => props.primary};
+  color: ${props => props.headingColor};
   font-weight: bold;
   margin-top: 20px;
   margin-bottom: 20px;

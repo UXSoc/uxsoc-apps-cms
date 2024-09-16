@@ -4,11 +4,12 @@ import recommended from "remark-preset-lint-recommended"
 import remarkHtml from "remark-html"
 import { Title, DeptPosition, CardContainer } from "./styles"
 
-const Position = ({ title, description, primary, footer, children }) => (
+const Position = ({ title, description, primary, headingColor, footer, children }) => (
   <CardContainer>
-    <Title primary={primary}>{title}</Title>
+    <Title primary={primary} headingColor={headingColor}>{title}</Title>
     <DeptPosition
       footer={footer}
+      headingColor={headingColor}
       dangerouslySetInnerHTML={{
         __html: remark()
           .use(recommended)
