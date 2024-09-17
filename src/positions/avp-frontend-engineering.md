@@ -11,6 +11,7 @@ seo:
 
 slug: /engineering/avp-frontend-engineering
 title: "AVP for Frontend Engineering"
+department: engineering
 description: >-
     #### Roles and Responsibilities
 

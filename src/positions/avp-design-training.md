@@ -11,6 +11,7 @@ seo:
 
 slug: /ux/avp-design-training
 title: "AVP for Design Training"
+department: ux
 description: >-
     #### Roles and Responsibilities
 

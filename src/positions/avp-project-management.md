@@ -11,6 +11,7 @@ seo:
 
 slug: /events/avp-project-management
 title: "AVP for Project Management"
+department: events
 description: >-
     #### Roles and Responsibilities
 

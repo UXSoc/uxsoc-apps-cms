@@ -11,6 +11,7 @@ seo:
 
 slug: /marketing/avp-documentation
 title: "AVP for Documentation"
+department: marketing
 description: >-
     #### Roles and Responsibilities
 

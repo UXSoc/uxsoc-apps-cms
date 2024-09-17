@@ -11,6 +11,7 @@ seo:
 
 slug: /admin/secretary-general
 title: "Secretary General"
+department: admin
 description: >-
     #### Roles and Responsibilities
 

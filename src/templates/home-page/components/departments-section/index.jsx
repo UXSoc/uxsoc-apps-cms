@@ -18,7 +18,8 @@ const DepartmentsSection = ({
 
   const renderDepartment = () => {
     var allDepartmentsSection = [] 
-    departmentsSection.map((department, index) => {
+    departmentsSection.map((container, index) => {
+      var department = container.department;
       if (department.title != "All") {
         allDepartmentsSection.push(
           <Department
@@ -33,7 +34,8 @@ const DepartmentsSection = ({
       }
     });
 
-    return departmentsSection.map((department, index) => {
+    return departmentsSection.map((container, index) => {
+      var department = container.department;
       if (state) {
         forceUpdate()
         setState(false)
@@ -62,7 +64,7 @@ const DepartmentsSection = ({
       <Row>
         <Col sm={12} md={6}>
           <Header id="open-positions" footer={footerColor}>Open positions</Header>
-          {departmentsSection.map((department, index) => (
+          {departmentsSection.map((container, index) => (
             <Button
               primary={primaryColor}
               key={index}
@@ -72,7 +74,7 @@ const DepartmentsSection = ({
                 setTab(index)
               }}
             >
-              {department.title}
+              {container.department.title}
             </Button>
           ))}
         </Col>

@@ -11,6 +11,7 @@ seo:
 
 slug: /ux/vp-ux-design
 title: "VP for UX Design"
+department: ux
 description: >-
     #### Roles and Responsibilities
 

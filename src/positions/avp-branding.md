@@ -11,6 +11,7 @@ seo:
 
 slug: /marketing/avp-branding
 title: "AVP for Branding"
+department: marketing
 description: >-
     #### Roles and Responsibilities
 

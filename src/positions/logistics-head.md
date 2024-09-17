@@ -11,6 +11,7 @@ seo:
 
 slug: /events/logistics-head
 title: "Logistics Head"
+department: events
 description: >-
     #### Roles and Responsibilities
 

@@ -11,6 +11,7 @@ seo:
 
 slug: /finance/avp-financial-management
 title: "AVP for Financial Management"
+department: finance
 description: >-
     #### Roles and Responsibilities
 

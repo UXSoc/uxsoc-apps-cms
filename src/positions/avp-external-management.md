@@ -11,6 +11,7 @@ seo:
 
 slug: /hr/avp-external-management
 title: "AVP for External Management"
+department: hr
 description: >-
     #### Roles and Responsibilities
 

@@ -7,6 +7,9 @@ export const CardContainer = styled.div`
   border-radius: 4px;
   box-sizing: border-box;
   padding: 40px 45px;
+  @media (max-width: 768px) {
+    padding: 25px 16px;
+  }
   font-size: 14px;
   color: #747474;
   line-height: 30px;
