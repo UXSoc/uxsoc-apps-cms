@@ -2,7 +2,7 @@
 templateKey: position-page
 backgroundColor: '#FFFEF5'
 primaryColor: '#3FB4FF '
-footerColor: '#FBDD8F '
+footerColor: '#D51585'
 seo:
   siteDescription: >-
     This is the official interest check platform of User Experience Society for
@@ -11,6 +11,7 @@ seo:
 
 slug: /events/avp-project-management
 title: "AVP for Project Management"
+department: events
 description: >-
     #### Roles and Responsibilities
 

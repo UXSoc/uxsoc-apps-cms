@@ -103,7 +103,7 @@ export const HomePageQuery = graphql`
         }
         heroSection {
           title
-          description
+          description 
         }
         cardSection {
           card1 {
@@ -120,20 +120,19 @@ export const HomePageQuery = graphql`
           }
         }
         departmentsSection {
-          title
-          description
-          positions {
+          department {
+            name
             title
-            link
+            description
+            positions {
+              frontmatter {
+                title
+                slug
+              }
+            }
           }
         }
       }
     }
   }
 `
-
-// cardSectionTitle
-//           cards {
-//             title
-//             description
-//           }

@@ -62,3 +62,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+// add a field listing all positions in each department in the department section
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  createTypes(`
+    type MarkdownRemarkFrontmatterDepartmentsSectionDepartment {
+      positions: [MarkdownRemark] @link(by: "frontmatter.department", from: "name")
+    }
+  `);
+};

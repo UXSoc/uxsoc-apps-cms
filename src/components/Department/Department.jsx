@@ -30,10 +30,10 @@ const Department = ({
             <Container fluid>
               <Row>
                 <Col xs={8}>
-                  <CardTitle>{ position.title }</CardTitle>
+                  <CardTitle>{ position.frontmatter.title }</CardTitle>
                 </Col>
                 <Col xs={4}>
-                  <Link primary={primaryColor} href={ position.link }>Read more</Link>
+                  <Link primary={primaryColor} href={ position.frontmatter.slug }>Read more</Link>
                 </Col>
               </Row>
             </Container>

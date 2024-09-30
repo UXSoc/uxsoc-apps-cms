@@ -1,8 +1,8 @@
 ---
 templateKey: position-page
 backgroundColor: '#FFFEF5'
-primaryColor: '#3FB4FF '
-footerColor: '#FBDD8F '
+primaryColor: '#3FB4FF'
+footerColor: '#D51585'
 seo:
   siteDescription: >-
     This is the official interest check platform of User Experience Society for
@@ -11,6 +11,7 @@ seo:
 
 slug: /ux/vp-ux-design
 title: "VP for UX Design"
+department: ux
 description: >-
     #### Roles and Responsibilities
 
